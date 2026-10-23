@@ -1,0 +1,21 @@
+name: Daily job feed
+on:
+  schedule:
+    - cron: "0 7 * * 1-5"   # ~3 AM ET, before the Claude task runs at 3:45 AM ET
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  feed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: python job_feed.py --days 45 --out .
+      - run: |
+          git config user.name "job-feed-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add jobs_feed.json jobs_feed.md
+          git diff --cached --quiet || git commit -m "Update feed $(date -u +%F)"
+          git push
