@@ -1,21 +1,30 @@
 name: Daily job feed
 on:
   schedule:
-    - cron: "0 7 * * 1-5"   # ~3 AM ET, before the Claude task runs at 3:45 AM ET
+    # 05:17 UTC = 1:17 AM EDT / 12:17 AM EST. Off the top of the hour because GitHub
+    # often delays :00 schedules by hours; leaves a wide margin before the 3:45 AM ET Claude task.
+    - cron: "17 5 * * 1-5"
   workflow_dispatch: {}
 permissions:
   contents: write
+concurrency:
+  group: job-feed
+  cancel-in-progress: false
 jobs:
   feed:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with: { python-version: "3.12" }
       - run: python job_feed.py --days 45 --out .
-      - run: |
+      - name: Commit feed
+        run: |
           git config user.name "job-feed-bot"
           git config user.email "bot@users.noreply.github.com"
           git add jobs_feed.json jobs_feed.md
-          git diff --cached --quiet || git commit -m "Update feed $(date -u +%F)"
-          git push
+          git diff --cached --quiet && exit 0
+          git commit -m "Update feed $(TZ=America/New_York date +%F)"
+          # rebase onto anything pushed while this run was going, so the push isn't rejected
+          for i in 1 2 3; do git pull --rebase origin main && git push && exit 0; sleep 5; done
+          exit 1
