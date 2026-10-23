@@ -110,12 +110,14 @@ SENIOR_WORDS = re.compile(r"senior|\bsr\.?\b|staff|principal|\blead\b|manager|di
                           r"\bvp\b|intern(ship)?\b|co-?op\b|\bii\b|\biii\b|\biv\b|\b[2-5]\s*$", re.I)
 DEFENSE_WORDS = re.compile(r"security clearance|secret clearance|ts/sci|top secret|"
                            r"defense contractor|weapons?\b|munitions?|department of defense|"
-                           r"\bdod\b|hvac", re.I)
+                           r"\bdod\b|hvac|starshield|missile|national security space", re.I)
+NON_ENG_TITLE = re.compile(r"financ|sales|marketing|recruit|account(ing|ant)|legal|counsel|\bhr\b|people (ops|partner)|"
+                           r"procurement|buyer|part.?time|clinical|customer success|business development", re.I)
 ITAR_WORDS = re.compile(r"\bitar\b|export control|u\.?s\.? person", re.I)
 YEARS_REQ = re.compile(r"\b(\d{1,2})\s*\+?\s*(?:[-–]\s*\d{1,2}\s*)?(?:or more\s+)?years?"
                        r"(?:\s+of)?(?:\s+[\w/-]+){0,4}?\s+experience", re.I)
 METROS = [
-    ("NYC", r"new york|brooklyn|long island|glen cove|\bnyc\b|queens|manhattan|bronx|hoboken|"
+    ("NYC", r"(?<!, )new york|brooklyn|long island|glen cove|\bnyc\b|queens|manhattan|bronx|hoboken|"
             r"jersey city|newark|stony brook|farmingdale|hauppauge|melville|westchester|stamford"),
     ("Boston", r"boston|cambridge, ma|waltham|bedford, ma|wilmington, ma|somerville|watertown|"
                r"burlington, ma|lexington, ma|woburn|devens|billerica|marlborough|north reading|"
@@ -132,6 +134,7 @@ METROS = [
 ]
 METRO_ORDER = {m: i for i, (m, _) in enumerate(METROS)}
 LEVEL_ORDER = {"title": 0, "body": 1, "none": 2}
+MAX_NONE_IN_MD = 40  # keep the markdown short enough to read in one fetch
 
 
 def get(url):
@@ -202,7 +205,7 @@ def classify(job, stats):
     title_level = bool(LEVEL_WORDS.search(title))
     if SENIOR_WORDS.search(title) and not re.search(r"new.?grad|university grad|early.?career", title, re.I):
         stats["senior/intern title"] += 1; return None
-    if not TRACK_WORDS.search(title):
+    if not TRACK_WORDS.search(title) or NON_ENG_TITLE.search(title):
         stats["off-track title"] += 1; return None
     yrs = [int(y) for y in YEARS_REQ.findall(text)]
     years_required = min(yrs) if yrs else None
@@ -274,7 +277,8 @@ def main():
                 f"/{len(COMPANIES)} boards. Leads only - read each posting before using it.\n")
         for lv in LEVEL_ORDER:
             f.write(f"\n## {headings[lv]} ({len(by_level[lv])})\n\n")
-            for r in by_level[lv]:
+            shown = by_level[lv] if lv != "none" else by_level[lv][:MAX_NONE_IN_MD]
+            for r in shown:
                 extra = []
                 if r["years_required"] is not None:
                     extra.append(f"{r['years_required']}+ yrs")
@@ -284,6 +288,8 @@ def main():
                         f"{' | ' + ', '.join(extra) if extra else ''}\n  {r['url']}\n")
             if not by_level[lv]:
                 f.write("_none_\n")
+            elif len(shown) < len(by_level[lv]):
+                f.write(f"\n_{len(by_level[lv]) - len(shown)} more in jobs_feed.json (level_signal = none)._\n")
         f.write("\n## Diagnostics\n\n")
         f.write("Pipeline: " + " | ".join(f"{k}: {v}" for k, v in stats.items()) + "\n\n")
         f.write("Boards that failed (fix token or delete):\n")
