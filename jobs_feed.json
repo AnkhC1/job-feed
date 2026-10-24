@@ -338,20 +338,6 @@
     "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
   },
   {
-    "title": "Mechanical Engineer - New Grad (December 2026)",
-    "location": "Sunnyvale",
-    "url": "https://jobs.ashbyhq.com/applied/6e57a97e-62bb-46fb-92ec-dd12831fd6f9",
-    "pay": "$110K \u2013 $148K \u2022 Offers Equity",
-    "metro": "SF Bay",
-    "level_signal": "title",
-    "years_required": null,
-    "flags": [],
-    "company": "Applied Intuition",
-    "source": "Ashby",
-    "posted": "2026-09-09",
-    "snippet": "Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, mining and agriculture industries in three core areas: tools and infrastructure, operating systems, and autonomy. Eighteen of the top 20 global automakers, as well as the United States military and its allies, trust the company\u2019s solutions to deliver physical intelligence. Applie"
-  },
-  {
     "title": "Propulsion Engineer I - Hardware and Bus Systems",
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8039672003",
@@ -574,22 +560,6 @@
     "source": "Greenhouse",
     "posted": "2026-09-11",
     "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. SPACE SYSTEMS At Rocket Lab, we\u2019re not just launching rockets \u2014 we're building the future of space. Our Space Systems team builds everything from complete spacecraft, precision payloads to the components and subsystems that allow them to thrive in space, like solar "
-  },
-  {
-    "title": "New Graduate Engineer, Software (Starship)",
-    "location": "Hawthorne, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8743362002?gh_jid=8743362002",
-    "pay": "",
-    "metro": "LA",
-    "level_signal": "title",
-    "years_required": null,
-    "flags": [
-      "ITAR/US-person"
-    ],
-    "company": "SpaceX",
-    "source": "Greenhouse",
-    "posted": "2026-09-08",
-    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. NEW GRADUATE ENGINEER, SOFTWARE (STARSHIP) Our SpaceX team is working on the toughest and most audacious projects on our planet: making humanity multiplanetary. SpaceX's Starship spacecraft and Super Heavy rocket (collectively referred to as Starship) represent a fully reusable transportation system designed to carry "
   },
   {
     "title": "Electronics Manufacturing Engineer ",
@@ -828,22 +798,6 @@
     "source": "Ashby",
     "posted": "2026-09-09",
     "snippet": "Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from utility inspectors https://www.skydio.com/solutions/energy-and-utilities to first responders https://www.skydio.com/solutions/public-safety, soldiers in battlefield scenarios https://www.skydio.com/solutions/national"
-  },
-  {
-    "title": "Spacecraft Structures Analyst (Opto-Mechanical Focus)",
-    "location": "San Jose, CA",
-    "url": "https://job-boards.greenhouse.io/muonspace/jobs/5232946007",
-    "pay": "",
-    "metro": "SF Bay",
-    "level_signal": "body",
-    "years_required": null,
-    "flags": [
-      "ITAR/US-person"
-    ],
-    "company": "Muon Space",
-    "source": "Greenhouse",
-    "posted": "2026-09-08",
-    "snippet": "About the role Muon seeks an experienced and passionate spacecraft structural analyst to join our team. The ideal candidate has unwavering attention to detail and a total ownership mindset to help the team develop robust hardware which meets requirements on time. Being an early-stage startup with a small team, breadth is extremely important and we expect this person to go far beyond running finite element analyses. Ability to dive into structural test data, dynamics, inform risk vs. cost decisions, supplier interaction and everything else associated with the full lifecycle of a spacecraft and "
   },
   {
     "title": "Environmental Test Technician I, First Shift",
@@ -1138,6 +1092,1673 @@
     "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. SOFTWARE ENGINEER (STARLINK GROUND NETWORK) As a Software Engineer on the Ground Network team, you will own software systems that enable capacity planning for the next generation of Starlink\u2019s global ground infrastructure. This includes thousands of ground stations, points of presence, data centers, fiber, and associa"
   },
   {
+    "title": "Full Stack Software Engineering Intern",
+    "location": "New York City",
+    "url": "https://jobs.ashbyhq.com/gecko-robotics/01138338-ff3c-4982-8ba3-5401386bf082",
+    "pay": "$40 \u2013 $80 per hour",
+    "metro": "NYC",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027"
+    ],
+    "company": "Gecko Robotics",
+    "source": "Ashby",
+    "posted": "2026-09-16",
+    "snippet": "WHAT WE DO \n\nGecko Robotics is helping the world\u2019s most important organizations ensure the availability, reliability, and sustainability of critical infrastructure. Gecko's complete and connected solutions combine wall-climbing robots, industry-leading sensors, and an AI-powered data platform to provide customers\u00a0with a unique window into the current and future health of their physical assets. This enables real-time decision making to increase the efficiency and safety of operations, promote mission readiness, and protect the environment and civilization from the effects of infrastructure fail"
+  },
+  {
+    "title": "2027 Internship Software Engineer, Fleet Platform",
+    "location": "New York, NY",
+    "url": "https://jobs.ashbyhq.com/bedrock-robotics/8927dd7e-a48d-49a2-92eb-09ec059432f4",
+    "pay": "",
+    "metro": "NYC",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [],
+    "company": "Bedrock Robotics",
+    "source": "Ashby",
+    "posted": "2026-09-16",
+    "snippet": "JOIN THE TEAM BRINGING ADVANCED AUTONOMY TO THE BUILT WORLD\n\nAt Bedrock, we're moving AI out of the lab and into the real world. Our team includes veterans who helped launch Waymo, scaled Segment to a $3.2B acquisition, and grew Uber Freight to $5B in revenue. Today, we're deploying autonomous systems on heavy construction equipment across the country, improving safety on job sites and accelerating schedules on critical infrastructure projects.\n\nWe're not here debating the future of AI. We're deploying it in the real world. In just two years, we've raised $350M and achieved the first fully aut"
+  },
+  {
+    "title": "Manufacturing Test Software Intern (Winter/Spring 2027)",
+    "location": "Somerville, MA",
+    "url": "https://careers.formlabs.com/job/8256004/apply/?gh_jid=8256004",
+    "pay": "",
+    "metro": "Boston",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Winter 2026/Winter 2027"
+    ],
+    "company": "Formlabs",
+    "source": "Greenhouse",
+    "posted": "2026-10-22",
+    "snippet": "Do you want to change how the world creates? At Formlabs, we\u2019re building the tools that make it possible for anyone to bring their ideas to life, from cutting-edge products to life-saving medical devices. Our 3D printing technology powers innovation at more than 50,000 industry leaders worldwide, including Apple, Google, Tesla, New Balance, and NASA. Together, we\u2019re helping everyone design, prototype, and manufacture faster than ever before. We\u2019re a team of hands-on builders, engineers, and innovators reinventing how the world makes physical things. If you\u2019re ready to shape the future of fabri"
+  },
+  {
+    "title": "Hardware Systems Integration Intern (Summer 2027)",
+    "location": "Somerville, MA",
+    "url": "https://careers.formlabs.com/job/8212683/apply/?gh_jid=8212683",
+    "pay": "",
+    "metro": "Boston",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027"
+    ],
+    "company": "Formlabs",
+    "source": "Greenhouse",
+    "posted": "2026-10-14",
+    "snippet": "Do you want to change how the world creates? At Formlabs, we\u2019re building the tools that make it possible for anyone to bring their ideas to life, from cutting-edge products to life-saving medical devices. Our 3D printing technology powers innovation at more than 50,000 industry leaders worldwide, including Apple, Google, Tesla, New Balance, and NASA. Together, we\u2019re helping everyone design, prototype, and manufacture faster than ever before. We\u2019re a team of hands-on builders, engineers, and innovators reinventing how the world makes physical things. If you\u2019re ready to shape the future of fabri"
+  },
+  {
+    "title": "Mechanical Engineer, Robotics Hardware Intern",
+    "location": "Boston, MA",
+    "url": "https://jobs.lever.co/field-ai/5ae428f8-ac13-49b2-a244-fb97d31bfc79",
+    "pay": "$28-$63",
+    "metro": "Boston",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [],
+    "company": "Field AI",
+    "source": "Lever",
+    "posted": "2026-10-06",
+    "snippet": "Field AI is transforming how robots interact with the real world. We are building risk-aware, reliable, and field-ready AI systems that address the most complex challenges in robotics, unlocking the full potential of embodied intelligence. We go beyond typical data-driven approaches or pure transformer-based architectures, and are charting a new course, with already-globally-deployed solutions delivering real-world results and rapidly improving models through real-field applications.\n\u00a0\nHardware Team: The Hardware Team at Field AI develops perception and compute payloads that power autonomous r"
+  },
+  {
+    "title": "Hardware Test Engineering Intern (Winter/Spring 2027)",
+    "location": "Somerville, MA",
+    "url": "https://careers.formlabs.com/job/8196515/apply/?gh_jid=8196515",
+    "pay": "",
+    "metro": "Boston",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Winter 2027"
+    ],
+    "company": "Formlabs",
+    "source": "Greenhouse",
+    "posted": "2026-09-18",
+    "snippet": "Do you want to change how the world creates? At Formlabs, we\u2019re building the tools that make it possible for anyone to bring their ideas to life, from cutting-edge products to life-saving medical devices. Our 3D printing technology powers innovation at more than 50,000 industry leaders worldwide, including Apple, Google, Tesla, New Balance, and NASA. Together, we\u2019re helping everyone design, prototype, and manufacture faster than ever before. We\u2019re a team of hands-on builders, engineers, and innovators reinventing how the world makes physical things. If you\u2019re ready to shape the future of fabri"
+  },
+  {
+    "title": "Embedded Software Engineer Intern - Winter 2027",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/d79ccbaa-2901-4303-bd90-675db7802366",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Winter 2027"
+    ],
+    "company": "Skydio",
+    "source": "Ashby",
+    "posted": "2026-10-23",
+    "snippet": "Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from utility inspectors https://www.skydio.com/solutions/energy-and-utilities to first responders https://www.skydio.com/solutions/public-safety, soldiers in battlefield scenarios https://www.skydio.com/solutions/national"
+  },
+  {
+    "title": "Frontend Software Engineer Intern - Summer 2027",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027"
+    ],
+    "company": "Skydio",
+    "source": "Ashby",
+    "posted": "2026-10-22",
+    "snippet": "Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from utility inspectors https://www.skydio.com/solutions/energy-and-utilities to first responders https://www.skydio.com/solutions/public-safety, soldiers in battlefield scenarios https://www.skydio.com/solutions/national"
+  },
+  {
+    "title": "Hardware Test and Reliability Intern - Summer 2027",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/36d75e36-eeb2-4399-8887-37c4a5ff5800",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027"
+    ],
+    "company": "Skydio",
+    "source": "Ashby",
+    "posted": "2026-10-20",
+    "snippet": "Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from utility inspectors https://www.skydio.com/solutions/energy-and-utilities to first responders https://www.skydio.com/solutions/public-safety, soldiers in battlefield scenarios https://www.skydio.com/solutions/national"
+  },
+  {
+    "title": "Wireless Hardware Engineer Intern - Summer 2027",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/1ac972b1-8094-4765-8869-63e1c4d50dea",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027"
+    ],
+    "company": "Skydio",
+    "source": "Ashby",
+    "posted": "2026-10-20",
+    "snippet": "Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from utility inspectors https://www.skydio.com/solutions/energy-and-utilities to first responders https://www.skydio.com/solutions/public-safety, soldiers in battlefield scenarios https://www.skydio.com/solutions/national"
+  },
+  {
+    "title": "Mobile Software Engineer Intern - Summer 2027",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027"
+    ],
+    "company": "Skydio",
+    "source": "Ashby",
+    "posted": "2026-10-20",
+    "snippet": "Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from utility inspectors https://www.skydio.com/solutions/energy-and-utilities to first responders https://www.skydio.com/solutions/public-safety, soldiers in battlefield scenarios https://www.skydio.com/solutions/national"
+  },
+  {
+    "title": "Ground Software Engineering Intern (Summer 2027)",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/muonspace/jobs/5266679007",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027",
+      "ITAR/US-person"
+    ],
+    "company": "Muon Space",
+    "source": "Greenhouse",
+    "posted": "2026-10-15",
+    "snippet": "About the role Muon is seeking Ground Software Engineering Interns to help build the software that powers high-performance satellite constellations. The Software Engineering team at Muon is responsible for software on the spacecraft, at ground stations, in the cloud, and visualization and simulation. As an intern, you won't be on the sidelines, you can look forward to owning a project from start to finish which could involve enabling a new type of task for the spacecraft, simulating a new component, writing the software for a new piece of hardware, or deploying new algorithms for processing im"
+  },
+  {
+    "title": "Embedded Software Engineering Intern [Winter 2027]",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4722086006",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Winter 2027"
+    ],
+    "company": "Figure",
+    "source": "Greenhouse",
+    "posted": "2026-10-14",
+    "snippet": "Figure is an AI robotics company developing autonomous general-purpose humanoid robots. The goal of the company is to ship humanoid robots with human level intelligence. Its robots are engineered to perform a variety of tasks in the home and commercial markets. Figure is headquartered in San Jose, CA. We are looking for an Embedded Software Engineering Intern to join our Platform team. In summary, you will help build and improve the core software infrastructure that keeps our robot fleet running, with a focus on over-the-air (OTA) and firmware update systems that deliver software reliably and "
+  },
+  {
+    "title": "Manufacturing Software Engineer Intern - Winter 2027",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Winter 2027"
+    ],
+    "company": "Skydio",
+    "source": "Ashby",
+    "posted": "2026-10-14",
+    "snippet": "Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from utility inspectors https://www.skydio.com/solutions/energy-and-utilities to first responders https://www.skydio.com/solutions/public-safety, soldiers in battlefield scenarios https://www.skydio.com/solutions/national"
+  },
+  {
+    "title": "Spacecraft Test Engineering Intern (Summer 2027)",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/muonspace/jobs/5256288007",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027",
+      "ITAR/US-person"
+    ],
+    "company": "Muon Space",
+    "source": "Greenhouse",
+    "posted": "2026-10-13",
+    "snippet": "About the role Summer internships will range between the months of May and September depending on university schedules. Internship is full-time and on-site in San Jose, California. The Assembly, Integration and Test (AIT) team at Muon is responsible for validation of spacecraft hardware through unit acceptance testing as well as spacecraft level integration testing. As a Test Engineering Intern, you will support the design, setup, and execution of tests for spacecraft subsystems. You will collaborate with engineers and technicians to develop test procedures, analyze data, and help ensure our s"
+  },
+  {
+    "title": "Software Engineer Intern - Summer 2027",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027"
+    ],
+    "company": "Skydio",
+    "source": "Ashby",
+    "posted": "2026-10-13",
+    "snippet": "Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from utility inspectors https://www.skydio.com/solutions/energy-and-utilities to first responders https://www.skydio.com/solutions/public-safety, soldiers in battlefield scenarios https://www.skydio.com/solutions/national"
+  },
+  {
+    "title": "Firmware Engineer Intern (Summer 2027) ",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles/8020865003?gh_jid=8020865003",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027"
+    ],
+    "company": "Zipline",
+    "source": "Greenhouse",
+    "posted": "2026-10-09",
+    "snippet": "About Zipline Zipline is the world\u2019s largest and most experienced drone delivery service. We are on a mission to serve all humans equally by ensuring access to food, medicine and essential goods anytime, anywhere. We design, build, and operate the world\u2019s largest autonomous logistics system, delivering critical supplies quickly and reliably. Today, Zipline operates on four continents, makes a delivery somewhere in the world every 30 seconds, and has completed millions of deliveries to date, including blood, vaccines, medical supplies, food, and retail products. Our customers include the world\u2019"
+  },
+  {
+    "title": "Firmware Engineer Intern (Spring 2027) ",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles/8020863003?gh_jid=8020863003",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Spring 2027"
+    ],
+    "company": "Zipline",
+    "source": "Greenhouse",
+    "posted": "2026-10-09",
+    "snippet": "About Zipline Zipline is the world\u2019s largest and most experienced drone delivery service. We are on a mission to serve all humans equally by ensuring access to food, medicine and essential goods anytime, anywhere. We design, build, and operate the world\u2019s largest autonomous logistics system, delivering critical supplies quickly and reliably. Today, Zipline operates on four continents, makes a delivery somewhere in the world every 30 seconds, and has completed millions of deliveries to date, including blood, vaccines, medical supplies, food, and retail products. Our customers include the world\u2019"
+  },
+  {
+    "title": "Environmental Test Engineering Intern (Summer 2027)",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/muonspace/jobs/5256286007",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027",
+      "ITAR/US-person"
+    ],
+    "company": "Muon Space",
+    "source": "Greenhouse",
+    "posted": "2026-10-02",
+    "snippet": "About the role Summer internships will range between the months of May and September depending on university schedules. Internship is full-time and on-site in San Jose, California. The Assembly, Integration and Test (AIT) team at Muon is responsible for validating spacecraft hardware through unit acceptance testing as well as spacecraft-level integration and environmental testing. As an Environmental Test Engineering Intern, you will support the planning, setup, execution, and analysis of environmental tests used to validate spacecraft hardware against the extreme conditions of launch and spac"
+  },
+  {
+    "title": "Electrical Engineering Intern (Summer 2027)",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/muonspace/jobs/5255112007",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027",
+      "ITAR/US-person"
+    ],
+    "company": "Muon Space",
+    "source": "Greenhouse",
+    "posted": "2026-10-01",
+    "snippet": "About the role Summer internships will range between the months of May and September depending on university schedules. Internship is full-time and on-site in San Jose, CA. The Electrical Engineering team at Muon is responsible for all electronics on the spacecraft, ranging from the batteries to the flight computer and even our own payloads! Interns can look forward to owning a project from start to finish which could involve developing a new test for our production avionics or designing a PCBA for a new capability. Come work with the team and help design the future electronics for our Spacecr"
+  },
+  {
+    "title": "Automation & Controls Engineering Intern (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4718206006",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027"
+    ],
+    "company": "Astranis",
+    "source": "Greenhouse",
+    "posted": "2026-09-30",
+    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
+  },
+  {
+    "title": "Automation & Controls Engineering Intern (Winter 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4718203006",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Winter 2027"
+    ],
+    "company": "Astranis",
+    "source": "Greenhouse",
+    "posted": "2026-09-30",
+    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
+  },
+  {
+    "title": "RF Hardware Intern (Winter 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4708417006",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Winter 2027"
+    ],
+    "company": "Astranis",
+    "source": "Greenhouse",
+    "posted": "2026-09-30",
+    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
+  },
+  {
+    "title": "RF Hardware Intern (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4708436006",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027"
+    ],
+    "company": "Astranis",
+    "source": "Greenhouse",
+    "posted": "2026-09-30",
+    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
+  },
+  {
+    "title": "Flight Software Engineering Intern (Summer 2027)",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/muonspace/jobs/5247725007",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027",
+      "ITAR/US-person"
+    ],
+    "company": "Muon Space",
+    "source": "Greenhouse",
+    "posted": "2026-09-30",
+    "snippet": "About the role Summer internships will range between the months of May and September depending on university schedules. Internship is full-time and on-site in Mountain View or San Jose, CA. The Software Engineering team at Muon is responsible for software on the spacecraft, at ground stations, in the cloud and for local tools, visualization and simulation. Interns can look forward to owning a project from start to finish which could involve enabling a new type of task for the spacecraft, simulating a new component, writing the software for a new piece of hardware, or deploying new algorithms f"
+  },
+  {
+    "title": "Zip Motion Planning Intern (Summer 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles/7992001003?gh_jid=7992001003",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027"
+    ],
+    "company": "Zipline",
+    "source": "Greenhouse",
+    "posted": "2026-09-30",
+    "snippet": "About Zipline Zipline is the world\u2019s largest and most experienced drone delivery service. We are on a mission to serve all humans equally by ensuring access to food, medicine and essential goods anytime, anywhere. We design, build, and operate the world\u2019s largest autonomous logistics system, delivering critical supplies quickly and reliably. Today, Zipline operates on four continents, makes a delivery somewhere in the world every 30 seconds, and has completed millions of deliveries to date, including blood, vaccines, medical supplies, food, and retail products. Our customers include the world\u2019"
+  },
+  {
+    "title": "GNC Software Engineering Intern (Summer 2027)",
+    "location": "Mountain View, CA",
+    "url": "https://job-boards.greenhouse.io/muonspace/jobs/5252680007",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027",
+      "ITAR/US-person"
+    ],
+    "company": "Muon Space",
+    "source": "Greenhouse",
+    "posted": "2026-09-29",
+    "snippet": "About the role Summer internships will range between the months of May and September depending on university schedules. Internship is full-time and on-site in Mountain View, CA. The Guidance, Navigation, and Control (GNC) Engineering team at Muon is responsible for all GNC on the spacecraft, ranging from sensor and actuator selection to system-level pointing analysis and even writing GNC flight software! Software-focused interns can look forward to owning a project from start to finish which could involve performance analysis, creation of new spacecraft operations tools, or even developing new"
+  },
+  {
+    "title": "GNC Hardware Engineering Intern (Summer 2027)",
+    "location": "Mountain View, CA",
+    "url": "https://job-boards.greenhouse.io/muonspace/jobs/5252677007",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027",
+      "ITAR/US-person"
+    ],
+    "company": "Muon Space",
+    "source": "Greenhouse",
+    "posted": "2026-09-29",
+    "snippet": "About the role Summer internships will range between the months of May and September depending on university schedules. Internship is full-time and on-site in Mountain View, CA. The Guidance, Navigation, and Control (GNC) Engineering team at Muon is responsible for all GNC on the spacecraft, ranging from sensor and actuator selection to system-level pointing analysis and even writing GNC flight software! Hardware-focused interns can look forward to owning a project from start to finish which will involve developing a new testing capability for a GNC component. Come work with the team and help "
+  },
+  {
+    "title": "2027 Summer Intern, BS, Depot Automation",
+    "location": "San Francisco, California",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8234553",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [],
+    "company": "Waymo",
+    "source": "Greenhouse",
+    "posted": "2026-09-28",
+    "snippet": "Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver\u2014The World's Most Experienced Driver\u2122\u2014to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo\u2019s fully autonomous ride-hail service and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over ten million rider-only trips, enabled by its experience autonomously drivi"
+  },
+  {
+    "title": "Electrical Integration Intern - Avionics (Winter 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704826006",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Winter 2027"
+    ],
+    "company": "Astranis",
+    "source": "Greenhouse",
+    "posted": "2026-09-25",
+    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
+  },
+  {
+    "title": "2027 Internship State Estimation, Learned Mapping & Semantic SLAM",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/bedrock-robotics/8c7bad61-50e3-4702-be36-72e9b72a9760",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [],
+    "company": "Bedrock Robotics",
+    "source": "Ashby",
+    "posted": "2026-09-25",
+    "snippet": "JOIN THE TEAM BRINGING ADVANCED AUTONOMY TO THE BUILT WORLD\n\nAt Bedrock, we're moving AI out of the lab and into the real world. Our team includes veterans who helped launch Waymo, scaled Segment to a $3.2B acquisition, and grew Uber Freight to $5B in revenue. Today, we're deploying autonomous systems on heavy construction equipment across the country, improving safety on job sites and accelerating schedules on critical infrastructure projects.\n\nWe're not here debating the future of AI. We're deploying it in the real world. In just two years, we've raised $350M and achieved the first fully aut"
+  },
+  {
+    "title": "Field Systems Engineer Intern (Spring 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles/8004729003?gh_jid=8004729003",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Spring 2027"
+    ],
+    "company": "Zipline",
+    "source": "Greenhouse",
+    "posted": "2026-09-25",
+    "snippet": "About Zipline Zipline is the world\u2019s largest and most experienced drone delivery service. We are on a mission to serve all humans equally by ensuring access to food, medicine and essential goods anytime, anywhere. We design, build, and operate the world\u2019s largest autonomous logistics system, delivering critical supplies quickly and reliably. Today, Zipline operates on four continents, makes a delivery somewhere in the world every 30 seconds, and has completed millions of deliveries to date, including blood, vaccines, medical supplies, food, and retail products. Our customers include the world\u2019"
+  },
+  {
+    "title": "Software Developer, Network Software Intern (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705597006",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027"
+    ],
+    "company": "Astranis",
+    "source": "Greenhouse",
+    "posted": "2026-09-24",
+    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
+  },
+  {
+    "title": "Software Developer, Network Software Intern (Winter 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705599006",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Winter 2027"
+    ],
+    "company": "Astranis",
+    "source": "Greenhouse",
+    "posted": "2026-09-24",
+    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
+  },
+  {
+    "title": "Electrical Integration Intern - RF (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4715788006",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027"
+    ],
+    "company": "Astranis",
+    "source": "Greenhouse",
+    "posted": "2026-09-24",
+    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
+  },
+  {
+    "title": "Software Defined Radio Hardware Intern (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4716088006",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027"
+    ],
+    "company": "Astranis",
+    "source": "Greenhouse",
+    "posted": "2026-09-23",
+    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
+  },
+  {
+    "title": "Software Defined Radio Hardware Intern (Winter 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4716087006",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Winter 2027"
+    ],
+    "company": "Astranis",
+    "source": "Greenhouse",
+    "posted": "2026-09-23",
+    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
+  },
+  {
+    "title": "Propulsion Engineer Intern (Winter 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4713183006",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Winter 2027"
+    ],
+    "company": "Astranis",
+    "source": "Greenhouse",
+    "posted": "2026-09-23",
+    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
+  },
+  {
+    "title": "Propulsion Engineer Intern (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4713184006",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027"
+    ],
+    "company": "Astranis",
+    "source": "Greenhouse",
+    "posted": "2026-09-23",
+    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
+  },
+  {
+    "title": "Droid Autonomy Intern (Summer 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles/8002829003?gh_jid=8002829003",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027"
+    ],
+    "company": "Zipline",
+    "source": "Greenhouse",
+    "posted": "2026-09-23",
+    "snippet": "About Zipline Zipline is the world\u2019s largest and most experienced drone delivery service. We are on a mission to serve all humans equally by ensuring access to food, medicine and essential goods anytime, anywhere. We design, build, and operate the world\u2019s largest autonomous logistics system, delivering critical supplies quickly and reliably. Today, Zipline operates on four continents, makes a delivery somewhere in the world every 30 seconds, and has completed millions of deliveries to date, including blood, vaccines, medical supplies, food, and retail products. Our customers include the world\u2019"
+  },
+  {
+    "title": "Electrical Reliability Intern (Winter 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704782006",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Winter 2027"
+    ],
+    "company": "Astranis",
+    "source": "Greenhouse",
+    "posted": "2026-09-22",
+    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
+  },
+  {
+    "title": "Electrical Reliability Intern (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704784006",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027"
+    ],
+    "company": "Astranis",
+    "source": "Greenhouse",
+    "posted": "2026-09-22",
+    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
+  },
+  {
+    "title": "Avionics Intern (Winter 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4706025006",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Winter 2027"
+    ],
+    "company": "Astranis",
+    "source": "Greenhouse",
+    "posted": "2026-09-22",
+    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
+  },
+  {
+    "title": "Avionics Intern (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4706024006",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027"
+    ],
+    "company": "Astranis",
+    "source": "Greenhouse",
+    "posted": "2026-09-22",
+    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
+  },
+  {
+    "title": "Propulsion Test Intern (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705640006",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027"
+    ],
+    "company": "Astranis",
+    "source": "Greenhouse",
+    "posted": "2026-09-22",
+    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
+  },
+  {
+    "title": "Flight Software Intern (Winter 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704595006",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Winter 2027"
+    ],
+    "company": "Astranis",
+    "source": "Greenhouse",
+    "posted": "2026-09-22",
+    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
+  },
+  {
+    "title": "Flight Software Intern (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704598006",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027"
+    ],
+    "company": "Astranis",
+    "source": "Greenhouse",
+    "posted": "2026-09-22",
+    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
+  },
+  {
+    "title": "Guidance, Navigation, and Control Intern (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705172006",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027"
+    ],
+    "company": "Astranis",
+    "source": "Greenhouse",
+    "posted": "2026-09-22",
+    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
+  },
+  {
+    "title": "Software Engineer - Enterprise Systems Intern (Summer 2027)",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705610006",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027"
+    ],
+    "company": "Astranis",
+    "source": "Greenhouse",
+    "posted": "2026-09-22",
+    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
+  },
+  {
+    "title": "Software Engineer Backend Intern (Summer 2027)",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705214006",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027"
+    ],
+    "company": "Astranis",
+    "source": "Greenhouse",
+    "posted": "2026-09-22",
+    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
+  },
+  {
+    "title": "Hardware Test Intern (Winter 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4707012006",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Winter 2027"
+    ],
+    "company": "Astranis",
+    "source": "Greenhouse",
+    "posted": "2026-09-22",
+    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
+  },
+  {
+    "title": "Assembly, Integration, and Test Intern (Winter 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704759006",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Winter 2027"
+    ],
+    "company": "Astranis",
+    "source": "Greenhouse",
+    "posted": "2026-09-21",
+    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
+  },
+  {
+    "title": "Assembly, Integration, and Test Intern (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704761006",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027"
+    ],
+    "company": "Astranis",
+    "source": "Greenhouse",
+    "posted": "2026-09-21",
+    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
+  },
+  {
+    "title": "Flight Test Engineer Intern (Summer 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles/7999924003?gh_jid=7999924003",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027"
+    ],
+    "company": "Zipline",
+    "source": "Greenhouse",
+    "posted": "2026-09-21",
+    "snippet": "About Zipline Zipline is the world\u2019s largest and most experienced drone delivery service. We are on a mission to serve all humans equally by ensuring access to food, medicine and essential goods anytime, anywhere. We design, build, and operate the world\u2019s largest autonomous logistics system, delivering critical supplies quickly and reliably. Today, Zipline operates on four continents, makes a delivery somewhere in the world every 30 seconds, and has completed millions of deliveries to date, including blood, vaccines, medical supplies, food, and retail products. Our customers include the world\u2019"
+  },
+  {
+    "title": "Flight Test Engineer Intern (Spring 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles/7999929003?gh_jid=7999929003",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Spring 2027"
+    ],
+    "company": "Zipline",
+    "source": "Greenhouse",
+    "posted": "2026-09-21",
+    "snippet": "About Zipline Zipline is the world\u2019s largest and most experienced drone delivery service. We are on a mission to serve all humans equally by ensuring access to food, medicine and essential goods anytime, anywhere. We design, build, and operate the world\u2019s largest autonomous logistics system, delivering critical supplies quickly and reliably. Today, Zipline operates on four continents, makes a delivery somewhere in the world every 30 seconds, and has completed millions of deliveries to date, including blood, vaccines, medical supplies, food, and retail products. Our customers include the world\u2019"
+  },
+  {
+    "title": "Harness Manufacturing Intern (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705255006",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027"
+    ],
+    "company": "Astranis",
+    "source": "Greenhouse",
+    "posted": "2026-09-18",
+    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
+  },
+  {
+    "title": "Environmental Test Engineer Intern (Winter 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705652006",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Winter 2027"
+    ],
+    "company": "Astranis",
+    "source": "Greenhouse",
+    "posted": "2026-09-18",
+    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
+  },
+  {
+    "title": "Propulsion Manufacturing Intern (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705648006",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027"
+    ],
+    "company": "Astranis",
+    "source": "Greenhouse",
+    "posted": "2026-09-18",
+    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
+  },
+  {
+    "title": "Propulsion Manufacturing Intern (Winter 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705649006",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Winter 2027"
+    ],
+    "company": "Astranis",
+    "source": "Greenhouse",
+    "posted": "2026-09-18",
+    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
+  },
+  {
+    "title": "2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech",
+    "location": "San Francisco, California",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8203200",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [],
+    "company": "Waymo",
+    "source": "Greenhouse",
+    "posted": "2026-09-16",
+    "snippet": "Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver\u2014The World's Most Experienced Driver\u2122\u2014to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo\u2019s fully autonomous ride-hail service and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over ten million rider-only trips, enabled by its experience autonomously drivi"
+  },
+  {
+    "title": "Mechatronics Intern",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/physicalintelligence/0bcf909e-b38b-4276-91a1-e55c4c56a33a",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [],
+    "company": "Physical Intelligence",
+    "source": "Ashby",
+    "posted": "2026-09-17",
+    "snippet": "Fundamentally, a builder. Someone who loves to make robots real. We want someone who\u2019s as comfortable debugging a CAN bus issue as they are machining a bracket \u2014 an individual who thinks in systems, and who gets excited by tight integration between mechanical, electrical, and embedded design. You\u2019ll join the core Hardware Engineering team at Physical Intelligence who is supporting the robots that power PI\u2019s data collection and model training operations.\n\nThe Team\n\nThe core Hardware Engineering team designs and builds the robotic arms, mobile platforms, and end-effectors that underpin PI\u2019s data"
+  },
+  {
+    "title": "Electrical Project Engineer Intern (Summer 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles/7980932003?gh_jid=7980932003",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027"
+    ],
+    "company": "Zipline",
+    "source": "Greenhouse",
+    "posted": "2026-09-15",
+    "snippet": "About Zipline Zipline is the world\u2019s largest and most experienced drone delivery service. We are on a mission to serve all humans equally by ensuring access to food, medicine and essential goods anytime, anywhere. We design, build, and operate the world\u2019s largest autonomous logistics system, delivering critical supplies quickly and reliably. Today, Zipline operates on four continents, makes a delivery somewhere in the world every 30 seconds, and has completed millions of deliveries to date, including blood, vaccines, medical supplies, food, and retail products. Our customers include the world\u2019"
+  },
+  {
+    "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
+    "location": "Mountain View, California, United States; San Francisco, California, United States",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [],
+    "company": "Waymo",
+    "source": "Greenhouse",
+    "posted": "2026-09-14",
+    "snippet": "Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver\u2014The World's Most Experienced Driver\u2122\u2014to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo\u2019s fully autonomous ride-hail service and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over ten million rider-only trips, enabled by its experience autonomously drivi"
+  },
+  {
+    "title": "2027 Internship Hardware Engineer, Machine Integration & Test",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/bedrock-robotics/c9c08251-6a42-4f9c-be4d-2621995cc8f9",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [],
+    "company": "Bedrock Robotics",
+    "source": "Ashby",
+    "posted": "2026-09-14",
+    "snippet": "JOIN THE TEAM BRINGING ADVANCED AUTONOMY TO THE BUILT WORLD\n\nAt Bedrock, we're moving AI out of the lab and into the real world. Our team includes veterans who helped launch Waymo, scaled Segment to a $3.2B acquisition, and grew Uber Freight to $5B in revenue. Today, we're deploying autonomous systems on heavy construction equipment across the country, improving safety on job sites and accelerating schedules on critical infrastructure projects.\n\nWe're not here debating the future of AI. We're deploying it in the real world. In just two years, we've raised $350M and achieved the first fully aut"
+  },
+  {
+    "title": "2027 Internship Hardware Engineer",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/bedrock-robotics/949feb1b-c60f-43c5-94de-7dd9cd70ba4a",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [],
+    "company": "Bedrock Robotics",
+    "source": "Ashby",
+    "posted": "2026-09-10",
+    "snippet": "JOIN THE TEAM BRINGING ADVANCED AUTONOMY TO THE BUILT WORLD\n\nAt Bedrock, we're moving AI out of the lab and into the real world. Our team includes veterans who helped launch Waymo, scaled Segment to a $3.2B acquisition, and grew Uber Freight to $5B in revenue. Today, we're deploying autonomous systems on heavy construction equipment across the country, improving safety on job sites and accelerating schedules on critical infrastructure projects.\n\nWe're not here debating the future of AI. We're deploying it in the real world. In just two years, we've raised $350M and achieved the first fully aut"
+  },
+  {
+    "title": "2027 Internship Sensor Systems Engineer",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/bedrock-robotics/d7da851b-55c2-45d4-bf8b-aa879282f25c",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [],
+    "company": "Bedrock Robotics",
+    "source": "Ashby",
+    "posted": "2026-09-10",
+    "snippet": "JOIN THE TEAM BRINGING ADVANCED AUTONOMY TO THE BUILT WORLD\n\nAt Bedrock, we're moving AI out of the lab and into the real world. Our team includes veterans who helped launch Waymo, scaled Segment to a $3.2B acquisition, and grew Uber Freight to $5B in revenue. Today, we're deploying autonomous systems on heavy construction equipment across the country, improving safety on job sites and accelerating schedules on critical infrastructure projects.\n\nWe're not here debating the future of AI. We're deploying it in the real world. In just two years, we've raised $350M and achieved the first fully aut"
+  },
+  {
+    "title": "2027 Internship Validation & Verification Test Engineer ",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/bedrock-robotics/c396dedc-06ec-4a23-8408-0194e360f30e",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [],
+    "company": "Bedrock Robotics",
+    "source": "Ashby",
+    "posted": "2026-09-10",
+    "snippet": "JOIN THE TEAM BRINGING ADVANCED AUTONOMY TO THE BUILT WORLD\n\nAt Bedrock, we're moving AI out of the lab and into the real world. Our team includes veterans who helped launch Waymo, scaled Segment to a $3.2B acquisition, and grew Uber Freight to $5B in revenue. Today, we're deploying autonomous systems on heavy construction equipment across the country, improving safety on job sites and accelerating schedules on critical infrastructure projects.\n\nWe're not here debating the future of AI. We're deploying it in the real world. In just two years, we've raised $350M and achieved the first fully aut"
+  },
+  {
+    "title": "2027 Internship Sensor Hardware Test Engineer",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/bedrock-robotics/1f413f83-b897-4938-a19e-ab91bd326c51",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [],
+    "company": "Bedrock Robotics",
+    "source": "Ashby",
+    "posted": "2026-09-10",
+    "snippet": "JOIN THE TEAM BRINGING ADVANCED AUTONOMY TO THE BUILT WORLD\n\nAt Bedrock, we're moving AI out of the lab and into the real world. Our team includes veterans who helped launch Waymo, scaled Segment to a $3.2B acquisition, and grew Uber Freight to $5B in revenue. Today, we're deploying autonomous systems on heavy construction equipment across the country, improving safety on job sites and accelerating schedules on critical infrastructure projects.\n\nWe're not here debating the future of AI. We're deploying it in the real world. In just two years, we've raised $350M and achieved the first fully aut"
+  },
+  {
+    "title": "Summer 2027 Internship- Software Engineering ",
+    "location": "San Leandro, CA/Fremont, CA or Los Lunas, NM",
+    "url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027",
+      "ITAR/US-person"
+    ],
+    "company": "Pacific Fusion",
+    "source": "Greenhouse",
+    "posted": "2026-09-09",
+    "snippet": "About Pacific Fusion Pacific Fusion was founded in 2023 with the mission to power the world with abundant, affordable, clean energy. We are rapidly designing and building a pulser-driven inertial fusion system to achieve net facility gain (more fusion energy output than stored energy input). In parallel, we are developing the key components required to build affordable fusion systems. Our plans are ambitious. We have raised over $900M so far from incredible investors, resourcing us to deliver on these plans. We are bringing together the best scientists, engineers, and operators from the fusion"
+  },
+  {
+    "title": "Summer 2027 Internship - Electrical Engineering",
+    "location": "San Leandro, CA/ Fremont, CA or Los Lunas, NM",
+    "url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398021009",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027",
+      "ITAR/US-person"
+    ],
+    "company": "Pacific Fusion",
+    "source": "Greenhouse",
+    "posted": "2026-09-09",
+    "snippet": "About Pacific Fusion Pacific Fusion was founded in 2023 with the mission to power the world with abundant, affordable, clean energy. We are rapidly designing and building a pulser-driven inertial fusion system to achieve net facility gain (more fusion energy output than stored energy input). In parallel, we are developing the key components required to build affordable fusion systems. Our plans are ambitious. We have raised over $900M so far from incredible investors, resourcing us to deliver on these plans. We are bringing together the best scientists, engineers, and operators from the fusion"
+  },
+  {
+    "title": "Summer 2027 Internship- Mechanical Engineering",
+    "location": "San Leandro, CA/Fremont, CA or Los Lunas, NM",
+    "url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398312009",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027",
+      "ITAR/US-person"
+    ],
+    "company": "Pacific Fusion",
+    "source": "Greenhouse",
+    "posted": "2026-09-09",
+    "snippet": "About Pacific Fusion Pacific Fusion was founded in 2023 with the mission to power the world with abundant, affordable, clean energy. We are rapidly designing and building a pulser-driven inertial fusion system to achieve net facility gain (more fusion energy output than stored energy input). In parallel, we are developing the key components required to build affordable fusion systems. Our plans are ambitious. We have raised over $900M so far from incredible investors, resourcing us to deliver on these plans. We are bringing together the best scientists, engineers, and operators from the fusion"
+  },
+  {
+    "title": "Summer 2027 Internship-Manufacturing Engineering",
+    "location": "San Leandro, CA - Fremont, CA - Los Lunas, NM",
+    "url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398388009",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027",
+      "ITAR/US-person"
+    ],
+    "company": "Pacific Fusion",
+    "source": "Greenhouse",
+    "posted": "2026-09-09",
+    "snippet": "About Pacific Fusion Pacific Fusion was founded in 2023 with the mission to power the world with abundant, affordable, clean energy. We are rapidly designing and building a pulser-driven inertial fusion system to achieve net facility gain (more fusion energy output than stored energy input). In parallel, we are developing the key components required to build affordable fusion systems. Our plans are ambitious. We have raised over $900M so far from incredible investors, resourcing us to deliver on these plans. We are bringing together the best scientists, engineers, and operators from the fusion"
+  },
+  {
+    "title": "Robotics Research, Robot Learning & Manipulation Intern (Spring, Summer, & Fall 2027)",
+    "location": "Irvine, CA",
+    "url": "https://jobs.lever.co/field-ai/b37569c3-d07f-4968-82dc-44020f34e54e",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Fall 2027"
+    ],
+    "company": "Field AI",
+    "source": "Lever",
+    "posted": "2026-10-13",
+    "snippet": "FieldAI\u2019s Irvine team is where embodied AI meets real robots, real sensors, and real field deployments. Based in the heart of Southern California\u2019s robotics ecosystem, we build risk-aware, reliable, field-ready AI systems that solve the hardest problems in robotics and unlock the full potential of embodied intelligence. If you want your work to ship, get tested on hardware, and improve through real deployments, Irvine is the place. We go beyond typical data-driven approaches or pure transformer-only architectures, combining rigorous engineering with learning systems proven in globally deployed"
+  },
+  {
+    "title": "Robotics Research, Embodied AI Intern (Spring & Summer 2027)",
+    "location": "Irvine, CA",
+    "url": "https://jobs.lever.co/field-ai/ef35c537-b864-479f-9dbe-b30429ac7704",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027"
+    ],
+    "company": "Field AI",
+    "source": "Lever",
+    "posted": "2026-10-13",
+    "snippet": "FieldAI\u2019s Irvine team is where embodied AI meets real robots, real sensors, and real field deployments. Based in the heart of Southern California\u2019s robotics ecosystem, we build risk-aware, reliable, field-ready AI systems that solve the hardest problems in robotics and unlock the full potential of embodied intelligence. If you want your work to ship, get tested on hardware, and improve through real deployments, Irvine is the place. We go beyond typical data-driven approaches or pure transformer-only architectures, combining rigorous engineering with learning systems proven in globally deployed"
+  },
+  {
+    "title": "Avionics Engineering Internship - Summer 2027",
+    "location": "El Segundo, California, United States",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010158003",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027",
+      "ITAR/US-person"
+    ],
+    "company": "Varda Space",
+    "source": "Greenhouse",
+    "posted": "2026-10-01",
+    "snippet": "About Varda Low Earth orbit is open for business. Varda is accelerating the development of commercial space infrastructure, from in-orbit pharmaceutical processing to reliable and economical reentry capsules. Varda\u2019s W-Series vehicles are built, designed, and operated by Varda in-house, including the pharmaceutical processing payloads, the capsules, the C-PICA heat shields, and the satellite buses. From life-saving pharmaceuticals to more powerful fiber optics, there is a world of products used on Earth today that can only be manufactured in space. Varda is accelerating innovation in the orbit"
+  },
+  {
+    "title": "Flight Software Internship - Summer 2027",
+    "location": "El Segundo, California, United States",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010159003",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027",
+      "ITAR/US-person"
+    ],
+    "company": "Varda Space",
+    "source": "Greenhouse",
+    "posted": "2026-10-01",
+    "snippet": "About Varda Low Earth orbit is open for business. Varda is accelerating the development of commercial space infrastructure, from in-orbit pharmaceutical processing to reliable and economical reentry capsules. Varda\u2019s W-Series vehicles are built, designed, and operated by Varda in-house, including the pharmaceutical processing payloads, the capsules, the C-PICA heat shields, and the satellite buses. From life-saving pharmaceuticals to more powerful fiber optics, there is a world of products used on Earth today that can only be manufactured in space. Varda is accelerating innovation in the orbit"
+  },
+  {
+    "title": "Guidance, Navigation & Controls (GNC) Internship - Summer 2027",
+    "location": "El Segundo, California, United States",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7865601003",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027",
+      "ITAR/US-person"
+    ],
+    "company": "Varda Space",
+    "source": "Greenhouse",
+    "posted": "2026-10-01",
+    "snippet": "About Varda Low Earth orbit is open for business. Varda is accelerating the development of commercial space infrastructure, from in-orbit pharmaceutical processing to reliable and economical reentry capsules. Varda\u2019s W-Series vehicles are built, designed, and operated by Varda in-house, including the pharmaceutical processing payloads, the capsules, the C-PICA heat shields, and the satellite buses. From life-saving pharmaceuticals to more powerful fiber optics, there is a world of products used on Earth today that can only be manufactured in space. Varda is accelerating innovation in the orbit"
+  },
+  {
+    "title": "Manufacturing Engineering Internship - Summer 2027",
+    "location": "El Segundo, California, United States",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010166003",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027",
+      "ITAR/US-person"
+    ],
+    "company": "Varda Space",
+    "source": "Greenhouse",
+    "posted": "2026-10-01",
+    "snippet": "About Varda Low Earth orbit is open for business. Varda is accelerating the development of commercial space infrastructure, from in-orbit pharmaceutical processing to reliable and economical reentry capsules. Varda\u2019s W-Series vehicles are built, designed, and operated by Varda in-house, including the pharmaceutical processing payloads, the capsules, the C-PICA heat shields, and the satellite buses. From life-saving pharmaceuticals to more powerful fiber optics, there is a world of products used on Earth today that can only be manufactured in space. Varda is accelerating innovation in the orbit"
+  },
+  {
+    "title": "Propulsion Engineering Internship - Summer 2027",
+    "location": "El Segundo, California, United States",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010169003",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027",
+      "ITAR/US-person"
+    ],
+    "company": "Varda Space",
+    "source": "Greenhouse",
+    "posted": "2026-10-01",
+    "snippet": "About Varda Low Earth orbit is open for business. Varda is accelerating the development of commercial space infrastructure, from in-orbit pharmaceutical processing to reliable and economical reentry capsules. Varda\u2019s W-Series vehicles are built, designed, and operated by Varda in-house, including the pharmaceutical processing payloads, the capsules, the C-PICA heat shields, and the satellite buses. From life-saving pharmaceuticals to more powerful fiber optics, there is a world of products used on Earth today that can only be manufactured in space. Varda is accelerating innovation in the orbit"
+  },
+  {
+    "title": "Vehicle Integration & Test Internship - Summer 2027",
+    "location": "El Segundo, California, United States",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010170003",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027",
+      "ITAR/US-person"
+    ],
+    "company": "Varda Space",
+    "source": "Greenhouse",
+    "posted": "2026-10-01",
+    "snippet": "About Varda Low Earth orbit is open for business. Varda is accelerating the development of commercial space infrastructure, from in-orbit pharmaceutical processing to reliable and economical reentry capsules. Varda\u2019s W-Series vehicles are built, designed, and operated by Varda in-house, including the pharmaceutical processing payloads, the capsules, the C-PICA heat shields, and the satellite buses. From life-saving pharmaceuticals to more powerful fiber optics, there is a world of products used on Earth today that can only be manufactured in space. Varda is accelerating innovation in the orbit"
+  },
+  {
+    "title": "Electrical Engineering Intern Summer 2027",
+    "location": "Pasadena, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7998598003",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027",
+      "returning-student req",
+      "ITAR/US-person"
+    ],
+    "company": "Rocket Lab",
+    "source": "Greenhouse",
+    "posted": "2026-09-17",
+    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. As an Electrical Engineering Intern based at Rocket Lab\u2019s site in Pasadena, California, you will have the opportunity to support the team by assisting with hardware bring-up, laboratory testing, prototype assembly, embedded firmware validation, data collection and a"
+  },
+  {
+    "title": "Test Engineering Intern - Manufacturing Spring 2027",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987042003",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Spring 2027",
+      "returning-student req",
+      "ITAR/US-person"
+    ],
+    "company": "Rocket Lab",
+    "source": "Greenhouse",
+    "posted": "2026-09-17",
+    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. As a Test Engineering Intern based at Rocket Lab\u2019s site in Long Beach, California, you will have the opportunity to support the team that designs, builds, and operates the test infrastructure that validates our propulsion and fluids systems and components from conce"
+  },
+  {
+    "title": "Systems Engineering Intern Summer 2027",
+    "location": "Pasadena, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990138003",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027",
+      "returning-student req",
+      "ITAR/US-person"
+    ],
+    "company": "Rocket Lab",
+    "source": "Greenhouse",
+    "posted": "2026-09-17",
+    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. As a Systems Engineering Intern based at Rocket Lab\u2019s site in Pasadena, California, you will have the opportunity to support hands-on integration and testing which includes setting up test hardware, operating robotic systems, executing test procedures, collecting an"
+  },
+  {
+    "title": "Propulsion Analyst Intern Summer 2027",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986820003",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027",
+      "returning-student req",
+      "ITAR/US-person"
+    ],
+    "company": "Rocket Lab",
+    "source": "Greenhouse",
+    "posted": "2026-09-16",
+    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. As a Propulsion Analyst Intern based at Rocket Lab\u2019s site in Long Beach, California, you will have the opportunity to support the Propulsion team in creating FEA models or CFD models of new and updated designs as well as gain hands experience analyzing critical rock"
+  },
+  {
+    "title": "Propulsion Analyst Intern Spring 2027",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986824003",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Spring 2027",
+      "returning-student req",
+      "ITAR/US-person"
+    ],
+    "company": "Rocket Lab",
+    "source": "Greenhouse",
+    "posted": "2026-09-16",
+    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. As a Propulsion Analyst Intern based at Rocket Lab\u2019s site in Long Beach, California, you will have the opportunity to support the Propulsion team in creating FEA models or CFD models of new and updated designs as well as gain hands experience analyzing critical rock"
+  },
+  {
+    "title": "Manufacturing Engineering Intern Summer 2027",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984564003",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027",
+      "returning-student req",
+      "ITAR/US-person"
+    ],
+    "company": "Rocket Lab",
+    "source": "Greenhouse",
+    "posted": "2026-09-16",
+    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. As a Manufacturing Engineering Intern based at Rocket Lab\u2019s site in Long Beach, California, you will have the opportunity to work with the design, production and quality teams to develop and qualify process to make rocket engines. Rocket Lab\u2019s Manufacturing team are"
+  },
+  {
+    "title": "Manufacturing Engineering Intern Spring 2027",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984943003",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Spring 2027",
+      "returning-student req",
+      "ITAR/US-person"
+    ],
+    "company": "Rocket Lab",
+    "source": "Greenhouse",
+    "posted": "2026-09-16",
+    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. As a Manufacturing Engineering Intern based at Rocket Lab\u2019s site in Long Beach, California, you will have the opportunity to work with the design, production and quality teams to develop and qualify process to make rocket engines. Rocket Lab\u2019s Manufacturing team are"
+  },
+  {
+    "title": "Mechanical Engineering Intern Summer 2027",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7991448003",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027",
+      "returning-student req",
+      "ITAR/US-person"
+    ],
+    "company": "Rocket Lab",
+    "source": "Greenhouse",
+    "posted": "2026-09-13",
+    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. As a Mechanical Engineering Intern based at Rocket Lab\u2019s site in Long Beach, California, you will have the opportunity to support the team as they develop new concepts and hardware, build and test our designs to ensure they will stand up to the extreme space environ"
+  },
+  {
+    "title": "Mechanical Engineering Intern Spring 2027",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7985634003",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Spring 2027",
+      "returning-student req",
+      "ITAR/US-person"
+    ],
+    "company": "Rocket Lab",
+    "source": "Greenhouse",
+    "posted": "2026-09-13",
+    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. As a Mechanical Engineering Intern based at Rocket Lab\u2019s site in Long Beach, California, you will have the opportunity to support the team as they develop new concepts and hardware, build and test our designs to ensure they will stand up to the extreme space environ"
+  },
+  {
+    "title": "Propulsion Design Intern Spring 2027",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987110003",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Spring 2027",
+      "returning-student req",
+      "ITAR/US-person"
+    ],
+    "company": "Rocket Lab",
+    "source": "Greenhouse",
+    "posted": "2026-09-11",
+    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. As a Propulsion Design Intern based at Rocket Lab\u2019s site in Long Beach, California, you will have the opportunity to support the team in design and analysis of components and subassemblies for the Archimedes engine. You will join our multidisciplinary propulsion tea"
+  },
+  {
+    "title": "Test Engineering Intern - Avionics Summer 2027",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987159003",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027",
+      "returning-student req",
+      "ITAR/US-person"
+    ],
+    "company": "Rocket Lab",
+    "source": "Greenhouse",
+    "posted": "2026-09-10",
+    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. As a Test Engineering Intern based at Rocket Lab\u2019s site in Long Beach, California, you will have the opportunity to support the Space Systems team as they develop the software that tests the hardware going into space. Space Systems test automation is a software team"
+  },
+  {
+    "title": "Propulsion Design Intern Summer 2027",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986816003",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027",
+      "returning-student req",
+      "ITAR/US-person"
+    ],
+    "company": "Rocket Lab",
+    "source": "Greenhouse",
+    "posted": "2026-09-10",
+    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. As a Propulsion Design Intern based at Rocket Lab\u2019s site in Long Beach, California, you will have the opportunity to support the team in design and analysis of components and subassemblies for the Archimedes engine. You will join our multidisciplinary propulsion tea"
+  },
+  {
+    "title": "Electrical Engineering Intern Summer 2027",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990683003",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027",
+      "returning-student req",
+      "ITAR/US-person"
+    ],
+    "company": "Rocket Lab",
+    "source": "Greenhouse",
+    "posted": "2026-09-10",
+    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. As an Electrical Engineering Intern based at Rocket Lab\u2019s site in Long Beach, California, you will have the opportunity to participate in the development and test of avionics hardware for our spacecraft programs. You will work collaboratively with engineers of vario"
+  },
+  {
+    "title": "Systems Engineering Intern Summer 2027",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987046003",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027",
+      "returning-student req",
+      "ITAR/US-person"
+    ],
+    "company": "Rocket Lab",
+    "source": "Greenhouse",
+    "posted": "2026-09-09",
+    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. As a Systems Engineering Intern based at Rocket Lab\u2019s site in Long Beach, California, you will have the opportunity to support the Space Systems Division in the development of the Assembly Integration and Test sequence. The Systems engineering team act as the main c"
+  },
+  {
+    "title": "Systems Engineering Intern Spring 2027",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987044003",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Spring 2027",
+      "returning-student req",
+      "ITAR/US-person"
+    ],
+    "company": "Rocket Lab",
+    "source": "Greenhouse",
+    "posted": "2026-09-09",
+    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. As a Systems Engineering Intern based at Rocket Lab\u2019s site in Long Beach, California, you will have the opportunity to support the Space Systems Division in the development of the Assembly Integration and Test sequence. The Systems engineering team act as the main c"
+  },
+  {
+    "title": "Integration & Test Intern Summer 2027",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987250003",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027",
+      "returning-student req",
+      "ITAR/US-person"
+    ],
+    "company": "Rocket Lab",
+    "source": "Greenhouse",
+    "posted": "2026-09-09",
+    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. As an Integration and Test Intern based at Rocket Lab\u2019s site in Long Beach, California, you will have the opportunity to support the Space Systems Integration and Test Team unique integration and test equipment and will contribute to improvements that will directly "
+  },
+  {
+    "title": "Fluid Systems Intern Summer 2027",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986794003",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027",
+      "returning-student req",
+      "ITAR/US-person"
+    ],
+    "company": "Rocket Lab",
+    "source": "Greenhouse",
+    "posted": "2026-09-09",
+    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. As a Fluid Systems Intern based at Rocket Lab\u2019s site in Long Beach, California, you will have the opportunity to support the Fluid Systems team solve problems that impact Neutron at varying levels of urgency. This team owns all hardware between the tanks and engine,"
+  },
+  {
+    "title": "Fluid Systems Intern Spring 2027",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986788003",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Spring 2027",
+      "returning-student req",
+      "ITAR/US-person"
+    ],
+    "company": "Rocket Lab",
+    "source": "Greenhouse",
+    "posted": "2026-09-09",
+    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. As a Fluid Systems Intern based at Rocket Lab\u2019s site in Long Beach, California, you will have the opportunity to support the Fluid Systems team solve problems that impact Neutron at varying levels of urgency. This team owns all hardware between the tanks and engine,"
+  },
+  {
+    "title": "Avionics Engineering Intern Summer 2027",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989733003",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027",
+      "returning-student req",
+      "ITAR/US-person"
+    ],
+    "company": "Rocket Lab",
+    "source": "Greenhouse",
+    "posted": "2026-09-09",
+    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. As an Avionics Engineering Intern based at Rocket Lab\u2019s site in Long Beach, California, you will have the opportunity to contribute to the future architecture of Avionics, performing hardware development for the next generation of electronics across the rocket, exec"
+  },
+  {
+    "title": "Additive Manufacturing Intern Summer 2027",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984600003",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027",
+      "returning-student req",
+      "ITAR/US-person"
+    ],
+    "company": "Rocket Lab",
+    "source": "Greenhouse",
+    "posted": "2026-09-09",
+    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. As an Additive Manufacturing Intern based at Rocket Lab\u2019s site in Long Beach, California, you will have the opportunity to gain an understanding for rocketry and the impact that additive manufacturing has on modern rocket engines. The Additive Manufacturing departme"
+  },
+  {
+    "title": "Additive Manufacturing Intern Spring 2027",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7983576003",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Spring 2027",
+      "returning-student req",
+      "ITAR/US-person"
+    ],
+    "company": "Rocket Lab",
+    "source": "Greenhouse",
+    "posted": "2026-09-09",
+    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. As an Additive Manufacturing Intern based at Rocket Lab\u2019s site in Long Beach, California, you will have the opportunity to gain an understanding for rocketry and the impact that additive manufacturing has on modern rocket engines. The Additive Manufacturing departme"
+  },
+  {
+    "title": "Electrical Engineering Summer 2027 Intern",
+    "location": "Everett, WA",
+    "url": "https://jobs.ashbyhq.com/helion/045d97eb-5efd-4e35-90f5-65eebe3363f4",
+    "pay": "$59 per hour",
+    "metro": "Seattle",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027"
+    ],
+    "company": "Helion",
+    "source": "Ashby",
+    "posted": "2026-09-25",
+    "snippet": "About Helion\n\nWe are a fusion power company based in Everett, WA, with the mission to build the world's first fusion power plant, enabling a future with unlimited clean electricity. Our vision is a world with clean, reliable, and affordable energy for everyone.\n\nSince Helion's founding in 2013, we have raised $1.5 billion from long-time investors such as Sam Altman, Mithril, and Capricorn Investment Group as well as new investors including Thrive Capital, LightSpeed Venture Capital, SoftBank, and others to propel us forward. Our current prototype, Polaris, has reached record-breaking plasma te"
+  },
+  {
     "title": "Software Engineer, Fleet Platform",
     "location": "New York, NY",
     "url": "https://jobs.ashbyhq.com/bedrock-robotics/cbcf15d7-6f14-4270-b726-3bfa90242fc5",
@@ -1192,6 +2813,20 @@
     "source": "Ashby",
     "posted": "2026-09-14",
     "snippet": "JOIN THE TEAM BRINGING ADVANCED AUTONOMY TO THE BUILT WORLD\n\nAt Bedrock, we're moving AI out of the lab and into the real world. Our team includes veterans who helped launch Waymo, scaled Segment to a $3.2B acquisition, and grew Uber Freight to $5B in revenue. Today, we're deploying autonomous systems on heavy construction equipment across the country, improving safety on job sites and accelerating schedules on critical infrastructure projects.\n\nWe're not here debating the future of AI. We're deploying it in the real world. In just two years, we've raised $350M and achieved the first fully aut"
+  },
+  {
+    "title": "Manufacturing Test Engineer ",
+    "location": "Somerville, MA",
+    "url": "https://careers.formlabs.com/job/8318822/apply/?gh_jid=8318822",
+    "pay": "",
+    "metro": "Boston",
+    "level_signal": "none",
+    "years_required": null,
+    "flags": [],
+    "company": "Formlabs",
+    "source": "Greenhouse",
+    "posted": "2026-10-23",
+    "snippet": "Do you want to change how the world creates? At Formlabs, we\u2019re building the tools that make it possible for anyone to bring their ideas to life, from cutting-edge products to life-saving medical devices. Our 3D printing technology powers innovation at more than 50,000 industry leaders worldwide, including Apple, Google, Tesla, New Balance, and NASA. Together, we\u2019re helping everyone design, prototype, and manufacture faster than ever before. We\u2019re a team of hands-on builders, engineers, and innovators reinventing how the world makes physical things. If you\u2019re ready to shape the future of fabri"
   },
   {
     "title": "Mechanical Engineer",
@@ -1514,6 +3149,20 @@
     "source": "Lever",
     "posted": "2026-09-09",
     "snippet": "About Tutor\nWe believe robots will be the next chapter in making physical labor safer and more affordable. But, nearly nine out of ten American factories and warehouses don\u2019t have a single robot. Tutor Intelligence is changing that.\nWe build robots that go straight into real factories and warehouses, to do real work, with real impact. Our robot Cassie does back-breaking work, moving boxes, pallets, and bulk goods for family-owned manufacturers to some of the largest brands in the world. Our robot Sonny does handwork, using two arms to achieve human-like dexterity in picking and packing. Every "
+  },
+  {
+    "title": "Research Engineer, Robot Learning",
+    "location": "San Carlos, CA",
+    "url": "https://jobs.ashbyhq.com/1x/6d41e7c8-75c3-4f54-8a76-5abbb3569341",
+    "pay": "$130,146 \u2013 $300,000",
+    "metro": "SF Bay",
+    "level_signal": "none",
+    "years_required": null,
+    "flags": [],
+    "company": "1X",
+    "source": "Ashby",
+    "posted": "2026-10-23",
+    "snippet": "Job Description: Develop sim2real reinforcement learning (RL) training pipelines for humanoid robots. Train and test robot policies via reinforcement learning for in-home humanoid robots. Optimize training pipelines for improved performance and training speed. Modeling of physical systems (including robot dynamics, sensor modeling, contact parameter tuning) to close the gap between simulation and physical systems. Collecting, cleaning and retargeting human motion data for use in RL training pipelines. Supporting the test and debug of RL policies in simulation and on physical hardware.\n\nRequire"
   },
   {
     "title": "Software Engineer, Supercomputer Network (Starlink)",
@@ -2120,18 +3769,20 @@
     "snippet": "About Zipline Zipline is the world\u2019s largest and most experienced drone delivery service. We are on a mission to serve all humans equally by ensuring access to food, medicine and essential goods anytime, anywhere. We design, build, and operate the world\u2019s largest autonomous logistics system, delivering critical supplies quickly and reliably. Today, Zipline operates on four continents, makes a delivery somewhere in the world every 30 seconds, and has completed millions of deliveries to date, including blood, vaccines, medical supplies, food, and retail products. Our customers include the world\u2019"
   },
   {
-    "title": "Software Engineer - Robot Software Infrastructure",
-    "location": "Foster City, CA",
-    "url": "https://jobs.lever.co/zoox/6da52aa7-0ccb-48d0-af25-0889f41ddee5",
-    "pay": "$196,000-$242,000",
-    "metro": "SF Bay",
+    "title": "AI Software Engineer (Vehicle Engineering)",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8910071002?gh_jid=8910071002",
+    "pay": "",
+    "metro": "LA",
     "level_signal": "none",
-    "years_required": null,
-    "flags": [],
-    "company": "Zoox",
-    "source": "Lever",
-    "posted": "2026-09-08",
-    "snippet": "Zoox's Robot Software Infrastructure team is seeking a passionate software engineer to help develop Robot software and infrastructure to advance the common performant operating system that powers several devices on our vehicle including Autonomy systems. This team develops platform-level software and services, including operating systems that enable complex, hardware-accelerated workloads critical for autonomous driving on automotive-grade hardware.\nWe work closely with cross-functional teams\u2014including application software engineering, release management, hardware engineering, manufacturing an"
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-10-23",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. AI SOFTWARE ENGINEER (VEHICLE ENGINEERING) SpaceX is building AI systems that accelerate engineering and make internal operations more effective. We are looking for software engineers who combine strong programming skills with practical machine learning knowledge and a willingness to solve unfamiliar problems. You wil"
   },
   {
     "title": "Propulsion Technician (Raptor Avionics)",
