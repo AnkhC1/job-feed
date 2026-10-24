@@ -4,12 +4,14 @@ keep plausible early-career robotics/controls/embedded/mechatronics roles in
 target metros, and write jobs_feed.json + jobs_feed.md.  Stdlib only.
 
 Filtering is deliberately loose: hard drops are only defense/HVAC, wrong metro,
-senior/intern titles, off-track titles, stale postings, and "3+ years required".
+senior titles, off-track titles, PhD/MBA internships, stale postings, and
+"3+ years required" (full-time only). Internships / co-ops get their own section.
 Everything else is kept and tagged with level_signal so the daily Claude task
 makes the final call:
   title - title says new grad / entry level / Engineer I / associate ...
   body  - only the description says so
   none  - no level signal either way (still not senior, not 3+ yrs)
+  intern- internship or co-op (tagged with term and returning-student requirement)
 
 Usage:  python3 job_feed.py [--days 45] [--out DIR]
 jobs_feed.md ends with a diagnostics section: per-stage drop counts and any
@@ -107,7 +109,15 @@ LEVEL_WORDS = re.compile(
     r"rotational|graduate (program|engineer)|class of 202[67]|\b2027\b|"
     r"0\s*[-–to]+\s*2\s*years|1\s*[-–to]+\s*2\s*years|no (prior )?experience required", re.I)
 SENIOR_WORDS = re.compile(r"senior|\bsr\.?\b|staff|principal|\blead\b|manager|director|head of|"
-                          r"\bvp\b|intern(ship)?\b|co-?op\b|\bii\b|\biii\b|\biv\b|\b[2-5]\s*$", re.I)
+                          r"\bvp\b|\bii\b|\biii\b|\biv\b|\b[2-5]\s*$", re.I)
+INTERN_WORDS = re.compile(r"\bintern(ship)?s?\b|\bco-?op\b", re.I)
+INTERN_DROP = re.compile(r"\bph\.?d\b|doctoral|\bmba\b", re.I)
+TERM_WORDS = re.compile(r"\b(spring|summer|fall|autumn|winter)\s*(?:/\s*\w+\s*)?'?(20)?(2[5-8])\b", re.I)
+RETURNING_WORDS = re.compile(r"return(ing)? to (school|your (studies|program|degree))|"
+                             r"(continu|return)\w* (your )?(enrollment|studies)|"
+                             r"enrolled (in|at) .{0,60}(following|after|upon completion of) the internship|"
+                             r"at least one (semester|quarter|term) (of school )?remaining|"
+                             r"graduat\w* (date )?(no earlier than|after) (dec|fall|winter|spring|summer|20)", re.I)
 DEFENSE_WORDS = re.compile(r"security clearance|secret clearance|ts/sci|top secret|"
                            r"defense contractor|weapons?\b|munitions?|department of defense|"
                            r"\bdod\b|hvac|starshield|missile|national security space", re.I)
@@ -133,8 +143,9 @@ METROS = [
     ("Seattle", r"seattle|bellevue|redmond|kirkland|everett|kent, wa|bothell|renton|tukwila|woodinville"),
 ]
 METRO_ORDER = {m: i for i, (m, _) in enumerate(METROS)}
-LEVEL_ORDER = {"title": 0, "body": 1, "none": 2}
-MAX_NONE_IN_MD = 40  # keep the markdown short enough to read in one fetch
+LEVEL_ORDER = {"title": 0, "body": 1, "intern": 2, "none": 3}
+MAX_NONE_IN_MD = 40    # keep the markdown short enough to read in one fetch
+MAX_INTERN_IN_MD = 40
 
 
 def get(url):
@@ -202,9 +213,11 @@ def classify(job, stats):
     metro = next((m for m, rx in METROS if re.search(rx, job["location"], re.I)), None)
     if not metro:
         stats["outside target metros"] += 1; return None
+    if INTERN_WORDS.search(title):
+        return classify_intern(job, metro, stats)
     title_level = bool(LEVEL_WORDS.search(title))
     if SENIOR_WORDS.search(title) and not re.search(r"new.?grad|university grad|early.?career", title, re.I):
-        stats["senior/intern title"] += 1; return None
+        stats["senior title"] += 1; return None
     if not TRACK_WORDS.search(title) or NON_ENG_TITLE.search(title):
         stats["off-track title"] += 1; return None
     yrs = [int(y) for y in YEARS_REQ.findall(text)]
@@ -227,6 +240,26 @@ def classify(job, stats):
     return job
 
 
+def classify_intern(job, metro, stats):
+    """Internships/co-ops: no years rule and no hands-on requirement, but still on-track."""
+    title, text = job["title"], job["text"]
+    if INTERN_DROP.search(title):
+        stats["PhD/MBA internship"] += 1; return None
+    if not TRACK_WORDS.search(title) or NON_ENG_TITLE.search(title):
+        stats["off-track title"] += 1; return None
+    flags = []
+    terms = sorted({f"{m.group(1).title()} 20{m.group(3)}" for m in TERM_WORDS.finditer(f"{title} {text[:4000]}")})
+    if terms:
+        flags.append("term: " + "/".join(terms))
+    if RETURNING_WORDS.search(text):
+        flags.append("returning-student req")
+    if ITAR_WORDS.search(text):
+        flags.append("ITAR/US-person")
+    job.update(metro=metro, level_signal="intern", years_required=None, flags=flags)
+    stats["kept (internships)"] += 1
+    return job
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--days", type=int, default=45, help="drop postings older than this (undated are kept)")
@@ -235,7 +268,8 @@ def main():
     now = datetime.now(timezone.utc)
     cutoff = now - timedelta(days=a.days)
     stats = {k: 0 for k in ["fetched", "older than cutoff", "defense/HVAC", "outside target metros",
-                            "senior/intern title", "off-track title", "3+ years required", "kept"]}
+                            "senior title", "PhD/MBA internship", "off-track title", "3+ years required",
+                            "kept", "kept (internships)"]}
     hits, failed, seen, board_counts = [], [], set(), []
     for ats, token, name in COMPANIES:
         try:
@@ -269,15 +303,18 @@ def main():
     by_level = {lv: [r for r in rows if r["level_signal"] == lv] for lv in LEVEL_ORDER}
     headings = {"title": "Explicit entry-level in title",
                 "body": "Entry-level signal in description only",
+                "intern": "Internships & co-ops (desk work OK if on-track; check term and eligibility)",
                 "none": "No level signal (not senior, not 3+ yrs) - verify level"}
     with open(f"{a.out}/jobs_feed.md", "w") as f:
         f.write(f"# Job feed {today} ({len(rows)} candidates: "
-                f"{len(by_level['title'])} title / {len(by_level['body'])} body / {len(by_level['none'])} none)\n\n")
+                f"{len(by_level['title'])} title / {len(by_level['body'])} body / "
+                f"{len(by_level['intern'])} intern / {len(by_level['none'])} none)\n\n")
         f.write(f"Generated {now.astimezone(ET):%Y-%m-%d %H:%M} ET from {len(COMPANIES) - len(failed)}"
                 f"/{len(COMPANIES)} boards. Leads only - read each posting before using it.\n")
         for lv in LEVEL_ORDER:
             f.write(f"\n## {headings[lv]} ({len(by_level[lv])})\n\n")
-            shown = by_level[lv] if lv != "none" else by_level[lv][:MAX_NONE_IN_MD]
+            cap = {"none": MAX_NONE_IN_MD, "intern": MAX_INTERN_IN_MD}.get(lv)
+            shown = by_level[lv][:cap] if cap else by_level[lv]
             for r in shown:
                 extra = []
                 if r["years_required"] is not None:
@@ -289,7 +326,7 @@ def main():
             if not by_level[lv]:
                 f.write("_none_\n")
             elif len(shown) < len(by_level[lv]):
-                f.write(f"\n_{len(by_level[lv]) - len(shown)} more in jobs_feed.json (level_signal = none)._\n")
+                f.write(f"\n_{len(by_level[lv]) - len(shown)} more in jobs_feed.json (level_signal = {lv})._\n")
         f.write("\n## Diagnostics\n\n")
         f.write("Pipeline: " + " | ".join(f"{k}: {v}" for k, v in stats.items()) + "\n\n")
         f.write("Boards that failed (fix token or delete):\n")
