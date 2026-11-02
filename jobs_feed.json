@@ -352,6 +352,36 @@
     "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
   },
   {
+    "title": "Business Systems Engineer I",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8087292003",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "title",
+    "years_required": 4,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "Rocket Lab",
+    "source": "Greenhouse",
+    "posted": "2026-10-30",
+    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. SUPPLY CHAIN Rocket Lab\u2019s Supply Chain team is responsible for the flow of all materials, products, and components through the business. With many of our own products functioning as critical components to our own and our customers\u2019 missions, the Supply Chain team ha"
+  },
+  {
+    "title": "Manufacturing Engineer I, Machining",
+    "location": "Long Beach, California, United States",
+    "url": "https://boards.greenhouse.io/relativity/jobs/8924163002?gh_jid=8924163002",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "title",
+    "years_required": 1,
+    "flags": [],
+    "company": "Relativity Space",
+    "source": "Greenhouse",
+    "posted": "2026-10-30",
+    "snippet": "At Relativity Space, we\u2019re building rockets to serve today\u2019s needs and tomorrow\u2019s breakthroughs. Our Terran R vehicle will deliver customer payloads to orbit, meeting the growing demand for launch capacity. But that\u2019s just the start. Achieving commercial success with Terran R will unlock new opportunities to advance science, exploration, and innovation, pioneering progress that reaches beyond the known. Joining Relativity means becoming part of something where autonomy, ownership, and impact exist at every level. Here, you're not just executing tasks; you're solving problems that haven\u2019t been "
+  },
+  {
     "title": "Electrical Engineer I",
     "location": "Pasadena, CA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8057261003",
@@ -652,20 +682,6 @@
     "snippet": "At Relativity Space, we\u2019re building rockets to serve today\u2019s needs and tomorrow\u2019s breakthroughs. Our Terran R vehicle will deliver customer payloads to orbit, meeting the growing demand for launch capacity. But that\u2019s just the start. Achieving commercial success with Terran R will unlock new opportunities to advance science, exploration, and innovation, pioneering progress that reaches beyond the known. Joining Relativity means becoming part of something where autonomy, ownership, and impact exist at every level. Here, you're not just executing tasks; you're solving problems that haven\u2019t been "
   },
   {
-    "title": "GNC Simulation Engineer I",
-    "location": "Long Beach, California, United States",
-    "url": "https://boards.greenhouse.io/relativity/jobs/8819367002?gh_jid=8819367002",
-    "pay": "",
-    "metro": "LA",
-    "level_signal": "title",
-    "years_required": null,
-    "flags": [],
-    "company": "Relativity Space",
-    "source": "Greenhouse",
-    "posted": "2026-09-18",
-    "snippet": "At Relativity Space, we\u2019re building rockets to serve today\u2019s needs and tomorrow\u2019s breakthroughs. Our Terran R vehicle will deliver customer payloads to orbit, meeting the growing demand for launch capacity. But that\u2019s just the start. Achieving commercial success with Terran R will unlock new opportunities to advance science, exploration, and innovation, pioneering progress that reaches beyond the known. Joining Relativity means becoming part of something where autonomy, ownership, and impact exist at every level. Here, you're not just executing tasks; you're solving problems that haven\u2019t been "
-  },
-  {
     "title": "Electronics Manufacturing Engineer ",
     "location": "Glen Cove, NY",
     "url": "https://jobs.ashbyhq.com/standardbots/7ea413c0-82ad-48c2-a706-2fa8d6dba91a",
@@ -691,7 +707,7 @@
     "company": "Tutor Intelligence",
     "source": "Lever",
     "posted": "2026-10-29",
-    "snippet": " The Role Sonny V2, our semi-humanoid robot, moves into production in early 2027 and ramps to 18 robots a day. We're hiring a Robotics Test & Debug Engineer to make sure every Sonny that leaves our Watertown factory works. You'll be the production team's first line of defense: when a robot fails, you find the root cause and fix it. You'll also build the test platforms that catch failures early. What You'll Own Robot debug: take failing robots and subassemblies to root cause First line of defense: resolve floor issues fast and escalate design problems with clear data Bench testing: design subas"
+    "snippet": "About Tutor\nWe believe robots are the biggest lever we have to making the physical world a better, more affordable place. But robots are a rounding error in our society: nearly nine out of ten American factories and warehouses don\u2019t even have a single robot, and robots have yet to make their way into our homes or places of business.\nTutor Intelligence is changing that.\nTutor is a robotics research and deployment company, building generally capable robot hardware and artificial intelligence to enable robots to go where no robots have gone before. Our robots range from a semi-humanoid with front"
   },
   {
     "title": "Software Engineer, API & Automation",
@@ -719,7 +735,7 @@
     "company": "Tutor Intelligence",
     "source": "Lever",
     "posted": "2026-10-06",
-    "snippet": "About Tutor\nWe believe robots are the biggest lever we have to making the physical world a better, more affordable place. But robots are a rounding error in our society: nearly nine out of ten American factories and warehouses don\u2019t even have a single robot, and robots have yet to make their way into our homes or places of business.\nTutor Intelligence is changing that.\nTutor is a robotics research and deployment company, building generally capable robot hardware and artificial intelligence to enable robots to go where no robots have gone before. Sonny is a semi-humanoid robot with frontier dex"
+    "snippet": "About Tutor\nTutor Intelligence builds and ships autonomous robots out of our factory in Watertown, MA. Our robots move boxes and pallets for businesses from family-owned manufacturers to some of the largest brands in the world. Every robot you release goes to work in a real warehouse.\nIs This You?\nThis is a full-time, hourly ($38\u2013$50/hr), on-site technician role on our production floor. You'll spend your day with a meter, hand tools and robots, not at a desk. If your background is mainly software, simulation or academic research, this isn't the right fit.\nMust be authorized to work in the US w"
   },
   {
     "title": "Contract Student Worker - Software Engineer (40 hrs/wk)",
@@ -920,20 +936,6 @@
     "snippet": "Zoox is looking for a vehicle verification and validation engineer for the features on our robot platform. In this role, you will be responsible for validating new functions of Zoox\u2019s ground-up autonomous vehicle. You will be part of a team that develops, validates, and continuously improves the robot\u2019s features and capability to production maturity.\u00a0 You will engage with cross-functional teams and hold yourself, teammates, and the larger organization accountable for meeting requirements. We are looking for an engineer who is passionate about vehicle feature integration and has strong problem-"
   },
   {
-    "title": "Optical Aligner and Test Engineer - Mountain View, CA",
-    "location": "Mountain View, CA",
-    "url": "https://jobs.lever.co/aeva/a6aa45f4-672b-4d03-bd41-2215ddf2e19e",
-    "pay": "$132,400-$179,200",
-    "metro": "SF Bay",
-    "level_signal": "body",
-    "years_required": null,
-    "flags": [],
-    "company": "Aeva",
-    "source": "Lever",
-    "posted": "2026-09-15",
-    "snippet": "About us:\nAeva\u2019s mission is to bring the next wave of perception to a broad range of applications from automated driving to industrial robotics, consumer electronics, consumer health, security, and beyond. Aeva is transforming autonomy with its groundbreaking sensing and perception technology that integrates all key LiDAR components onto a silicon Photonics chip in a compact module. Aeva 4D LiDAR sensors uniquely detect instant velocity in addition to 3D position, allowing autonomous devices like vehicles and robots to make more intelligent and safe decisions.\n\u00a0\nRole Overview:\nWe are seeking a"
-  },
-  {
     "title": "Environmental Test Technician I, First Shift",
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/relativity/jobs/8881993002?gh_jid=8881993002",
@@ -1114,68 +1116,6 @@
     "snippet": "FieldAI\u2019s Irvine team is where embodied AI meets real robots, real sensors, and real field deployments. Based in the heart of Southern California\u2019s robotics ecosystem, we build risk-aware, reliable, field-ready AI systems that solve the hardest problems in robotics and unlock the full potential of embodied intelligence. If you want your work to ship, get tested on hardware, and improve through real deployments, Irvine is the place. We go beyond typical data-driven approaches or pure transformer-only architectures, combining rigorous engineering with learning systems proven in globally deployed"
   },
   {
-    "title": "Robotics Autonomy Engineer, Perception",
-    "location": "Irvine, CA",
-    "url": "https://jobs.lever.co/field-ai/95c1d7a7-f2b4-45ca-9888-2196b14afa77",
-    "pay": "$100,000-$200,000",
-    "metro": "LA",
-    "level_signal": "body",
-    "years_required": 2,
-    "flags": [],
-    "company": "Field AI",
-    "source": "Lever",
-    "posted": "2026-09-16",
-    "snippet": "FieldAI\u2019s Irvine team is where embodied AI meets real robots, real sensors, and real field deployments. Based in the heart of Southern California\u2019s robotics ecosystem, we build risk-aware, reliable, field-ready AI systems that solve the hardest problems in robotics and unlock the full potential of embodied intelligence. If you want your work to ship, get tested on hardware, and improve through real deployments, Irvine is the place. We go beyond typical data-driven approaches or pure transformer-only architectures, combining rigorous engineering with learning systems proven in globally deployed"
-  },
-  {
-    "title": "Propulsion Technician (Raptor Production Machining) - 2nd Shift",
-    "location": "Hawthorne, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8814888002?gh_jid=8814888002",
-    "pay": "",
-    "metro": "LA",
-    "level_signal": "body",
-    "years_required": 1,
-    "flags": [
-      "ITAR/US-person"
-    ],
-    "company": "SpaceX",
-    "source": "Greenhouse",
-    "posted": "2026-09-16",
-    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. PROPULSION TECHNICIAN (RAPTOR PRODUCTION MACHINING) - 2ND SHIFT Candidates should possess a combination of solid mechanical knowledge, hands-on experience and the willingness and ability to learn. The propulsion technician is responsible for manufacturing, assembly, and testing of rocket hardware and associated sub-as"
-  },
-  {
-    "title": "Propulsion Technician (Raptor Production Machining)",
-    "location": "Hawthorne, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8814833002?gh_jid=8814833002",
-    "pay": "",
-    "metro": "LA",
-    "level_signal": "body",
-    "years_required": 1,
-    "flags": [
-      "ITAR/US-person"
-    ],
-    "company": "SpaceX",
-    "source": "Greenhouse",
-    "posted": "2026-09-16",
-    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. PROPULSION TECHNICIAN (RAPTOR PRODUCTION MACHINING) Candidates should possess a combination of solid mechanical knowledge, hands-on experience and the willingness and ability to learn. The propulsion technician is responsible for manufacturing, assembly, and testing of rocket hardware and associated sub-assemblies. Th"
-  },
-  {
-    "title": "PCB Manufacturing Engineer",
-    "location": "Hawthorne, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8811663002?gh_jid=8811663002",
-    "pay": "",
-    "metro": "LA",
-    "level_signal": "body",
-    "years_required": 1,
-    "flags": [
-      "ITAR/US-person"
-    ],
-    "company": "SpaceX",
-    "source": "Greenhouse",
-    "posted": "2026-09-15",
-    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. PCB MANUFACTURING ENGINEER SpaceX demands a new type of supply chain as we drive towards humanity on Mars. We require our suppliers to provide premium quality with rapidly evolving designs at increasingly ambitious volumes. We are actively looking for candidates who possess comprehensive knowledge of manufacturing and"
-  },
-  {
     "title": "Software Engineer (Starlink Ground Network)",
     "location": "Redmond, WA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8841324002?gh_jid=8841324002",
@@ -1190,36 +1130,6 @@
     "source": "Greenhouse",
     "posted": "2026-09-25",
     "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. SOFTWARE ENGINEER (STARLINK GROUND NETWORK) As a Software Engineer on the Ground Network team, you will own software systems that enable capacity planning for the next generation of Starlink\u2019s global ground infrastructure. This includes thousands of ground stations, points of presence, data centers, fiber, and associa"
-  },
-  {
-    "title": "Full Stack Software Engineering Intern",
-    "location": "New York City",
-    "url": "https://jobs.ashbyhq.com/gecko-robotics/01138338-ff3c-4982-8ba3-5401386bf082",
-    "pay": "$40 \u2013 $80 per hour",
-    "metro": "NYC",
-    "level_signal": "intern",
-    "years_required": null,
-    "flags": [
-      "term: Summer 2027"
-    ],
-    "company": "Gecko Robotics",
-    "source": "Ashby",
-    "posted": "2026-09-16",
-    "snippet": "WHAT WE DO \n\nGecko Robotics is helping the world\u2019s most important organizations ensure the availability, reliability, and sustainability of critical infrastructure. Gecko's complete and connected solutions combine wall-climbing robots, industry-leading sensors, and an AI-powered data platform to provide customers\u00a0with a unique window into the current and future health of their physical assets. This enables real-time decision making to increase the efficiency and safety of operations, promote mission readiness, and protect the environment and civilization from the effects of infrastructure fail"
-  },
-  {
-    "title": "2027 Internship Software Engineer, Fleet Platform",
-    "location": "New York, NY",
-    "url": "https://jobs.ashbyhq.com/bedrock-robotics/8927dd7e-a48d-49a2-92eb-09ec059432f4",
-    "pay": "",
-    "metro": "NYC",
-    "level_signal": "intern",
-    "years_required": null,
-    "flags": [],
-    "company": "Bedrock Robotics",
-    "source": "Ashby",
-    "posted": "2026-09-16",
-    "snippet": "JOIN THE TEAM BRINGING AUTONOMY TO THE BUILT WORLD\n\n\nAt Bedrock, we're moving AI out of the lab and onto real job sites. Our team includes veterans who helped launch Waymo, scaled Segment to a $3.2B acquisition, and grew Uber Freight to $5B in revenue. We retrofit the heavy equipment contractors already own, starting with excavators, so experienced crews can safely take on more projects and deliver more of the critical infrastructure our society needs.\n\nIn August 2026, Bedrock-equipped excavators began doing fully autonomous, paid work on live commercial job sites. We've more than doubled our "
   },
   {
     "title": "Manufacturing Test Software Intern (Winter/Spring 2027)",
@@ -1759,22 +1669,6 @@
     "snippet": "JOIN THE TEAM BRINGING AUTONOMY TO THE BUILT WORLD\n\n\nAt Bedrock, we're moving AI out of the lab and onto real job sites. Our team includes veterans who helped launch Waymo, scaled Segment to a $3.2B acquisition, and grew Uber Freight to $5B in revenue. We retrofit the heavy equipment contractors already own, starting with excavators, so experienced crews can safely take on more projects and deliver more of the critical infrastructure our society needs.\n\nIn August 2026, Bedrock-equipped excavators began doing fully autonomous, paid work on live commercial job sites. We've more than doubled our "
   },
   {
-    "title": "Field Systems Engineer Intern (Spring 2027)",
-    "location": "South San Francisco, California, USA",
-    "url": "https://www.zipline.com/open-roles/8004729003?gh_jid=8004729003",
-    "pay": "",
-    "metro": "SF Bay",
-    "level_signal": "intern",
-    "years_required": null,
-    "flags": [
-      "term: Spring 2027"
-    ],
-    "company": "Zipline",
-    "source": "Greenhouse",
-    "posted": "2026-09-25",
-    "snippet": "About Zipline Zipline is the world\u2019s largest and most experienced drone delivery service. We are on a mission to serve all humans equally by ensuring access to food, medicine and essential goods anytime, anywhere. We design, build, and operate the world\u2019s largest autonomous logistics system, delivering critical supplies quickly and reliably. Today, Zipline operates on four continents, makes a delivery somewhere in the world every 30 seconds, and has completed millions of deliveries to date, including blood, vaccines, medical supplies, food, and retail products. Our customers include the world\u2019"
-  },
-  {
     "title": "Electrical Integration Intern - RF (Summer 2027)",
     "location": "San Francisco",
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4715788006",
@@ -2159,50 +2053,6 @@
     "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
   },
   {
-    "title": "2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech",
-    "location": "San Francisco, California",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8203200",
-    "pay": "",
-    "metro": "SF Bay",
-    "level_signal": "intern",
-    "years_required": null,
-    "flags": [],
-    "company": "Waymo",
-    "source": "Greenhouse",
-    "posted": "2026-09-16",
-    "snippet": "Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver\u2014The World's Most Experienced Driver\u2122\u2014to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo\u2019s fully autonomous ride-hail service and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over ten million rider-only trips, enabled by its experience autonomously drivi"
-  },
-  {
-    "title": "Mechatronics Intern",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/physicalintelligence/0bcf909e-b38b-4276-91a1-e55c4c56a33a",
-    "pay": "",
-    "metro": "SF Bay",
-    "level_signal": "intern",
-    "years_required": null,
-    "flags": [],
-    "company": "Physical Intelligence",
-    "source": "Ashby",
-    "posted": "2026-09-17",
-    "snippet": "Fundamentally, a builder. Someone who loves to make robots real. We want someone who\u2019s as comfortable debugging a CAN bus issue as they are machining a bracket \u2014 an individual who thinks in systems, and who gets excited by tight integration between mechanical, electrical, and embedded design. You\u2019ll join the core Hardware Engineering team at Physical Intelligence who is supporting the robots that power PI\u2019s data collection and model training operations.\n\nThe Team\n\nThe core Hardware Engineering team designs and builds the robotic arms, mobile platforms, and end-effectors that underpin PI\u2019s data"
-  },
-  {
-    "title": "Electrical Project Engineer Intern (Summer 2027)",
-    "location": "South San Francisco, California, USA",
-    "url": "https://www.zipline.com/open-roles/7980932003?gh_jid=7980932003",
-    "pay": "",
-    "metro": "SF Bay",
-    "level_signal": "intern",
-    "years_required": null,
-    "flags": [
-      "term: Summer 2027"
-    ],
-    "company": "Zipline",
-    "source": "Greenhouse",
-    "posted": "2026-09-15",
-    "snippet": "About Zipline Zipline is the world\u2019s largest and most experienced drone delivery service. We are on a mission to serve all humans equally by ensuring access to food, medicine and essential goods anytime, anywhere. We design, build, and operate the world\u2019s largest autonomous logistics system, delivering critical supplies quickly and reliably. Today, Zipline operates on four continents, makes a delivery somewhere in the world every 30 seconds, and has completed millions of deliveries to date, including blood, vaccines, medical supplies, food, and retail products. Our customers include the world\u2019"
-  },
-  {
     "title": "Robotics Research, Robot Learning & Manipulation Intern (Spring, Summer, & Fall 2027)",
     "location": "Irvine, CA",
     "url": "https://jobs.lever.co/field-ai/b37569c3-d07f-4968-82dc-44020f34e54e",
@@ -2337,132 +2187,6 @@
     "snippet": "About Varda Low Earth orbit is open for business. Varda is accelerating the development of commercial space infrastructure, from in-orbit pharmaceutical processing to reliable and economical reentry capsules. Varda\u2019s W-Series vehicles are built, designed, and operated by Varda in-house, including the pharmaceutical processing payloads, the capsules, the C-PICA heat shields, and the satellite buses. From life-saving pharmaceuticals to more powerful fiber optics, there is a world of products used on Earth today that can only be manufactured in space. Varda is accelerating innovation in the orbit"
   },
   {
-    "title": "Electrical Engineering Intern Summer 2027",
-    "location": "Pasadena, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7998598003",
-    "pay": "",
-    "metro": "LA",
-    "level_signal": "intern",
-    "years_required": null,
-    "flags": [
-      "term: Summer 2027",
-      "returning-student req",
-      "ITAR/US-person"
-    ],
-    "company": "Rocket Lab",
-    "source": "Greenhouse",
-    "posted": "2026-09-17",
-    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. As an Electrical Engineering Intern based at Rocket Lab\u2019s site in Pasadena, California, you will have the opportunity to support the team by assisting with hardware bring-up, laboratory testing, prototype assembly, embedded firmware validation, data collection and a"
-  },
-  {
-    "title": "Test Engineering Intern - Manufacturing Spring 2027",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987042003",
-    "pay": "",
-    "metro": "LA",
-    "level_signal": "intern",
-    "years_required": null,
-    "flags": [
-      "term: Spring 2027",
-      "returning-student req",
-      "ITAR/US-person"
-    ],
-    "company": "Rocket Lab",
-    "source": "Greenhouse",
-    "posted": "2026-09-17",
-    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. As a Test Engineering Intern based at Rocket Lab\u2019s site in Long Beach, California, you will have the opportunity to support the team that designs, builds, and operates the test infrastructure that validates our propulsion and fluids systems and components from conce"
-  },
-  {
-    "title": "Systems Engineering Intern Summer 2027",
-    "location": "Pasadena, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990138003",
-    "pay": "",
-    "metro": "LA",
-    "level_signal": "intern",
-    "years_required": null,
-    "flags": [
-      "term: Summer 2027",
-      "returning-student req",
-      "ITAR/US-person"
-    ],
-    "company": "Rocket Lab",
-    "source": "Greenhouse",
-    "posted": "2026-09-17",
-    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. As a Systems Engineering Intern based at Rocket Lab\u2019s site in Pasadena, California, you will have the opportunity to support hands-on integration and testing which includes setting up test hardware, operating robotic systems, executing test procedures, collecting an"
-  },
-  {
-    "title": "Propulsion Analyst Intern Summer 2027",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986820003",
-    "pay": "",
-    "metro": "LA",
-    "level_signal": "intern",
-    "years_required": null,
-    "flags": [
-      "term: Summer 2027",
-      "returning-student req",
-      "ITAR/US-person"
-    ],
-    "company": "Rocket Lab",
-    "source": "Greenhouse",
-    "posted": "2026-09-16",
-    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. As a Propulsion Analyst Intern based at Rocket Lab\u2019s site in Long Beach, California, you will have the opportunity to support the Propulsion team in creating FEA models or CFD models of new and updated designs as well as gain hands experience analyzing critical rock"
-  },
-  {
-    "title": "Propulsion Analyst Intern Spring 2027",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986824003",
-    "pay": "",
-    "metro": "LA",
-    "level_signal": "intern",
-    "years_required": null,
-    "flags": [
-      "term: Spring 2027",
-      "returning-student req",
-      "ITAR/US-person"
-    ],
-    "company": "Rocket Lab",
-    "source": "Greenhouse",
-    "posted": "2026-09-16",
-    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. As a Propulsion Analyst Intern based at Rocket Lab\u2019s site in Long Beach, California, you will have the opportunity to support the Propulsion team in creating FEA models or CFD models of new and updated designs as well as gain hands experience analyzing critical rock"
-  },
-  {
-    "title": "Manufacturing Engineering Intern Summer 2027",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984564003",
-    "pay": "",
-    "metro": "LA",
-    "level_signal": "intern",
-    "years_required": null,
-    "flags": [
-      "term: Summer 2027",
-      "returning-student req",
-      "ITAR/US-person"
-    ],
-    "company": "Rocket Lab",
-    "source": "Greenhouse",
-    "posted": "2026-09-16",
-    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. As a Manufacturing Engineering Intern based at Rocket Lab\u2019s site in Long Beach, California, you will have the opportunity to work with the design, production and quality teams to develop and qualify process to make rocket engines. Rocket Lab\u2019s Manufacturing team are"
-  },
-  {
-    "title": "Manufacturing Engineering Intern Spring 2027",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984943003",
-    "pay": "",
-    "metro": "LA",
-    "level_signal": "intern",
-    "years_required": null,
-    "flags": [
-      "term: Spring 2027",
-      "returning-student req",
-      "ITAR/US-person"
-    ],
-    "company": "Rocket Lab",
-    "source": "Greenhouse",
-    "posted": "2026-09-16",
-    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. As a Manufacturing Engineering Intern based at Rocket Lab\u2019s site in Long Beach, California, you will have the opportunity to work with the design, production and quality teams to develop and qualify process to make rocket engines. Rocket Lab\u2019s Manufacturing team are"
-  },
-  {
     "title": "Electrical Engineering Summer 2027 Intern",
     "location": "Everett, WA",
     "url": "https://jobs.ashbyhq.com/helion/045d97eb-5efd-4e35-90f5-65eebe3363f4",
@@ -2477,6 +2201,20 @@
     "source": "Ashby",
     "posted": "2026-09-25",
     "snippet": "About Helion\n\nWe are a fusion power company based in Everett, WA, with the mission to build the world's first fusion power plant, enabling a future with unlimited clean electricity. Our vision is a world with clean, reliable, and affordable energy for everyone.\n\nSince Helion's founding in 2013, we have raised $1.5 billion from long-time investors such as Sam Altman, Mithril, and Capricorn Investment Group as well as new investors including Thrive Capital, LightSpeed Venture Capital, SoftBank, and others to propel us forward. Our current prototype, Polaris, has reached record-breaking plasma te"
+  },
+  {
+    "title": "Robotics Field Service Technician",
+    "location": "New York",
+    "url": "https://job-boards.greenhouse.io/formic/jobs/4726244006",
+    "pay": "",
+    "metro": "NYC",
+    "level_signal": "none",
+    "years_required": null,
+    "flags": [],
+    "company": "Formic",
+    "source": "Greenhouse",
+    "posted": "2026-10-30",
+    "snippet": "Who we are: Formic is on a mission to reshape American manufacturing by making automation accessible to every factory. As labor constraints rise, costs increase, and global competition intensifies, automation is no longer optional for manufacturers that want to stay competitive. We deliver automation through a Robotics-as-a-Service model that combines industrial robotics, proprietary software, and full-service support into a single, integrated solution. By removing the traditional barriers of cost, complexity, and risk, we enable manufacturers to deploy automation quickly and realize measurabl"
   },
   {
     "title": "Software Engineer, Fleet Platform",
@@ -2521,6 +2259,20 @@
     "snippet": "WHAT YOU'LL DO\n\nWe're looking for a sharp, methodical manual tester to add dedicated manual-testing capacity to the QA org during a busy stretch of releases. You'll run structured manual and exploratory test passes across Standard Bots' software \u2014 the robot control apps, teach pendant, and core workflows \u2014 execute regression every release, and file clean, well-documented bugs. Because our software drives physical 6-axis robots, a bug isn't just a UI glitch; it can move real hardware. Careful, observant testing is the whole job.\n\nThis is a contract role (roughly 3 months, with the option to ext"
   },
   {
+    "title": "Technical Support Engineer (Robotics)",
+    "location": "Watertown, MA",
+    "url": "https://jobs.lever.co/tutorintelligence/c183ed86-da17-4268-80ad-5253fa4fc202",
+    "pay": "$80,000-$110,000",
+    "metro": "Boston",
+    "level_signal": "none",
+    "years_required": null,
+    "flags": [],
+    "company": "Tutor Intelligence",
+    "source": "Lever",
+    "posted": "2026-10-30",
+    "snippet": "About Tutor\nWe believe robots are the biggest lever we have to making the physical world a better, more affordable place. But robots are a rounding error in our society: nearly nine out of ten American factories and warehouses don\u2019t even have a single robot, and robots have yet to make their way into our homes or places of business.\n\nTutor Intelligence is changing that.\nTutor is a robotics research and deployment company, building generally capable robot hardware and artificial intelligence to enable robots to go where no robots have gone before. Sonny is a semi-humanoid robot with frontier de"
+  },
+  {
     "title": "Mechanical Engineer (On-site)",
     "location": "Boston, MA",
     "url": "https://jobs.ashbyhq.com/standardbots/35bc9140-1548-4780-bc69-8c90591ee070",
@@ -2546,7 +2298,7 @@
     "company": "Tutor Intelligence",
     "source": "Lever",
     "posted": "2026-10-24",
-    "snippet": "About Tutor\nWe believe robots are the biggest lever we have to making the physical world a better, more affordable place. But robots are a rounding error in our society: nearly nine out of ten American factories and warehouses don\u2019t even have a single robot, and robots have yet to make their way into our homes or places of business.\nTutor Intelligence is changing that.\nTutor is a robotics research and deployment company, building generally capable robot hardware and artificial intelligence to enable robots to go where no robots have gone before. Sonny is a semi-humanoid robot with frontier dex"
+    "snippet": "About Tutor\nWe believe robots are the biggest lever we have to making the physical world a better, more affordable place. But robots are a rounding error in our society: nearly nine out of ten American factories and warehouses don\u2019t even have a single robot, and robots have yet to make their way into our homes or places of business.\nTutor Intelligence is changing that.\nTutor is a robotics research and deployment company, building generally capable robot hardware and artificial intelligence to enable robots to go where no robots have gone before. Our robots range from a semi-humanoid with front"
   },
   {
     "title": "Manufacturing Test Engineer ",
@@ -2588,10 +2340,10 @@
     "company": "Tutor Intelligence",
     "source": "Lever",
     "posted": "2026-10-22",
-    "snippet": "About Tutor\nWe believe robots are the biggest lever we have to making the physical world a better, more affordable place. But robots are a rounding error in our society: nearly nine out of ten American factories and warehouses don\u2019t even have a single robot, and robots have yet to make their way into our homes or places of business.\nTutor Intelligence is changing that.\nTutor is a robotics research and deployment company, building generally capable robot hardware and artificial intelligence to enable robots to go where no robots have gone before. Sonny is a semi-humanoid robot with frontier dex"
+    "snippet": "About Tutor\nWe believe robots are the biggest lever we have to making the physical world a better, more affordable place. But robots are a rounding error in our society: nearly nine out of ten American factories and warehouses don\u2019t even have a single robot, and robots have yet to make their way into our homes or places of business.\nTutor Intelligence is changing that.\nTutor is a robotics research and deployment company, building generally capable robot hardware and artificial intelligence to enable robots to go where no robots have gone before. Our robots range from a semi-humanoid with front"
   },
   {
-    "title": "Robotics Quality & Reliability Engineer",
+    "title": "Hardware Reliability Engineer",
     "location": "Watertown, MA",
     "url": "https://jobs.lever.co/tutorintelligence/652b0f01-8d20-4e88-96e2-1149983a2dc1",
     "pay": "$120,000-$200,000",
@@ -2602,7 +2354,7 @@
     "company": "Tutor Intelligence",
     "source": "Lever",
     "posted": "2026-10-19",
-    "snippet": "About Tutor\nWe believe robots are the biggest lever we have to making the physical world a better, more affordable place. But robots are a rounding error in our society: nearly nine out of ten American factories and warehouses don\u2019t even have a single robot, and robots have yet to make their way into our homes or places of business.\nTutor Intelligence is changing that.\nTutor is a robotics research and deployment company, building generally capable robot hardware and artificial intelligence to enable robots to go where no robots have gone before. Sonny is a semi-humanoid robot with frontier dex"
+    "snippet": "About Tutor\nWe believe robots are the biggest lever we have to making the physical world a better, more affordable place. But robots are a rounding error in our society: nearly nine out of ten American factories and warehouses don\u2019t even have a single robot, and robots have yet to make their way into our homes or places of business.\nTutor Intelligence is changing that.\nTutor is a robotics research and deployment company, building generally capable robot hardware and artificial intelligence to enable robots to go where no robots have gone before. Our robots range from a semi-humanoid with front"
   },
   {
     "title": "Quality Testing Technician",
@@ -2633,48 +2385,6 @@
     "snippet": "FieldAI is transforming how robots interact with the real world. We are building risk-aware, reliable, and field-ready AI systems that address the most complex challenges in robotics, unlocking the full potential of embodied intelligence. We go beyond typical data-driven approaches or pure transformer-based architectures, and are charting a new course, with already-globally-deployed solutions delivering real-world results and rapidly improving models through real-field applications.\n\n\nRobotics AI Engineer \u2013 Calibration, Localization, and Mapping\n\u00a0\n\u00a0\nAbout Field AI\nField AI is at the forefront "
   },
   {
-    "title": "Robotics Research Infrastructure Engineer",
-    "location": "Watertown, MA",
-    "url": "https://jobs.lever.co/tutorintelligence/17909bb1-3f32-46b6-89c9-83b68d00a3dd",
-    "pay": "$100,000-$300,000",
-    "metro": "Boston",
-    "level_signal": "none",
-    "years_required": null,
-    "flags": [],
-    "company": "Tutor Intelligence",
-    "source": "Lever",
-    "posted": "2026-10-08",
-    "snippet": "About Tutor\nWe believe robots are the biggest lever we have to making the physical world a better, more affordable place. But robots are a rounding error in our society: nearly nine out of ten American factories and warehouses don\u2019t even have a single robot, and robots have yet to make their way into our homes or places of business.\nTutor Intelligence is changing that.\nTutor is a robotics research and deployment company, building generally capable robot hardware and artificial intelligence to enable robots to go where no robots have gone before. Sonny is a semi-humanoid robot with frontier dex"
-  },
-  {
-    "title": "Mechanical Engineer",
-    "location": "Watertown, MA",
-    "url": "https://jobs.lever.co/tutorintelligence/9e010ddf-bcd9-46fa-be85-9e0e6b611ab6",
-    "pay": "$100,000-$300,000",
-    "metro": "Boston",
-    "level_signal": "none",
-    "years_required": null,
-    "flags": [],
-    "company": "Tutor Intelligence",
-    "source": "Lever",
-    "posted": "2026-10-08",
-    "snippet": "About Tutor\nWe believe robots are the biggest lever we have to making the physical world a better, more affordable place. But robots are a rounding error in our society: nearly nine out of ten American factories and warehouses don\u2019t even have a single robot, and robots have yet to make their way into our homes or places of business.\nTutor Intelligence is changing that.\nTutor is a robotics research and deployment company, building generally capable robot hardware and artificial intelligence to enable robots to go where no robots have gone before. Sonny is a semi-humanoid robot with frontier dex"
-  },
-  {
-    "title": "Electrical Engineer",
-    "location": "Watertown, MA",
-    "url": "https://jobs.lever.co/tutorintelligence/a4c58d4a-361b-4b25-83bb-2d3fe038f744",
-    "pay": "$100,000-$300,000",
-    "metro": "Boston",
-    "level_signal": "none",
-    "years_required": null,
-    "flags": [],
-    "company": "Tutor Intelligence",
-    "source": "Lever",
-    "posted": "2026-10-08",
-    "snippet": "About Tutor\nWe believe robots are the biggest lever we have to making the physical world a better, more affordable place. But robots are a rounding error in our society: nearly nine out of ten American factories and warehouses don\u2019t even have a single robot, and robots have yet to make their way into our homes or places of business.\nTutor Intelligence is changing that.\nTutor is a robotics research and deployment company, building generally capable robot hardware and artificial intelligence to enable robots to go where no robots have gone before. Sonny is a semi-humanoid robot with frontier dex"
-  },
-  {
     "title": "Manufacturing Engineer",
     "location": "Somerville, MA",
     "url": "https://careers.formlabs.com/job/8249899/apply/?gh_jid=8249899",
@@ -2689,10 +2399,10 @@
     "snippet": "About Formlabs: Do you want to change how the world creates? At Formlabs, we\u2019re building the tools that make it possible for anyone to bring their ideas to life, from cutting-edge products to life-saving medical devices. Our 3D printing technology powers innovation at more than 50,000 industry leaders worldwide, including Apple, Google, Tesla, New Balance, and NASA. Together, we\u2019re helping everyone design, prototype, and manufacture faster than ever before. We\u2019re a team of hands-on builders, engineers, and innovators reinventing how the world makes physical things. If you\u2019re ready to shape the"
   },
   {
-    "title": "Hardware Systems Integration Engineer (Mandarin)",
+    "title": "Systems Integration Engineer, Hardware (Mandarin)",
     "location": "Watertown, MA",
     "url": "https://jobs.lever.co/tutorintelligence/bfe5d45b-69b4-4835-9370-038125c25c49",
-    "pay": "$150,000-$300,000",
+    "pay": "$100,000-$315,000",
     "metro": "Boston",
     "level_signal": "none",
     "years_required": null,
@@ -2731,10 +2441,10 @@
     "snippet": "About Us\nAt Pickle Robot, we're on a mission to automate global supply chains with Physical AI. Our robots work alongside warehouse teams to unload trucks and containers \u2014 one of the toughest, most understaffed jobs in logistics \u2014 making the work safer, faster, and more efficient for the people doing it.\u00a0 Loading trucks comes next, followed by the Dill Autonomy Engine: generalized autonomy that will eventually orchestrate robots across entire logistics processes.\n\n\nWe're looking for a tech-savvy and mechanically inclined individual who thrives on clear task ownership and isn't afraid to speak "
   },
   {
-    "title": "Controls Engineer (Robotics)",
+    "title": "Controls Engineer, Robotics",
     "location": "Watertown, MA",
     "url": "https://jobs.lever.co/tutorintelligence/19cf5cea-3da1-44b3-99e4-fd791c4f3bd3",
-    "pay": "$150,000-$300,000",
+    "pay": "$100,000-$315,000",
     "metro": "Boston",
     "level_signal": "none",
     "years_required": null,
@@ -2748,7 +2458,7 @@
     "title": "Perception Engineer, Robot Safety",
     "location": "Watertown, MA",
     "url": "https://jobs.lever.co/tutorintelligence/73ddd613-fbd6-4ea2-9703-df9f1d4ed536",
-    "pay": "$150,000-$300,000",
+    "pay": "$100,000-$315,000",
     "metro": "Boston",
     "level_signal": "none",
     "years_required": null,
@@ -2785,6 +2495,34 @@
     "source": "Greenhouse",
     "posted": "2026-09-18",
     "snippet": "About Formlabs: Do you want to change how the world creates? At Formlabs , we\u2019re building the tools that make it possible for anyone to bring their ideas to life, from cutting-edge products to life-saving medical devices. Our 3D printing technology powers innovation at more than 50,000 industry leaders worldwide, including Apple, Google, Tesla, New Balance, and NASA. Together, we\u2019re helping everyone design, prototype, and manufacture faster than ever before. We\u2019re a team of hands-on builders, engineers, and innovators reinventing how the world makes physical things. If you\u2019re ready to shape th"
+  },
+  {
+    "title": "Electrical Engineer- SDR Hardware ",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4607847006",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "none",
+    "years_required": null,
+    "flags": [],
+    "company": "Astranis",
+    "source": "Greenhouse",
+    "posted": "2026-10-30",
+    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
+  },
+  {
+    "title": "Firmware Engineer - Testing",
+    "location": "San Carlos, CA",
+    "url": "https://jobs.ashbyhq.com/1x/4cb3ef10-8755-4050-b5f1-309591626d1c",
+    "pay": "$150K \u2013 $190K \u2022 Offers Equity",
+    "metro": "SF Bay",
+    "level_signal": "none",
+    "years_required": null,
+    "flags": [],
+    "company": "1X",
+    "source": "Ashby",
+    "posted": "2026-10-30",
+    "snippet": "ABOUT 1X\n\nWe're building humanoid robots that work in home - doing the chores, handling the tasks, and giving people their time back. Simple, but it's not.\n\nTo do this right, we have to solve robotics, AI, manufacturing - at the same time, at scale, in a form factor that has to be safe enough to live with your family. If you're inspired by this, you'll thrive here. We've been at this since 2014 and we're at the point where the hard problems are behind us and the hard work is in front of us.\n\nNEO is our flagship - a home robot designed to move, learn, and operate in the real world alongside rea"
   },
   {
     "title": "Software Engineer, Production Test",
@@ -3073,34 +2811,6 @@
     "snippet": "Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver\u2014The World's Most Experienced Driver\u2122\u2014to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo\u2019s fully autonomous ride-hail service and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over ten million rider-only trips, enabled by its experience autonomously drivi"
   },
   {
-    "title": "Hardware Engineer",
-    "location": "San Francisco, CA",
-    "url": "https://jobs.ashbyhq.com/bedrock-robotics/087f6417-5d8c-45b6-a7d0-dfaa2cc92cf8",
-    "pay": "",
-    "metro": "SF Bay",
-    "level_signal": "none",
-    "years_required": null,
-    "flags": [],
-    "company": "Bedrock Robotics",
-    "source": "Ashby",
-    "posted": "2026-10-14",
-    "snippet": "Bedrock Robotics, Inc. seeks a Hardware Engineer in San Francisco, CA responsible for designing, manufacturing, and testing its autonomous hardware systems, including high performance computer systems, sensors, controllers, interfaces to machines, and testing equipment.\n\nThis position will work with autonomous hardware systems installed on standard heavy construction machinery\u2014excavators, bulldozers, and wheel loaders\u2014to allow that equipment to perform earthmoving work on construction sites autonomously. In this context, \u201cautonomous hardware systems\u201d are the physical electronic components inst"
-  },
-  {
-    "title": "Industrials Integration Engineer",
-    "location": "Sunnyvale",
-    "url": "https://jobs.ashbyhq.com/applied/0bb0edfa-15e9-4012-b06e-1edc1af0ea4c",
-    "pay": "$140K \u2013 $175K",
-    "metro": "SF Bay",
-    "level_signal": "none",
-    "years_required": null,
-    "flags": [],
-    "company": "Applied Intuition",
-    "source": "Ashby",
-    "posted": "2026-10-13",
-    "snippet": "Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, mining and agriculture industries in three core areas: tools and infrastructure, operating systems, and autonomy. Eighteen of the top 20 global automakers, as well as the United States military and its allies, trust the company\u2019s solutions to deliver physical intelligence. Applie"
-  },
-  {
     "title": "Systems Engineer - Compute",
     "location": "Austin, Texas, United States; South San Francisco, California, United States",
     "url": "https://boards.greenhouse.io/neuralink/jobs/8027961003?gh_jid=8027961003",
@@ -3345,20 +3055,6 @@
     "source": "Ashby",
     "posted": "2026-09-21",
     "snippet": "Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, mining and agriculture industries in three core areas: tools and infrastructure, operating systems, and autonomy. Eighteen of the top 20 global automakers, as well as the United States military and its allies, trust the company\u2019s solutions to deliver physical intelligence. Applie"
-  },
-  {
-    "title": "Robotics Data Collection Operator - Santa Clara",
-    "location": "Santa Clara",
-    "url": "https://jobs.ashbyhq.com/cobot/9a96442e-d4bc-4482-9aac-8622d96fa7df",
-    "pay": "",
-    "metro": "SF Bay",
-    "level_signal": "none",
-    "years_required": null,
-    "flags": [],
-    "company": "Collaborative Robotics",
-    "source": "Ashby",
-    "posted": "2026-09-17",
-    "snippet": "Are you driven by curiosity and enjoy working hands-on with technology? Join Collaborative Robotics as a Robotics Data Collection Operator and play a key role in supporting AI data collection efforts, contributing directly to the development and improvement of next-generation collaborative mobile robots alongside an innovative team.\n\n\n\nJoin us to reimagine the future of human-robot interaction.\n\n\n\nCollaborative Robotics is a team of innovators and builders redefining the future of human-robot interaction. We are working to realize a world where robots are a trusted extension of your surroundin"
   },
   {
     "title": "Mechanical Design Engineer (Raptor Engine Systems)",
@@ -4027,100 +3723,20 @@
     "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. ELECTRICAL ENGINEER, BATTERY (FALCON & DRAGON) As an Electrical Battery Engineer on the Falcon & Dragon Avionics Hardware Development team, you will have the unique opportunity to explore all areas of a battery\u2019s life cycle from development through production and launch by engaging in multiple disciplines with a focus"
   },
   {
-    "title": "Manufacturing Engineer, Chamber and Nozzle (Raptor)",
-    "location": "Hawthorne, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8803023002?gh_jid=8803023002",
+    "title": "GNC Engineer, Collision Avoidance (Starlink)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8923946002?gh_jid=8923946002",
     "pay": "",
-    "metro": "LA",
+    "metro": "Seattle",
     "level_signal": "none",
-    "years_required": 1,
+    "years_required": 2,
     "flags": [
       "ITAR/US-person"
     ],
     "company": "SpaceX",
     "source": "Greenhouse",
-    "posted": "2026-09-17",
-    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. MANUFACTURING ENGINEER, CHAMBER AND NOZZLE (RAPTOR) SpaceX is seeking a Manufacturing Engineer with expertise in CNC machining to create the Raptor engine\u2019s combustion chamber and nozzle. These components feature some of the most complex geometries in rocket propulsion including intricate regenerative cooling channels"
-  },
-  {
-    "title": "Welding Automation Engineer, Chamber and Nozzle (Raptor)",
-    "location": "Hawthorne, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8817992002?gh_jid=8817992002",
-    "pay": "",
-    "metro": "LA",
-    "level_signal": "none",
-    "years_required": 1,
-    "flags": [
-      "ITAR/US-person"
-    ],
-    "company": "SpaceX",
-    "source": "Greenhouse",
-    "posted": "2026-09-17",
-    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. WELDING AUTOMATION ENGINEER, CHAMBER AND NOZZLE (RAPTOR) SpaceX is seeking an engineer with deep expertise in automated welding to create the Raptor engine\u2019s combustion chamber and nozzle. These components feature some of the most complex geometries in rocket propulsion \u2014 including intricate regenerative cooling chann"
-  },
-  {
-    "title": "Propulsion Engineer, Chamber and Nozzle Manufacturing (Raptor)",
-    "location": "Hawthorne, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8817976002?gh_jid=8817976002",
-    "pay": "",
-    "metro": "LA",
-    "level_signal": "none",
-    "years_required": 1,
-    "flags": [
-      "ITAR/US-person"
-    ],
-    "company": "SpaceX",
-    "source": "Greenhouse",
-    "posted": "2026-09-17",
-    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. PROPULSION ENGINEER, CHAMBER AND NOZZLE MANUFACTURING (RAPTOR) SpaceX is seeking an engineer to focus on manufacturing the world\u2019s most powerful combustion chamber and nozzle. These components feature some of the most complex geometries in rocket propulsion \u2014 including intricate regenerative cooling channels, thin-wal"
-  },
-  {
-    "title": "Manufacturing Automation Engineer, Chamber and Nozzle (Raptor) ",
-    "location": "Hawthorne, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8817807002?gh_jid=8817807002",
-    "pay": "",
-    "metro": "LA",
-    "level_signal": "none",
-    "years_required": 1,
-    "flags": [
-      "ITAR/US-person"
-    ],
-    "company": "SpaceX",
-    "source": "Greenhouse",
-    "posted": "2026-09-17",
-    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. MANUFACTURING AUTOMATION ENGINEER, CHAMBER AND NOZZLE (RAPTOR) SpaceX is seeking an engineer with deep expertise in manufacturing automation to create the machines that build the Raptor engine\u2019s combustion chamber and nozzle. These components feature some of the most complex geometries in rocket propulsion \u2014 including"
-  },
-  {
-    "title": "Additive Manufacturing Engineer (Raptor)",
-    "location": "Hawthorne, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8816517002?gh_jid=8816517002",
-    "pay": "",
-    "metro": "LA",
-    "level_signal": "none",
-    "years_required": null,
-    "flags": [
-      "ITAR/US-person"
-    ],
-    "company": "SpaceX",
-    "source": "Greenhouse",
-    "posted": "2026-09-17",
-    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. ADDITIVE MANUFACTURING ENGINEER (RAPTOR) The Additive Manufacturing Engineer is responsible for design, development, and testing of all facets of the additive process with a focus on machines, software, part design and analysis, and additive techniques. RESPONSIBILITIES: Drive and identify projects to make the printer"
-  },
-  {
-    "title": "Software Engineer, Internal Applications",
-    "location": "Hawthorne, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8812137002?gh_jid=8812137002",
-    "pay": "",
-    "metro": "LA",
-    "level_signal": "none",
-    "years_required": 1,
-    "flags": [
-      "ITAR/US-person"
-    ],
-    "company": "SpaceX",
-    "source": "Greenhouse",
-    "posted": "2026-09-15",
-    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. SOFTWARE ENGINEER, INTERNAL APPLICATIONS The application software team is the central nervous system of SpaceX \u2013 we create mission critical applications that are used throughout SpaceX to accelerate launch vehicle production and flight as well as systems that allow Starlink to grow into a worldwide fast, reliable Inte"
+    "posted": "2026-10-30",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. GNC ENGINEER, COLLISION AVOIDANCE (STARLINK) SpaceX is looking for engineers with a hybrid background in both GNC (guidance, navigation, and control) and software development to join the Starlink Collision Avoidance team. Starlink operates the world's largest satellite constellation \u2014 nearly half of the world's active"
   },
   {
     "title": "Sourcing Specialist, Electro Mechanical Commodities (Starlink Aviation) ",
@@ -4437,35 +4053,5 @@
     "source": "Greenhouse",
     "posted": "2026-09-21",
     "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. ELECTRICAL INTEGRATION ENGINEER (STARLINK AVIATION) The Starlink Aviation team is developing mobility solutions for aircraft that will connect to the Starlink constellation and provide an amazing customer experience in flight. As an electrical engineer, you will be responsible for integrating Starlink products in a va"
-  },
-  {
-    "title": "Robotics Data Collection Operator - Seattle ",
-    "location": "Seattle",
-    "url": "https://jobs.ashbyhq.com/cobot/80ce0222-0e42-4479-8e49-a484cc6126a5",
-    "pay": "",
-    "metro": "Seattle",
-    "level_signal": "none",
-    "years_required": null,
-    "flags": [],
-    "company": "Collaborative Robotics",
-    "source": "Ashby",
-    "posted": "2026-09-16",
-    "snippet": "Are you driven by curiosity and enjoy working hands-on with technology? Join Collaborative Robotics as a Robotics Data Collection Operator and play a key role in supporting AI data collection efforts, contributing directly to the development and improvement of next-generation collaborative mobile robots alongside an innovative team.\n\n\n\nJoin us to reimagine the future of human-robot interaction.\n\n\n\nCollaborative Robotics is a team of innovators and builders redefining the future of human-robot interaction. We are working to realize a world where robots are a trusted extension of your surroundin"
-  },
-  {
-    "title": "Hardware Reliability Specialist (Starlink Aviation)",
-    "location": "Woodinville, WA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8805813002?gh_jid=8805813002",
-    "pay": "",
-    "metro": "Seattle",
-    "level_signal": "none",
-    "years_required": 1,
-    "flags": [
-      "ITAR/US-person"
-    ],
-    "company": "SpaceX",
-    "source": "Greenhouse",
-    "posted": "2026-09-15",
-    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. HARDWARE RELIABILITY SPECIALIST (STARLINK AVIATION) SpaceX\u2019s Starlink Aviation team is working to connect commercial and private aircraft to our growing constellation of low earth orbit satellites to provide a high bandwidth, low latency, \u201cliving room\u201d Wi-Fi experience in-flight anywhere on earth. As a hardware reliab"
   }
 ]
