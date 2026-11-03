@@ -324,34 +324,6 @@
     "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
   },
   {
-    "title": "Harness Manufacturing Associate (Summer 2027)",
-    "location": "San Francisco",
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705260006",
-    "pay": "",
-    "metro": "SF Bay",
-    "level_signal": "title",
-    "years_required": null,
-    "flags": [],
-    "company": "Astranis",
-    "source": "Greenhouse",
-    "posted": "2026-09-18",
-    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
-  },
-  {
-    "title": "Environmental Test Engineer Associate (Winter 2027)",
-    "location": "San Francisco",
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705660006",
-    "pay": "",
-    "metro": "SF Bay",
-    "level_signal": "title",
-    "years_required": null,
-    "flags": [],
-    "company": "Astranis",
-    "source": "Greenhouse",
-    "posted": "2026-09-18",
-    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
-  },
-  {
     "title": "Business Systems Engineer I",
     "location": "Long Beach, CA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8087292003",
@@ -421,38 +393,6 @@
     "metro": "LA",
     "level_signal": "title",
     "years_required": null,
-    "flags": [
-      "ITAR/US-person"
-    ],
-    "company": "Rocket Lab",
-    "source": "Greenhouse",
-    "posted": "2026-10-28",
-    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. SPACE SYSTEMS At Rocket Lab, we\u2019re not just launching rockets \u2014 we're building the future of space. Our Space Systems team builds everything from complete spacecraft, precision payloads to the components and subsystems that allow them to thrive in space, like solar "
-  },
-  {
-    "title": "Systems Engineer I",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8054797003",
-    "pay": "",
-    "metro": "LA",
-    "level_signal": "title",
-    "years_required": null,
-    "flags": [
-      "ITAR/US-person"
-    ],
-    "company": "Rocket Lab",
-    "source": "Greenhouse",
-    "posted": "2026-10-28",
-    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. SPACE SYSTEMS At Rocket Lab, we\u2019re not just launching rockets \u2014 we're building the future of space. Our Space Systems team builds everything from complete spacecraft, precision payloads to the components and subsystems that allow them to thrive in space, like solar "
-  },
-  {
-    "title": "Mechanical Development & Test Engineer I",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8053825003",
-    "pay": "",
-    "metro": "LA",
-    "level_signal": "title",
-    "years_required": 0,
     "flags": [
       "ITAR/US-person"
     ],
@@ -852,20 +792,6 @@
     "snippet": "Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from utility inspectors https://www.skydio.com/solutions/energy-and-utilities to first responders https://www.skydio.com/solutions/public-safety, soldiers in battlefield scenarios https://www.skydio.com/solutions/national"
   },
   {
-    "title": "Mechanical Engineer, AI Data Collection",
-    "location": "Santa Clara",
-    "url": "https://jobs.ashbyhq.com/cobot/f060d83e-3b73-4a41-b8e1-c19359d572b4",
-    "pay": "",
-    "metro": "SF Bay",
-    "level_signal": "body",
-    "years_required": 1,
-    "flags": [],
-    "company": "Collaborative Robotics",
-    "source": "Ashby",
-    "posted": "2026-09-29",
-    "snippet": "Collaborative Robotics is seeking an early-career Mechanical Engineer to keep our robot data collection systems running. You will own the day-to-day health of our teleoperation and data collection rigs, working hands-on across mechanical hardware, cabling, basic electrical, and light software. This role sits on the core mechanical engineering team, with a path to grow into robot development work across our hardware programs.\n\nJoin us to reimagine the future of human-robot interaction.\n\n\n\nCollaborative Robotics is a team of innovators and builders redefining the future of human-robot interactio"
-  },
-  {
     "title": "Software Engineer - Simulation",
     "location": "Austin, Texas, United States; South San Francisco, California, United States",
     "url": "https://boards.greenhouse.io/neuralink/jobs/8005762003?gh_jid=8005762003",
@@ -1116,6 +1042,22 @@
     "snippet": "FieldAI\u2019s Irvine team is where embodied AI meets real robots, real sensors, and real field deployments. Based in the heart of Southern California\u2019s robotics ecosystem, we build risk-aware, reliable, field-ready AI systems that solve the hardest problems in robotics and unlock the full potential of embodied intelligence. If you want your work to ship, get tested on hardware, and improve through real deployments, Irvine is the place. We go beyond typical data-driven approaches or pure transformer-only architectures, combining rigorous engineering with learning systems proven in globally deployed"
   },
   {
+    "title": "Software Engineer (Starlink)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8922361002?gh_jid=8922361002",
+    "pay": "",
+    "metro": "Seattle",
+    "level_signal": "body",
+    "years_required": null,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-02",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. SOFTWARE ENGINEER (STARLINK) As a Software Engineer on the Starlink Enterprise Products team you will define, build, and deploy product features and capabilities that unlock new opportunities to advance global connectivity. Your software will have a meaningful and measurable impact in areas such as aviation, maritime,"
+  },
+  {
     "title": "Software Engineer (Starlink Ground Network)",
     "location": "Redmond, WA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8841324002?gh_jid=8841324002",
@@ -1178,20 +1120,20 @@
     "snippet": "FieldAI is transforming how robots interact with the real world. Our growing R&D team is based in Boston, where we develop risk-aware, reliable, field-ready AI systems that tackle the hardest problems in robotics and unlock the potential of embodied intelligence. We take a pragmatic approach that goes beyond off-the-shelf, purely data-driven methods or transformer-only architectures, combining cutting-edge research with real-world deployment. Our solutions are already deployed globally, and we continuously improve model performance through rapid iteration driven by real field use.\n\n\nHardware T"
   },
   {
-    "title": "Hardware Test Engineering Intern (Winter/Spring 2027)",
-    "location": "Somerville, MA",
-    "url": "https://careers.formlabs.com/job/8196515/apply/?gh_jid=8196515",
+    "title": "Integration & Test - Mechanical Engineering Intern [Winter 2027]",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4726631006",
     "pay": "",
-    "metro": "Boston",
+    "metro": "SF Bay",
     "level_signal": "intern",
     "years_required": null,
     "flags": [
       "term: Winter 2027"
     ],
-    "company": "Formlabs",
+    "company": "Figure",
     "source": "Greenhouse",
-    "posted": "2026-09-18",
-    "snippet": "Do you want to change how the world creates? At Formlabs, we\u2019re building the tools that make it possible for anyone to bring their ideas to life, from cutting-edge products to life-saving medical devices. Our 3D printing technology powers innovation at more than 50,000 industry leaders worldwide, including Apple, Google, Tesla, New Balance, and NASA. Together, we\u2019re helping everyone design, prototype, and manufacture faster than ever before. We\u2019re a team of hands-on builders, engineers, and innovators reinventing how the world makes physical things. If you\u2019re ready to shape the future of fabri"
+    "posted": "2026-11-02",
+    "snippet": "Figure is an AI robotics company developing autonomous general-purpose humanoid robots. The goal of the company is to ship humanoid robots with human level intelligence. Its robots are engineered to perform a variety of tasks in the home and commercial markets. Figure is headquartered in San Jose, CA. We are looking for a Mechanical Engineering Intern for Winter 2027 to support the design, build, and testing of prototype hardware across our integration and test teams. This internship is designed for students in their final year of an undergraduate or master\u2019s program, as well as recent graduat"
   },
   {
     "title": "Manufacturing Intern - Summer 2027",
@@ -1301,6 +1243,22 @@
     "title": "Hardware Test and Reliability Intern - Summer 2027",
     "location": "San Mateo, California, United States",
     "url": "https://jobs.ashbyhq.com/skydio/36d75e36-eeb2-4399-8887-37c4a5ff5800",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027"
+    ],
+    "company": "Skydio",
+    "source": "Ashby",
+    "posted": "2026-10-20",
+    "snippet": "Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from utility inspectors https://www.skydio.com/solutions/energy-and-utilities to first responders https://www.skydio.com/solutions/public-safety, soldiers in battlefield scenarios https://www.skydio.com/solutions/national"
+  },
+  {
+    "title": "Electrical Engineer Intern - Summer 2027",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/57336f0f-a8ed-4ede-b6da-d399e5335fe4",
     "pay": "",
     "metro": "SF Bay",
     "level_signal": "intern",
@@ -1623,20 +1581,6 @@
     "source": "Greenhouse",
     "posted": "2026-09-29",
     "snippet": "About the role Summer internships will range between the months of May and September depending on university schedules. Internship is full-time and on-site in Mountain View, CA. The Guidance, Navigation, and Control (GNC) Engineering team at Muon is responsible for all GNC on the spacecraft, ranging from sensor and actuator selection to system-level pointing analysis and even writing GNC flight software! Hardware-focused interns can look forward to owning a project from start to finish which will involve developing a new testing capability for a GNC component. Come work with the team and help "
-  },
-  {
-    "title": "2027 Summer Intern, BS, Depot Automation",
-    "location": "San Francisco, California",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8234553",
-    "pay": "",
-    "metro": "SF Bay",
-    "level_signal": "intern",
-    "years_required": null,
-    "flags": [],
-    "company": "Waymo",
-    "source": "Greenhouse",
-    "posted": "2026-09-28",
-    "snippet": "Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver\u2014The World's Most Experienced Driver\u2122\u2014to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo\u2019s fully autonomous ride-hail service and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over ten million rider-only trips, enabled by its experience autonomously drivi"
   },
   {
     "title": "Electrical Integration Intern - Avionics (Winter 2027)",
@@ -1989,70 +1933,6 @@
     "snippet": "About Zipline Zipline is the world\u2019s largest and most experienced drone delivery service. We are on a mission to serve all humans equally by ensuring access to food, medicine and essential goods anytime, anywhere. We design, build, and operate the world\u2019s largest autonomous logistics system, delivering critical supplies quickly and reliably. Today, Zipline operates on four continents, makes a delivery somewhere in the world every 30 seconds, and has completed millions of deliveries to date, including blood, vaccines, medical supplies, food, and retail products. Our customers include the world\u2019"
   },
   {
-    "title": "Harness Manufacturing Intern (Summer 2027)",
-    "location": "San Francisco",
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705255006",
-    "pay": "",
-    "metro": "SF Bay",
-    "level_signal": "intern",
-    "years_required": null,
-    "flags": [
-      "term: Summer 2027"
-    ],
-    "company": "Astranis",
-    "source": "Greenhouse",
-    "posted": "2026-09-18",
-    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
-  },
-  {
-    "title": "Environmental Test Engineer Intern (Winter 2027)",
-    "location": "San Francisco",
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705652006",
-    "pay": "",
-    "metro": "SF Bay",
-    "level_signal": "intern",
-    "years_required": null,
-    "flags": [
-      "term: Winter 2027"
-    ],
-    "company": "Astranis",
-    "source": "Greenhouse",
-    "posted": "2026-09-18",
-    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
-  },
-  {
-    "title": "Propulsion Manufacturing Intern (Summer 2027)",
-    "location": "San Francisco",
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705648006",
-    "pay": "",
-    "metro": "SF Bay",
-    "level_signal": "intern",
-    "years_required": null,
-    "flags": [
-      "term: Summer 2027"
-    ],
-    "company": "Astranis",
-    "source": "Greenhouse",
-    "posted": "2026-09-18",
-    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
-  },
-  {
-    "title": "Propulsion Manufacturing Intern (Winter 2027)",
-    "location": "San Francisco",
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705649006",
-    "pay": "",
-    "metro": "SF Bay",
-    "level_signal": "intern",
-    "years_required": null,
-    "flags": [
-      "term: Winter 2027"
-    ],
-    "company": "Astranis",
-    "source": "Greenhouse",
-    "posted": "2026-09-18",
-    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
-  },
-  {
     "title": "Robotics Research, Robot Learning & Manipulation Intern (Spring, Summer, & Fall 2027)",
     "location": "Irvine, CA",
     "url": "https://jobs.lever.co/field-ai/b37569c3-d07f-4968-82dc-44020f34e54e",
@@ -2231,34 +2111,6 @@
     "snippet": "JOIN THE TEAM BRINGING AUTONOMY TO THE BUILT WORLD\n\n\nAt Bedrock, we're moving AI out of the lab and onto real job sites. Our team includes veterans who helped launch Waymo, scaled Segment to a $3.2B acquisition, and grew Uber Freight to $5B in revenue. We retrofit the heavy equipment contractors already own, starting with excavators, so experienced crews can safely take on more projects and deliver more of the critical infrastructure our society needs.\n\nIn August 2026, Bedrock-equipped excavators began doing fully autonomous, paid work on live commercial job sites. We've more than doubled our "
   },
   {
-    "title": "Field Service Engineer - Newark",
-    "location": "Newark, NJ",
-    "url": "https://careers.formlabs.com/job/8214416/apply/?gh_jid=8214416",
-    "pay": "",
-    "metro": "NYC",
-    "level_signal": "none",
-    "years_required": null,
-    "flags": [],
-    "company": "Formlabs",
-    "source": "Greenhouse",
-    "posted": "2026-09-18",
-    "snippet": "About Formlabs: Do you want to change how the world creates? At Formlabs , we\u2019re building the tools that make it possible for anyone to bring their ideas to life, from cutting-edge products to life-saving medical devices. Our 3D printing technology powers innovation at more than 50,000 industry leaders worldwide, including Apple, Google, Tesla, New Balance, and NASA. Together, we\u2019re helping everyone design, prototype, and manufacture faster than ever before. We\u2019re a team of hands-on builders, engineers, and innovators reinventing how the world makes physical things. If you\u2019re ready to shape th"
-  },
-  {
-    "title": "Manual QA Tester (Contract 3+ months) ",
-    "location": "Glen Cove, NY",
-    "url": "https://jobs.ashbyhq.com/standardbots/87c9fcc2-a779-48df-aa37-f4838d201dee",
-    "pay": "$25 \u2013 $30 per hour",
-    "metro": "NYC",
-    "level_signal": "none",
-    "years_required": 2,
-    "flags": [],
-    "company": "Standard Bots",
-    "source": "Ashby",
-    "posted": "2026-09-18",
-    "snippet": "WHAT YOU'LL DO\n\nWe're looking for a sharp, methodical manual tester to add dedicated manual-testing capacity to the QA org during a busy stretch of releases. You'll run structured manual and exploratory test passes across Standard Bots' software \u2014 the robot control apps, teach pendant, and core workflows \u2014 execute regression every release, and file clean, well-documented bugs. Because our software drives physical 6-axis robots, a bug isn't just a UI glitch; it can move real hardware. Careful, observant testing is the whole job.\n\nThis is a contract role (roughly 3 months, with the option to ext"
-  },
-  {
     "title": "Technical Support Engineer (Robotics)",
     "location": "Watertown, MA",
     "url": "https://jobs.lever.co/tutorintelligence/c183ed86-da17-4268-80ad-5253fa4fc202",
@@ -2371,7 +2223,7 @@
     "snippet": "Markforged (NYSE: MKFG) is leading the digital transformation of manufacturing by revolutionizing how engineers and manufacturers create and innovate. Our unique platform combines software, advanced materials (including cutting-edge metal and composite technologies), and industrial 3D printers to deliver strong, functional parts for various industries. We empower customers to overcome supply chain complexities, reduce costs, and accelerate innovation by producing high-performance tools, fixtures, prototypes, and end-use parts in-house. Please note that this is a contractor position, not a full"
   },
   {
-    "title": "Robotics AI Engineer \u2013 Calibration, Localization, and Mapping",
+    "title": "Robotics AI Engineer, Calibration, Localization, and Mapping",
     "location": "Boston, MA",
     "url": "https://jobs.lever.co/field-ai/9524c7c2-8be2-4463-afe3-7c1c60f7e6f2",
     "pay": "",
@@ -2413,7 +2265,7 @@
     "snippet": "About Tutor\nWe believe robots are the biggest lever we have to making the physical world a better, more affordable place. But robots are a rounding error in our society: nearly nine out of ten American factories and warehouses don\u2019t even have a single robot, and robots have yet to make their way into our homes or places of business.\nTutor Intelligence is changing that.\nTutor is a robotics research and deployment company, building generally capable robot hardware and artificial intelligence to enable robots to go where no robots have gone before. Sonny is a semi-humanoid robot with frontier dex"
   },
   {
-    "title": "Research / Software Engineer - Humanoid Whole Body Learning",
+    "title": "Research / Software Engineer, Humanoid Whole Body Learning",
     "location": "Boston, MA",
     "url": "https://jobs.lever.co/field-ai/09def7d8-26bf-451f-a4f2-bd8fd4c5f5cf",
     "pay": "$120,000-$220,000",
@@ -2469,32 +2321,76 @@
     "snippet": "About Tutor\nWe believe robots are the biggest lever we have to making the physical world a better, more affordable place. But robots are a rounding error in our society: nearly nine out of ten American factories and warehouses don\u2019t even have a single robot, and robots have yet to make their way into our homes or places of business.\nTutor Intelligence is changing that.\nTutor is a robotics research and deployment company, building generally capable robot hardware and artificial intelligence to enable robots to go where no robots have gone before. Sonny is a semi-humanoid robot with frontier dex"
   },
   {
-    "title": "Field Service Technician - Boston",
-    "location": "Boston, MA",
-    "url": "https://careers.formlabs.com/job/8214446/apply/?gh_jid=8214446",
-    "pay": "",
-    "metro": "Boston",
+    "title": "Firmware",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/thebotcompany/a7475ed8-b2b3-4393-aba1-d18ae44f732a",
+    "pay": "$200K \u2013 $350K",
+    "metro": "SF Bay",
     "level_signal": "none",
     "years_required": null,
     "flags": [],
-    "company": "Formlabs",
-    "source": "Greenhouse",
-    "posted": "2026-09-18",
-    "snippet": "About Formlabs: Do you want to change how the world creates? At Formlabs , we\u2019re building the tools that make it possible for anyone to bring their ideas to life, from cutting-edge products to life-saving medical devices. Our 3D printing technology powers innovation at more than 50,000 industry leaders worldwide, including Apple, Google, Tesla, New Balance, and NASA. Together, we\u2019re helping everyone design, prototype, and manufacture faster than ever before. We\u2019re a team of hands-on builders, engineers, and innovators reinventing how the world makes physical things. If you\u2019re ready to shape th"
+    "company": "The Bot Company",
+    "source": "Ashby",
+    "posted": "2026-11-03",
+    "snippet": "THE BOT COMPANY\n\nWe're building a helpful robot for every home.\n\nWe're a small team of engineers, designers, and operators based in San Francisco. Our team comes from Tesla, Cruise, OpenAI, Google, Pixar, and many other great companies. In the past we've shipped to hundreds of millions of users and know what it takes to build amazing products and experiences.\n\nOur team is deliberately lean to promote rapid decision making and do away with bureaucracy and hierarchy. Everyone is an IC and is empowered with massive scope, radical ownership, and direct responsibility. We work across the stack with"
   },
   {
-    "title": "Field Service Engineer - Boston",
-    "location": "Boston, MA",
-    "url": "https://careers.formlabs.com/job/8214439/apply/?gh_jid=8214439",
+    "title": "Software Engineer (Starlink Enterprise)",
+    "location": "Palo Alto, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8927257002?gh_jid=8927257002",
     "pay": "",
-    "metro": "Boston",
+    "metro": "SF Bay",
+    "level_signal": "none",
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-02",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. SOFTWARE ENGINEER (STARLINK ENTERPRISE) At SpaceX we\u2019re leveraging our experience in building rockets and spacecraft to deploy Starlink, the world\u2019s most advanced broadband internet system. Starlink is the world\u2019s largest satellite constellation and is providing fast, reliable internet to millions of users worldwide. "
+  },
+  {
+    "title": "Build Your Robotics Career - Explore the Country as a Robotics Field Service Engineer or Technician",
+    "location": "Chicago || Bolingbrook, IL, San Francisco || Oakland, CA",
+    "url": "https://job-boards.greenhouse.io/formic/jobs/4724437006",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "none",
+    "years_required": 2,
+    "flags": [],
+    "company": "Formic",
+    "source": "Greenhouse",
+    "posted": "2026-11-02",
+    "snippet": "Who we are: Formic is on a mission to reshape American manufacturing by making automation accessible to every factory. As labor constraints rise, costs increase, and global competition intensifies, automation is no longer optional for manufacturers that want to stay competitive. We deliver automation through a Robotics-as-a-Service model that combines industrial robotics, proprietary software, and full-service support into a single, integrated solution. By removing the traditional barriers of cost, complexity, and risk, we enable manufacturers to deploy automation quickly and realize measurabl"
+  },
+  {
+    "title": "Software Engineer (Sunnyvale, CA)",
+    "location": "Sunnyvale",
+    "url": "https://jobs.ashbyhq.com/applied/48bab48f-c708-40b6-ac2c-36bb704287b3",
+    "pay": "$152,797 \u2013 $222,200 \u2022 Offers Equity",
+    "metro": "SF Bay",
+    "level_signal": "none",
+    "years_required": 1,
+    "flags": [],
+    "company": "Applied Intuition",
+    "source": "Ashby",
+    "posted": "2026-11-02",
+    "snippet": "Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, mining and agriculture industries in three core areas: tools and infrastructure, operating systems, and autonomy. Eighteen of the top 20 global automakers, as well as the United States military and its allies, trust the company\u2019s solutions to deliver physical intelligence. Applie"
+  },
+  {
+    "title": "Hardware Engineer",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/bedrock-robotics/087f6417-5d8c-45b6-a7d0-dfaa2cc92cf8",
+    "pay": "",
+    "metro": "SF Bay",
     "level_signal": "none",
     "years_required": null,
     "flags": [],
-    "company": "Formlabs",
-    "source": "Greenhouse",
-    "posted": "2026-09-18",
-    "snippet": "About Formlabs: Do you want to change how the world creates? At Formlabs , we\u2019re building the tools that make it possible for anyone to bring their ideas to life, from cutting-edge products to life-saving medical devices. Our 3D printing technology powers innovation at more than 50,000 industry leaders worldwide, including Apple, Google, Tesla, New Balance, and NASA. Together, we\u2019re helping everyone design, prototype, and manufacture faster than ever before. We\u2019re a team of hands-on builders, engineers, and innovators reinventing how the world makes physical things. If you\u2019re ready to shape th"
+    "company": "Bedrock Robotics",
+    "source": "Ashby",
+    "posted": "2026-11-02",
+    "snippet": "Bedrock Robotics, Inc. seeks a Hardware Engineer in San Francisco, CA responsible for designing, manufacturing, and testing its autonomous hardware systems, including high performance computer systems, sensors, controllers, interfaces to machines, and testing equipment.\n\nThis position will work with autonomous hardware systems installed on standard heavy construction machinery\u2014excavators, bulldozers, and wheel loaders\u2014to allow that equipment to perform earthmoving work on construction sites autonomously. In this context, \u201cautonomous hardware systems\u201d are the physical electronic components inst"
   },
   {
     "title": "Electrical Engineer- SDR Hardware ",
@@ -2635,20 +2531,6 @@
     "source": "Greenhouse",
     "posted": "2026-10-26",
     "snippet": "About Neuralink: We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world. Team Description: The Infrastructure Team builds the foundation that enables the company to operate safely, robustly, and move at light-speed. We run a mixture of cloud-based and on-prem systems and have a user base spanning from highly technically proficient engineers to non-technical scientists and doctors; but all of them need solid systems, rugg"
-  },
-  {
-    "title": "Research Engineer, Robot Learning",
-    "location": "San Carlos, CA",
-    "url": "https://jobs.ashbyhq.com/1x/6d41e7c8-75c3-4f54-8a76-5abbb3569341",
-    "pay": "$130,146 \u2013 $300,000",
-    "metro": "SF Bay",
-    "level_signal": "none",
-    "years_required": null,
-    "flags": [],
-    "company": "1X",
-    "source": "Ashby",
-    "posted": "2026-10-23",
-    "snippet": "Job Description: Develop sim2real reinforcement learning (RL) training pipelines for humanoid robots. Train and test robot policies via reinforcement learning for in-home humanoid robots. Optimize training pipelines for improved performance and training speed. Modeling of physical systems (including robot dynamics, sensor modeling, contact parameter tuning) to close the gap between simulation and physical systems. Collecting, cleaning and retargeting human motion data for use in RL training pipelines. Supporting the test and debug of RL policies in simulation and on physical hardware.\n\nRequire"
   },
   {
     "title": "Software Engineer, Supercomputer Network (Starlink)",
@@ -2853,20 +2735,6 @@
     "snippet": "Shift: Day Shift\n\n\n\n\nABOUT 1X\n\nWe\u2019re building humanoid robots that work in home - doing the chores, handling the tasks, and giving people their time back. Simple, but it\u2019s not.\n\n\n\nTo do this right, we have to solve robotics, AI, manufacturing - at the same time, at scale, in a form factor that has to be safe enough to live with your family. If you\u2019re inspired by this, you\u2019ll thrive here. We\u2019ve been at this since 2014 and we\u2019re at the point where the hard problems are behind us and the hard work is in front of us.\n\n\n\nNEO is our flagship - a home robot designed to move, learn, and operate in the"
   },
   {
-    "title": "Mechatronics Integration Engineer, Vehicle OS",
-    "location": "Sunnyvale",
-    "url": "https://jobs.ashbyhq.com/applied/c65ae625-09d2-4e94-ab37-7ae2444b84a0",
-    "pay": "$140K \u2013 $200K",
-    "metro": "SF Bay",
-    "level_signal": "none",
-    "years_required": 2,
-    "flags": [],
-    "company": "Applied Intuition",
-    "source": "Ashby",
-    "posted": "2026-10-07",
-    "snippet": "Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, mining and agriculture industries in three core areas: tools and infrastructure, operating systems, and autonomy. Eighteen of the top 20 global automakers, as well as the United States military and its allies, trust the company\u2019s solutions to deliver physical intelligence. Applie"
-  },
-  {
     "title": "Software Engineer, Software Updates",
     "location": "Mountain View, California (HQ)",
     "url": "https://nuro.ai/careersitem?gh_jid=8230855",
@@ -3055,6 +2923,22 @@
     "source": "Ashby",
     "posted": "2026-09-21",
     "snippet": "Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, mining and agriculture industries in three core areas: tools and infrastructure, operating systems, and autonomy. Eighteen of the top 20 global automakers, as well as the United States military and its allies, trust the company\u2019s solutions to deliver physical intelligence. Applie"
+  },
+  {
+    "title": "Manufacturing Engineer (Raptor Combustion Devices Machining)",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8927499002?gh_jid=8927499002",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "none",
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-02",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. MANUFACTURING ENGINEER (RAPTOR COMBUSTION DEVICES MACHINING) As a Manufacturing Engineer for Raptor machining, you will have the opportunity to influence, scale, and solve challenging problems relating to the production of Raptor machined piece parts and processing. The ideal candidate will thrive in a fast-paced envi"
   },
   {
     "title": "Mechanical Design Engineer (Raptor Engine Systems)",
@@ -3721,6 +3605,86 @@
     "source": "Greenhouse",
     "posted": "2026-09-19",
     "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. ELECTRICAL ENGINEER, BATTERY (FALCON & DRAGON) As an Electrical Battery Engineer on the Falcon & Dragon Avionics Hardware Development team, you will have the unique opportunity to explore all areas of a battery\u2019s life cycle from development through production and launch by engaging in multiple disciplines with a focus"
+  },
+  {
+    "title": "Mechanical Engineer, Satellites (Starlink)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8924800002?gh_jid=8924800002",
+    "pay": "",
+    "metro": "Seattle",
+    "level_signal": "none",
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-03",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. MECHANICAL ENGINEER, SATELLITES (STARLINK) Starlink is the world\u2019s largest satellite constellation, providing broadband-quality internet anywhere on earth. We\u2019re leveraging our SpaceX knowledge in building rockets and spacecraft to deploy thousands of satellites each year; today\u2019s constellation serves millions of cust"
+  },
+  {
+    "title": "Mechanical Engineer, Satellite Harnessing (Starlink)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8924813002?gh_jid=8924813002",
+    "pay": "",
+    "metro": "Seattle",
+    "level_signal": "none",
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-03",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. MECHANICAL ENGINEER, SATELLITE HARNESSING (STARLINK) At SpaceX we\u2019re leveraging our experience in building rockets and spacecraft to deploy Starlink, the world\u2019s most advanced broadband internet system. Starlink is the world\u2019s largest satellite constellation and is providing fast, reliable internet to millions of user"
+  },
+  {
+    "title": "Mechanical Engineer - Satellite Payload (Starlink)   ",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8924826002?gh_jid=8924826002",
+    "pay": "",
+    "metro": "Seattle",
+    "level_signal": "none",
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-03",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. MECHANICAL ENGINEER, SATELLITE PAYLOAD (STARLINK) Starlink is the world\u2019s largest satellite constellation, providing broadband-quality internet anywhere on earth. We\u2019re leveraging our SpaceX knowledge in building rockets and spacecraft to deploy thousands of satellites each year; today\u2019s constellation serves tens of m"
+  },
+  {
+    "title": "Electric Propulsion Engineer, Mechanical - (Starlink)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8925513002?gh_jid=8925513002",
+    "pay": "",
+    "metro": "Seattle",
+    "level_signal": "none",
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-03",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. ELECTRIC PROPULSION ENGINEER, MECHANICAL - (STARLINK) As a mechanical engineer within the Starlink electric propulsion team you will own the end-to-end design, analysis, test, build and on-orbit life cycle of the propulsion hardware. You will get to oversee a critical system at the heart of the satellite, as you work "
+  },
+  {
+    "title": "Manufacturing Automation Engineer, Solar (Starlink)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8917526002?gh_jid=8917526002",
+    "pay": "",
+    "metro": "Seattle",
+    "level_signal": "none",
+    "years_required": null,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-02",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. MANUFACTURING AUTOMATION ENGINEER, SOLAR (STARLINK) Starlink is the world\u2019s largest satellite constellation providing fast, reliable internet to millions of users worldwide. We design, build, test, and operate all parts of the system \u2013 thousands of satellites, consumer receivers and the software that brings it all tog"
   },
   {
     "title": "GNC Engineer, Collision Avoidance (Starlink)",
