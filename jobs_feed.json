@@ -324,6 +324,22 @@
     "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
   },
   {
+    "title": "AI Software Engineer I",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8182050003",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "title",
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "Rocket Lab",
+    "source": "Greenhouse",
+    "posted": "2026-11-03",
+    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. IT Rocket Lab\u2019s IT team is responsible for how our global teams access information and run operations across our computer systems, networks, and devices. Our hardworking IT team is a group of flexible problem-solvers working in a fast-paced environment but who also "
+  },
+  {
     "title": "Business Systems Engineer I",
     "location": "Long Beach, CA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8087292003",
@@ -592,6 +608,20 @@
     "snippet": "At Relativity Space, we\u2019re building rockets to serve today\u2019s needs and tomorrow\u2019s breakthroughs. Our Terran R vehicle will deliver customer payloads to orbit, meeting the growing demand for launch capacity. But that\u2019s just the start. Achieving commercial success with Terran R will unlock new opportunities to advance science, exploration, and innovation, pioneering progress that reaches beyond the known. Joining Relativity means becoming part of something where autonomy, ownership, and impact exist at every level. Here, you're not just executing tasks; you're solving problems that haven\u2019t been "
   },
   {
+    "title": "Propulsion Design Engineer I, Integrated Design",
+    "location": "Long Beach, California, United States",
+    "url": "https://boards.greenhouse.io/relativity/jobs/8845906002?gh_jid=8845906002",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "title",
+    "years_required": null,
+    "flags": [],
+    "company": "Relativity Space",
+    "source": "Greenhouse",
+    "posted": "2026-09-30",
+    "snippet": "At Relativity Space, we\u2019re building rockets to serve today\u2019s needs and tomorrow\u2019s breakthroughs. Our Terran R vehicle will deliver customer payloads to orbit, meeting the growing demand for launch capacity. But that\u2019s just the start. Achieving commercial success with Terran R will unlock new opportunities to advance science, exploration, and innovation, pioneering progress that reaches beyond the known. Joining Relativity means becoming part of something where autonomy, ownership, and impact exist at every level. Here, you're not just executing tasks; you're solving problems that haven\u2019t been "
+  },
+  {
     "title": "New Graduate Engineer, Software (Starfall)",
     "location": "Hawthorne, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8854394002?gh_jid=8854394002",
@@ -636,7 +666,7 @@
     "snippet": "ABOUT STANDARD BOTS\n\nStandard Bots builds next-generation robotics for manufacturing affordable, capable, American-made automation. Our hardware is a tightly integrated electromechanical system, and we build it in-house at our Glen Cove, NY facility. The electronics inside our robots, the PCBAs that drive motion, sensing, and control are core IP, and how well they're designed for manufacturing directly determines our yield, our cost, and how fast we can scale.\n\nRole\n\nWe're looking for an Electronics Manufacturing Engineer who lives at the intersection of design and production.  You'll be the p"
   },
   {
-    "title": "Robotics Test & Debug Engineer",
+    "title": "Production Test Engineer \u2013 Robotics",
     "location": "Watertown, MA",
     "url": "https://jobs.lever.co/tutorintelligence/852e359a-af13-4111-a530-0cddaf798392",
     "pay": "$120,000-$190,000",
@@ -2368,7 +2398,7 @@
     "title": "Software Engineer (Sunnyvale, CA)",
     "location": "Sunnyvale",
     "url": "https://jobs.ashbyhq.com/applied/48bab48f-c708-40b6-ac2c-36bb704287b3",
-    "pay": "$152,797 \u2013 $222,200 \u2022 Offers Equity",
+    "pay": "$152,797 \u2013 $222,200",
     "metro": "SF Bay",
     "level_signal": "none",
     "years_required": 1,
@@ -2925,6 +2955,38 @@
     "snippet": "Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, mining and agriculture industries in three core areas: tools and infrastructure, operating systems, and autonomy. Eighteen of the top 20 global automakers, as well as the United States military and its allies, trust the company\u2019s solutions to deliver physical intelligence. Applie"
   },
   {
+    "title": "Propulsion Software Engineer (Falcon Engineering)",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8927858002?gh_jid=8927858002",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "none",
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-03",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. PROPULSION SOFTWARE ENGINEER (FALCON ENGINEERING) The Falcon Engineering team is dedicated to delivering Falcon and its payloads to orbit rapidly and reliably. As a Propulsion Software Engineer, you enable the long-term success of Falcon and its Merlin engines, improve hardware reliability, and remove recurring, time-"
+  },
+  {
+    "title": "Software Engineer, Full Stack (Data & Video Analysis)",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8927919002?gh_jid=8927919002",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "none",
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-03",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. SOFTWARE ENGINEER, FULL STACK (DATA & VIDEO ANALYSIS) The Vehicle Analysis Tooling team builds the applications that production, test, and flight depend on. You will own the full path: platforms that ingest and process high-volume engineering data, such as telemetry, sensor data, or video; the tools and interfaces eng"
+  },
+  {
     "title": "Manufacturing Engineer (Raptor Combustion Devices Machining)",
     "location": "Hawthorne, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8927499002?gh_jid=8927499002",
@@ -2987,6 +3049,22 @@
     "source": "Greenhouse",
     "posted": "2026-10-23",
     "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. AI SOFTWARE ENGINEER (VEHICLE ENGINEERING) SpaceX is building AI systems that accelerate engineering and make internal operations more effective. We are looking for software engineers who combine strong programming skills with practical machine learning knowledge and a willingness to solve unfamiliar problems. You wil"
+  },
+  {
+    "title": "Robotics Automation Engineer in Test",
+    "location": "Chatsworth, CA",
+    "url": "https://jobs.ashbyhq.com/machina-labs/c8cb07f0-28bf-4fe9-a20e-c83664924b95",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "none",
+    "years_required": null,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "Machina Labs",
+    "source": "Ashby",
+    "posted": "2026-10-21",
+    "snippet": "ABOUT MACHINA LABS: \n\n\n\n\nEngineering moves at software speed. Manufacturing doesn't. Yet. \n\nMachina Labs is changing that. We build intelligent, software-defined factories that produce complex metal structures directly from digital design. By integrating advanced metal forming, robotics, and automated production inside a flexible factory architecture, we enable customers to move from prototype to production in weeks, not years. \n\n\n\nBacked by Lockheed Martin, Toyota, and NVIDIA, we're building the manufacturing infrastructure that defense, aerospace, and advanced mobility programs will run on. "
   },
   {
     "title": "Propulsion Technician (Raptor Avionics)",
@@ -3217,6 +3295,38 @@
     "source": "Greenhouse",
     "posted": "2026-10-16",
     "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. MANUFACTURING ENGINEER \u2013 RAPTOR FINAL ASSEMBLY & TUBE SHOP RESPONSIBILITIES: Responsible for overseeing the build and test processes for the Raptor final assembly & Tube Shop production area Develop, qualify, and refine assembly processes to enable high volume production of engines Think creatively; question the statu"
+  },
+  {
+    "title": "Production/Manufacturing Technician",
+    "location": "Chatsworth, CA",
+    "url": "https://jobs.ashbyhq.com/machina-labs/8720ea50-e40c-4e86-8ece-14f67a696607",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "none",
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "Machina Labs",
+    "source": "Ashby",
+    "posted": "2026-10-16",
+    "snippet": "ABOUT MACHINA LABS: \n\n\n\n\nEngineering moves at software speed. Manufacturing doesn't. Yet. \n\nMachina Labs is changing that. We build intelligent, software-defined factories that produce complex metal structures directly from digital design. By integrating advanced metal forming, robotics, and automated production inside a flexible factory architecture, we enable customers to move from prototype to production in weeks, not years. \n\n\n\nBacked by Lockheed Martin, Toyota, and NVIDIA, we're building the manufacturing infrastructure that defense, aerospace, and advanced mobility programs will run on. "
+  },
+  {
+    "title": "Manufacturing Engineer",
+    "location": "Chatsworth, CA",
+    "url": "https://jobs.ashbyhq.com/machina-labs/925f0a53-cd24-4ea1-8f38-da1b3860846d",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "none",
+    "years_required": 2,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "Machina Labs",
+    "source": "Ashby",
+    "posted": "2026-10-16",
+    "snippet": "ABOUT MACHINA LABS: \n\n\n\n\nEngineering moves at software speed. Manufacturing doesn't. Yet. \n\nMachina Labs is changing that. We build intelligent, software-defined factories that produce complex metal structures directly from digital design. By integrating advanced metal forming, robotics, and automated production inside a flexible factory architecture, we enable customers to move from prototype to production in weeks, not years. \n\n\n\nBacked by Lockheed Martin, Toyota, and NVIDIA, we're building the manufacturing infrastructure that defense, aerospace, and advanced mobility programs will run on. "
   },
   {
     "title": "Supervisor, Integration Subassemblies, First Shift",
@@ -3591,11 +3701,11 @@
     "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. SIMULATION SOFTWARE ENGINEER (VEHICLE ENGINEERING) As a Software Engineer on the Simulations team, you will design, develop, and test our in-house simulation software supporting all SpaceX flight systems. You will program the core simulation infrastructure and collaborate on the building of models of fluids, electroni"
   },
   {
-    "title": "Electrical Engineer, Battery (Falcon & Dragon)",
-    "location": "Hawthorne, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8825367002?gh_jid=8825367002",
+    "title": "Embedded Software Engineer, Satellite Antenna (Starlink)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8925605002?gh_jid=8925605002",
     "pay": "",
-    "metro": "LA",
+    "metro": "Seattle",
     "level_signal": "none",
     "years_required": 1,
     "flags": [
@@ -3603,8 +3713,8 @@
     ],
     "company": "SpaceX",
     "source": "Greenhouse",
-    "posted": "2026-09-19",
-    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. ELECTRICAL ENGINEER, BATTERY (FALCON & DRAGON) As an Electrical Battery Engineer on the Falcon & Dragon Avionics Hardware Development team, you will have the unique opportunity to explore all areas of a battery\u2019s life cycle from development through production and launch by engaging in multiple disciplines with a focus"
+    "posted": "2026-11-03",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. EMBEDDED SOFTWARE ENGINEER, SATELLITE ANTENNA (STARLINK) Starlink is SpaceX\u2019s unprecedented satellite constellation designed to deliver high-speed broadband internet to underserved and remote areas around the world. By deploying thousands of satellites in low Earth orbit (LEO), we\u2019ve created a global network that brid"
   },
   {
     "title": "Mechanical Engineer, Satellites (Starlink)",
