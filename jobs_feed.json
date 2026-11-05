@@ -324,6 +324,22 @@
     "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
   },
   {
+    "title": "Manufacturing Engineer I",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8195549003",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "title",
+    "years_required": null,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "Rocket Lab",
+    "source": "Greenhouse",
+    "posted": "2026-11-04",
+    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. MANUFACTURING Rocket Lab\u2019s Manufacturing teams are the builders and the doers who work with our advanced machinery across our global manufacturing sites to get our satellites, satellite components, and rockets out the door. They bring the designs of our engineers to"
+  },
+  {
     "title": "AI Software Engineer I",
     "location": "Long Beach, CA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8182050003",
@@ -766,6 +782,20 @@
     "snippet": " What you'll do Set up and run tests on LiDAR sensors in the lab and on vehicles for comprehensive characterization Develop automation software to accelerate lab testing and data collection Support field data collection across real-world scenarios, including preparing sensors and test setups and logging test conditions. Investigate system-level issues: reproduce the problem, collect diagnostic data, and work with the relevant engineering teams to find the root cause. Help develop, run, and verify sensor calibration procedures. Analyze sensor data with Python or MATLAB, and document and present"
   },
   {
+    "title": "Field Product Engineer",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/persona/fe95a1b5-de1a-4b7f-9637-eeddc4c31b1d",
+    "pay": "$100K \u2013 $110K \u2022 Offers Equity",
+    "metro": "SF Bay",
+    "level_signal": "body",
+    "years_required": 0,
+    "flags": [],
+    "company": "Persona AI",
+    "source": "Ashby",
+    "posted": "2026-10-20",
+    "snippet": "About Persona\n\nPersona https://withpersona.com/ is the configurable identity platform built for businesses in a digital-first world. Verifying individuals and organizations is harder \u2014 but more important \u2014 than ever, with AI enabling fraudsters to launch sophisticated accounts at scale and regulations evolving rapidly.\n\nWe\u2019ve built Persona to support practically every use case and industry \u2014 that\u2019s why we\u2019re able to serve a wide range of leading companies. For example, Reddit relies on Persona for age assurance and verification to comply with online safety regulations, protecting younger users"
+  },
+  {
     "title": "Flight Test Engineer - Camera Quality",
     "location": "San Mateo, California, United States",
     "url": "https://jobs.ashbyhq.com/skydio/8b79b158-2805-4a5f-b2de-e054850b1f62",
@@ -1070,6 +1100,22 @@
     "source": "Lever",
     "posted": "2026-09-23",
     "snippet": "FieldAI\u2019s Irvine team is where embodied AI meets real robots, real sensors, and real field deployments. Based in the heart of Southern California\u2019s robotics ecosystem, we build risk-aware, reliable, field-ready AI systems that solve the hardest problems in robotics and unlock the full potential of embodied intelligence. If you want your work to ship, get tested on hardware, and improve through real deployments, Irvine is the place. We go beyond typical data-driven approaches or pure transformer-only architectures, combining rigorous engineering with learning systems proven in globally deployed"
+  },
+  {
+    "title": "Test Engineer - Electric Propulsion, Satellites (Starlink)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8929324002?gh_jid=8929324002",
+    "pay": "",
+    "metro": "Seattle",
+    "level_signal": "body",
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-04",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. TEST ENGINEER \u2013 ELECTRIC PROPULSION, SATELLITES (STARLINK) The Electric Propulsion Test Engineer is responsible for ensuring the electric thrusters that propel Starlink satellites and their associated components have been tested and qualified to function in flight conditions. Our engineers specialize in test design an"
   },
   {
     "title": "Software Engineer (Starlink)",
@@ -2113,6 +2159,20 @@
     "snippet": "About Helion\n\nWe are a fusion power company based in Everett, WA, with the mission to build the world's first fusion power plant, enabling a future with unlimited clean electricity. Our vision is a world with clean, reliable, and affordable energy for everyone.\n\nSince Helion's founding in 2013, we have raised $1.5 billion from long-time investors such as Sam Altman, Mithril, and Capricorn Investment Group as well as new investors including Thrive Capital, LightSpeed Venture Capital, SoftBank, and others to propel us forward. Our current prototype, Polaris, has reached record-breaking plasma te"
   },
   {
+    "title": "Manufacturing & Process Engineer ",
+    "location": "Glen Cove, NY",
+    "url": "https://jobs.ashbyhq.com/standardbots/60fe3942-ee4c-4c25-8d39-f7435056f375",
+    "pay": "$150K \u2013 $180K \u2022 Offers Equity",
+    "metro": "NYC",
+    "level_signal": "none",
+    "years_required": null,
+    "flags": [],
+    "company": "Standard Bots",
+    "source": "Ashby",
+    "posted": "2026-11-04",
+    "snippet": "About Standard Bots\n\nStandard Bots is America's largest manufacturer of AI-native industrial robots. Full-stack robots\u2014hardware, software, and AI\u2014all designed and assembled in Glen Cove, New York. The company makes AI-native robots anyone can buy and deploy, with customers ranging from family-owned machine shops to the Fortune 500. Customers include Sunoco, Lockheed Martin, NASA, and the U.S. Army, along with hundreds of manufacturers nationwide. Standard Bots raised a $200 million Series C at a $1 billion valuation from RoboStrategy, General Catalyst, Amazon Industrial Innovation Fund, and Sa"
+  },
+  {
     "title": "Robotics Field Service Technician",
     "location": "New York",
     "url": "https://job-boards.greenhouse.io/formic/jobs/4726244006",
@@ -2349,6 +2409,20 @@
     "source": "Lever",
     "posted": "2026-09-24",
     "snippet": "About Tutor\nWe believe robots are the biggest lever we have to making the physical world a better, more affordable place. But robots are a rounding error in our society: nearly nine out of ten American factories and warehouses don\u2019t even have a single robot, and robots have yet to make their way into our homes or places of business.\nTutor Intelligence is changing that.\nTutor is a robotics research and deployment company, building generally capable robot hardware and artificial intelligence to enable robots to go where no robots have gone before. Sonny is a semi-humanoid robot with frontier dex"
+  },
+  {
+    "title": "Assembly Technician - Robot Hands",
+    "location": "San Carlos, CA",
+    "url": "https://jobs.ashbyhq.com/1x/69ff8569-e4e7-4afe-96f9-947335f755f7",
+    "pay": "$30 \u2013 $40 per hour \u2022 Offers Equity",
+    "metro": "SF Bay",
+    "level_signal": "none",
+    "years_required": null,
+    "flags": [],
+    "company": "1X",
+    "source": "Ashby",
+    "posted": "2026-11-04",
+    "snippet": "Role Name: Assembly Technician, Hands Team\n\nDepartment: Production, Hands\n\nLocation: San Carlos\n\nShift: Day Shift (7:00 AM \u2013 3:30 PM) or Swing Shift (3:00 PM \u2013 11:30 PM)\n\n\n\n\nABOUT 1X\n\nWe're building humanoid robots that work in home \u2013 doing the chores, handling the tasks, and giving people their time back. Simple, but it's not.\n\nTo do this right, we have to solve robotics, AI, manufacturing \u2013 at the same time, at scale, in a form factor that has to be safe enough to live with your family. If you're inspired by this, you'll thrive here. We've been at this since 2014 and we're at the point where"
   },
   {
     "title": "Firmware",
@@ -2611,20 +2685,6 @@
     "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. EMBEDDED SOFTWARE ENGINEER, LASER MESH ROUTING (STARLINK) SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling "
   },
   {
-    "title": "Field Product Engineer",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/persona/fe95a1b5-de1a-4b7f-9637-eeddc4c31b1d",
-    "pay": "$100K \u2013 $110K \u2022 Offers Equity",
-    "metro": "SF Bay",
-    "level_signal": "none",
-    "years_required": 1,
-    "flags": [],
-    "company": "Persona AI",
-    "source": "Ashby",
-    "posted": "2026-10-20",
-    "snippet": "About Persona\n\nPersona https://withpersona.com/ is the configurable identity platform built for businesses in a digital-first world. Verifying individuals and organizations is harder \u2014 but more important \u2014 than ever, with AI enabling fraudsters to launch sophisticated accounts at scale and regulations evolving rapidly.\n\nWe\u2019ve built Persona to support practically every use case and industry \u2014 that\u2019s why we\u2019re able to serve a wide range of leading companies. For example, Reddit relies on Persona for age assurance and verification to comply with online safety regulations, protecting younger users"
-  },
-  {
     "title": "Mechanical Engineer",
     "location": "San Carlos, CA",
     "url": "https://jobs.lever.co/robust-ai/8b8b4a1a-62eb-45e9-bf84-b1cbff0bdfd7",
@@ -2679,20 +2739,6 @@
     "source": "Greenhouse",
     "posted": "2026-10-15",
     "snippet": "About Zipline Zipline is the world\u2019s largest and most experienced drone delivery service. We are on a mission to serve all humans equally by ensuring access to food, medicine and essential goods anytime, anywhere. We design, build, and operate the world\u2019s largest autonomous logistics system, delivering critical supplies quickly and reliably. Today, Zipline operates on four continents, makes a delivery somewhere in the world every 30 seconds, and has completed millions of deliveries to date, including blood, vaccines, medical supplies, food, and retail products. Our customers include the world\u2019"
-  },
-  {
-    "title": "Assembly Technician - Robot Hands",
-    "location": "San Carlos, CA",
-    "url": "https://jobs.ashbyhq.com/1x/22ceee24-fb24-4666-a4e7-05eca233bd24",
-    "pay": "$30 \u2013 $40 per hour \u2022 Offers Equity",
-    "metro": "SF Bay",
-    "level_signal": "none",
-    "years_required": null,
-    "flags": [],
-    "company": "1X",
-    "source": "Ashby",
-    "posted": "2026-10-14",
-    "snippet": "Role Name: Assembly Technician, Hands Team\n\nDepartment: Production, Hands\n\nLocation: San Carlos\n\nShift: Day Shift (7:00 AM \u2013 3:30 PM) or Swing Shift (3:00 PM \u2013 11:30 PM)\n\n\n\n\nABOUT 1X\n\nWe're building humanoid robots that work in home \u2013 doing the chores, handling the tasks, and giving people their time back. Simple, but it's not.\n\nTo do this right, we have to solve robotics, AI, manufacturing \u2013 at the same time, at scale, in a form factor that has to be safe enough to live with your family. If you're inspired by this, you'll thrive here. We've been at this since 2014 and we're at the point where"
   },
   {
     "title": "Hardware Engineer - Test Development",
@@ -3051,22 +3097,6 @@
     "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. AI SOFTWARE ENGINEER (VEHICLE ENGINEERING) SpaceX is building AI systems that accelerate engineering and make internal operations more effective. We are looking for software engineers who combine strong programming skills with practical machine learning knowledge and a willingness to solve unfamiliar problems. You wil"
   },
   {
-    "title": "Robotics Automation Engineer in Test",
-    "location": "Chatsworth, CA",
-    "url": "https://jobs.ashbyhq.com/machina-labs/c8cb07f0-28bf-4fe9-a20e-c83664924b95",
-    "pay": "",
-    "metro": "LA",
-    "level_signal": "none",
-    "years_required": null,
-    "flags": [
-      "ITAR/US-person"
-    ],
-    "company": "Machina Labs",
-    "source": "Ashby",
-    "posted": "2026-10-21",
-    "snippet": "ABOUT MACHINA LABS: \n\n\n\n\nEngineering moves at software speed. Manufacturing doesn't. Yet. \n\nMachina Labs is changing that. We build intelligent, software-defined factories that produce complex metal structures directly from digital design. By integrating advanced metal forming, robotics, and automated production inside a flexible factory architecture, we enable customers to move from prototype to production in weeks, not years. \n\n\n\nBacked by Lockheed Martin, Toyota, and NVIDIA, we're building the manufacturing infrastructure that defense, aerospace, and advanced mobility programs will run on. "
-  },
-  {
     "title": "Propulsion Technician (Raptor Avionics)",
     "location": "Hawthorne, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8904632002?gh_jid=8904632002",
@@ -3113,22 +3143,6 @@
     "source": "Greenhouse",
     "posted": "2026-10-20",
     "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. ENVIRONMENTAL & THERMAL CONTROL ENGINEER (DRAGON) RESPONSIBILITIES: Own piece parts and assembled propulsion and/or environmental and thermal sub-systems throughout the manufacturing process with a focus on delivery to meet Dragon rate and USDV delivery timelines while maintaining safety and part quality Develop and q"
-  },
-  {
-    "title": "Space Operations Training Engineer (Full Stack Software)",
-    "location": "Hawthorne, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8903848002?gh_jid=8903848002",
-    "pay": "",
-    "metro": "LA",
-    "level_signal": "none",
-    "years_required": 1,
-    "flags": [
-      "ITAR/US-person"
-    ],
-    "company": "SpaceX",
-    "source": "Greenhouse",
-    "posted": "2026-10-20",
-    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. SPACE OPERATIONS TRAINING ENGINEER (FULL STACK SOFTWARE) SpaceX Space Operations Engineers are dedicated to innovation in all aspects of spaceflight execution and training. As an Operations Training Engineer, you will prepare team of spacecraft operators to safely execute human and cargo spaceflight missions, become a"
   },
   {
     "title": "Electrical Engineer, Hardware Reliability (Build Reliability)",
@@ -3527,7 +3541,7 @@
     "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. TIG WELDER (STARSHIP BOOSTER STRUCTURES MANUFACTURING) RESPONSIBILITIES: Weld, assemble, and fabricate various fluid systems and various sub-assembly components Use precision calibrated tools \u2013 torque wrenches, micrometers and calipers Perform work according to procedures, specifications and test instructions Read and"
   },
   {
-    "title": "Automation Engineer (Forward Deployment)",
+    "title": "Robotics Automation Engineer",
     "location": "Irvine, CA",
     "url": "https://jobs.lever.co/field-ai/2d06b6c6-6369-423f-9f79-095d935b366e",
     "pay": "$80,000-$130,000",
@@ -3701,6 +3715,68 @@
     "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. SIMULATION SOFTWARE ENGINEER (VEHICLE ENGINEERING) As a Software Engineer on the Simulations team, you will design, develop, and test our in-house simulation software supporting all SpaceX flight systems. You will program the core simulation infrastructure and collaborate on the building of models of fluids, electroni"
   },
   {
+    "title": "Machine Maintenance and Integration Engineer",
+    "location": "Everett, WA",
+    "url": "https://jobs.ashbyhq.com/helion/010f7d80-9850-4b65-a23a-b5bbd71370db",
+    "pay": "$117K \u2013 $138K",
+    "metro": "Seattle",
+    "level_signal": "none",
+    "years_required": null,
+    "flags": [],
+    "company": "Helion",
+    "source": "Ashby",
+    "posted": "2026-11-05",
+    "snippet": "About Helion\n\nWe are a fusion power company based in Everett, WA, with the mission to build the world's first fusion power plant, enabling a future with unlimited clean electricity. Our vision is a world with clean, reliable, and affordable energy for everyone.\n\nSince Helion's founding in 2013, we have raised $1.5 billion from long-time investors such as Sam Altman, Mithril, and Capricorn Investment Group as well as new investors including Thrive Capital, LightSpeed Venture Capital, SoftBank, and others to propel us forward. Our current prototype, Polaris, has reached record-breaking plasma te"
+  },
+  {
+    "title": "Mechanical Engineer, Precision Machining (Starlink)",
+    "location": "Woodinville, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8929257002?gh_jid=8929257002",
+    "pay": "",
+    "metro": "Seattle",
+    "level_signal": "none",
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-04",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. MECHANICAL ENGINEER, PRECISION MACHINING (STARLINK) As a Mechanical Engineer at Starlink you will have the opportunity to utilize your knowledge, experience and creativity to develop novel solutions at the cutting edge of space technology. In this role you will be responsible for the manufacturing and quality systems "
+  },
+  {
+    "title": "Electrical Hardware Engineer, Satellites (Starlink)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8928696002?gh_jid=8928696002",
+    "pay": "",
+    "metro": "Seattle",
+    "level_signal": "none",
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-04",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. ELECTRICAL HARDWARE ENGINEER, SATELLITES (STARLINK) SpaceX is leveraging its experience in building rockets and spacecraft to deploy Starlink, the world\u2019s most advanced broadband internet system. Starlink is the world\u2019s largest satellite constellation and is providing fast, reliable internet to millions of users world"
+  },
+  {
+    "title": "Electrical Engineer, Satellites (Starlink)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8928704002?gh_jid=8928704002",
+    "pay": "",
+    "metro": "Seattle",
+    "level_signal": "none",
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-04",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. ELECTRICAL ENGINEER, SATELLITES (STARLINK) SpaceX is leveraging its experience in building rockets and spacecraft to deploy Starlink, the world\u2019s most advanced broadband internet system. Starlink is the world\u2019s largest satellite constellation and is providing fast, reliable internet to millions of users worldwide. We "
+  },
+  {
     "title": "Embedded Software Engineer, Satellite Antenna (Starlink)",
     "location": "Redmond, WA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8925605002?gh_jid=8925605002",
@@ -3811,22 +3887,6 @@
     "source": "Greenhouse",
     "posted": "2026-10-30",
     "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. GNC ENGINEER, COLLISION AVOIDANCE (STARLINK) SpaceX is looking for engineers with a hybrid background in both GNC (guidance, navigation, and control) and software development to join the Starlink Collision Avoidance team. Starlink operates the world's largest satellite constellation \u2014 nearly half of the world's active"
-  },
-  {
-    "title": "Sourcing Specialist, Electro Mechanical Commodities (Starlink Aviation) ",
-    "location": "Woodinville, WA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8916586002?gh_jid=8916586002",
-    "pay": "",
-    "metro": "Seattle",
-    "level_signal": "none",
-    "years_required": 2,
-    "flags": [
-      "ITAR/US-person"
-    ],
-    "company": "SpaceX",
-    "source": "Greenhouse",
-    "posted": "2026-10-26",
-    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. SOURCING SPECIALIST, ELECTRO MECHANCIAL COMMODITIES (STARLINK AVIATION) One of the most ambitious missions that SpaceX has undertaken to date, the Starlink constellation is our solution to providing reliable internet to the entire world. The Starlink Supply Chain Department is looking for a Sourcing Specialist to supp"
   },
   {
     "title": "Supervisor, Test System Production (Starlink)",
