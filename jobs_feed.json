@@ -184,6 +184,20 @@
     "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
   },
   {
+    "title": "Vehicle Fluids Hardware Development Engineer I",
+    "location": "Long Beach, California, United States",
+    "url": "https://boards.greenhouse.io/relativity/jobs/8936585002?gh_jid=8936585002",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "title",
+    "years_required": 1,
+    "flags": [],
+    "company": "Relativity Space",
+    "source": "Greenhouse",
+    "posted": "2026-11-10",
+    "snippet": "At Relativity Space, we\u2019re building rockets to serve today\u2019s needs and tomorrow\u2019s breakthroughs. Our Terran R vehicle will deliver customer payloads to orbit, meeting the growing demand for launch capacity. But that\u2019s just the start. Achieving commercial success with Terran R will unlock new opportunities to advance science, exploration, and innovation, pioneering progress that reaches beyond the known. Joining Relativity means becoming part of something where autonomy, ownership, and impact exist at every level. Here, you're not just executing tasks; you're solving problems that haven\u2019t been "
+  },
+  {
     "title": "Software Engineer I",
     "location": "Pasadena, CA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8057246003",
@@ -242,22 +256,6 @@
     "source": "Greenhouse",
     "posted": "2026-10-30",
     "snippet": "At Relativity Space, we\u2019re building rockets to serve today\u2019s needs and tomorrow\u2019s breakthroughs. Our Terran R vehicle will deliver customer payloads to orbit, meeting the growing demand for launch capacity. But that\u2019s just the start. Achieving commercial success with Terran R will unlock new opportunities to advance science, exploration, and innovation, pioneering progress that reaches beyond the known. Joining Relativity means becoming part of something where autonomy, ownership, and impact exist at every level. Here, you're not just executing tasks; you're solving problems that haven\u2019t been "
-  },
-  {
-    "title": "Electrical Engineer I",
-    "location": "Pasadena, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8057261003",
-    "pay": "",
-    "metro": "LA",
-    "level_signal": "title",
-    "years_required": null,
-    "flags": [
-      "ITAR/US-person"
-    ],
-    "company": "Rocket Lab",
-    "source": "Greenhouse",
-    "posted": "2026-10-29",
-    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. SPACE SYSTEMS At Rocket Lab, we\u2019re not just launching rockets \u2014 we're building the future of space. Our Space Systems team builds everything from complete spacecraft, precision payloads to the components and subsystems that allow them to thrive in space, like solar "
   },
   {
     "title": "Electrical Engineer I",
@@ -568,20 +566,6 @@
     "source": "Greenhouse",
     "posted": "2026-11-09",
     "snippet": "Figure is an AI robotics company developing autonomous general-purpose humanoid robots. The goal of the company is to ship humanoid robots with human level intelligence. Its robots are engineered to perform a variety of tasks in the home and commercial markets. Figure is headquartered in San Jose, CA. We are looking for a hardware Reliability Engineer in charge of driving design for reliability, designing and executing test plans for the printed circuit board assemblies (PCBAs) in our humanoid robots to ensure they meet our reliability targets. Responsibilities: Collect and analyze current and"
-  },
-  {
-    "title": "Contract Student Worker - Software Engineer (40 hrs/wk)",
-    "location": "Foster City, CA",
-    "url": "https://jobs.lever.co/zoox/67982bee-811b-453b-8596-b53c13f7a78d",
-    "pay": "",
-    "metro": "SF Bay",
-    "level_signal": "body",
-    "years_required": 0,
-    "flags": [],
-    "company": "Zoox",
-    "source": "Lever",
-    "posted": "2026-10-28",
-    "snippet": " Role Overview Build and maintain features for full-stack QA applications (TypeScript frontend/backend, Python for non-frontend services), under the guidance of senior engineers Assist in designing and implementing test/integration/end-to-end frameworks and pipeline automation Contribute to agent-assisted tooling \u2014 e.g., wiring up LLM-based classifiers, structured tool interfaces, or evaluation scripts for existing agentic workflows, with senior engineers owning architecture and safety-critical decisions Write and maintain unit/integration tests, fix bugs, and improve the reliability of existi"
   },
   {
     "title": "Manufacturing Test Technician ",
@@ -914,18 +898,52 @@
     "snippet": "Do you want to change how the world creates? At Formlabs, we\u2019re building the tools that make it possible for anyone to bring their ideas to life, from cutting-edge products to life-saving medical devices. Our 3D printing technology powers innovation at more than 50,000 industry leaders worldwide, including Apple, Google, Tesla, New Balance, and NASA. Together, we\u2019re helping everyone design, prototype, and manufacture faster than ever before. We\u2019re a team of hands-on builders, engineers, and innovators reinventing how the world makes physical things. If you\u2019re ready to shape the future of fabri"
   },
   {
-    "title": "Mechanical Engineer, Robotics Hardware Intern",
-    "location": "Boston, MA",
-    "url": "https://jobs.lever.co/field-ai/5ae428f8-ac13-49b2-a244-fb97d31bfc79",
-    "pay": "$28-$63",
-    "metro": "Boston",
+    "title": "Embedded Software Developer, Network/Payload Intern (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704569006",
+    "pay": "",
+    "metro": "SF Bay",
     "level_signal": "intern",
     "years_required": null,
-    "flags": [],
-    "company": "Field AI",
-    "source": "Lever",
-    "posted": "2026-10-06",
-    "snippet": "FieldAI is transforming how robots interact with the real world. Our growing R&D team is based in Boston, where we develop risk-aware, reliable, field-ready AI systems that tackle the hardest problems in robotics and unlock the potential of embodied intelligence. We take a pragmatic approach that goes beyond off-the-shelf, purely data-driven methods or transformer-only architectures, combining cutting-edge research with real-world deployment. Our solutions are already deployed globally, and we continuously improve model performance through rapid iteration driven by real field use.\n\n\nHardware T"
+    "flags": [
+      "term: Summer 2027"
+    ],
+    "company": "Astranis",
+    "source": "Greenhouse",
+    "posted": "2026-11-10",
+    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
+  },
+  {
+    "title": "Middleware Software Engineer Intern - Summer 2027",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Summer 2027"
+    ],
+    "company": "Skydio",
+    "source": "Ashby",
+    "posted": "2026-11-10",
+    "snippet": "Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from utility inspectors https://www.skydio.com/solutions/energy-and-utilities to first responders https://www.skydio.com/solutions/public-safety, soldiers in battlefield scenarios https://www.skydio.com/solutions/national"
+  },
+  {
+    "title": "Hardware In Loop (HIL) Software Engineer Intern - Winter 2027",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/add7fd86-78e6-483e-98cd-cdfc1029fded",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [
+      "term: Winter 2027"
+    ],
+    "company": "Skydio",
+    "source": "Ashby",
+    "posted": "2026-11-10",
+    "snippet": "Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from utility inspectors https://www.skydio.com/solutions/energy-and-utilities to first responders https://www.skydio.com/solutions/public-safety, soldiers in battlefield scenarios https://www.skydio.com/solutions/national"
   },
   {
     "title": "Systems Engineering Intern - Summer 2027",
@@ -1864,6 +1882,64 @@
     "snippet": "FieldAI is transforming how robots interact with the real world. Our growing R&D team is based in Boston, where we develop risk-aware, reliable, field-ready AI systems that tackle the hardest problems in robotics and unlock the potential of embodied intelligence. We take a pragmatic approach that goes beyond off-the-shelf, purely data-driven methods or transformer-only architectures, combining cutting-edge research with real-world deployment. Our solutions are already deployed globally, and we continuously improve model performance through rapid iteration driven by real field use.\n What You Wi"
   },
   {
+    "title": "Server Hardware Systems Engineer (Starlink)",
+    "location": "Palo Alto, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8934113002?gh_jid=8934113002",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "none",
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-10",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. SERVER HARDWARE SYSTEMS ENGINEER (STARLINK) Starlink delivers high-speed, low-latency internet to millions of people around the world, and the network depends on a global fleet of servers running in data centers and points of presence (PoPs). The Starlink Site Reliability Engineering (SRE) team is hiring a Server Hard"
+  },
+  {
+    "title": "Software Engineer - Controls",
+    "location": "Sunnyvale",
+    "url": "https://jobs.ashbyhq.com/applied/351d255a-42cf-43ec-b2f1-2a15369415d1",
+    "pay": "$150K \u2013 $250K \u2022 Offers Equity",
+    "metro": "SF Bay",
+    "level_signal": "none",
+    "years_required": 2,
+    "flags": [],
+    "company": "Applied Intuition",
+    "source": "Ashby",
+    "posted": "2026-11-10",
+    "snippet": "Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, mining and agriculture industries in three core areas: tools and infrastructure, operating systems, and autonomy. Eighteen of the top 20 global automakers, as well as the United States military and its allies, trust the company\u2019s solutions to deliver physical intelligence. Applie"
+  },
+  {
+    "title": "Business Systems Analyst",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles/8084054003?gh_jid=8084054003",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "none",
+    "years_required": null,
+    "flags": [],
+    "company": "Zipline",
+    "source": "Greenhouse",
+    "posted": "2026-11-10",
+    "snippet": "About Zipline Zipline is the world\u2019s largest and most experienced drone delivery service. We are on a mission to serve all humans equally by ensuring access to food, medicine and essential goods anytime, anywhere. We design, build, and operate the world\u2019s largest autonomous logistics system, delivering critical supplies quickly and reliably. Today, Zipline operates on four continents, makes a delivery somewhere in the world every 30 seconds, and has completed millions of deliveries to date, including blood, vaccines, medical supplies, food, and retail products. Our customers include the world\u2019"
+  },
+  {
+    "title": "Mechanical Engineer- Spaceflight Structures/ Mechanisms ",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4728675006",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "none",
+    "years_required": 2,
+    "flags": [],
+    "company": "Astranis",
+    "source": "Greenhouse",
+    "posted": "2026-11-10",
+    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
+  },
+  {
     "title": "Hardware Test Engineer",
     "location": "San Francisco",
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4727979006",
@@ -2366,6 +2442,38 @@
     "source": "Lever",
     "posted": "2026-09-29",
     "snippet": "Zoox's Robot Software Infrastructure team is seeking a passionate software engineer to help develop and advance the common performant operating system that powers several devices on our Robotaxi including onboard AI systems running Autonomy software. This team develops platform-level software and services, including custom operating systems that enable complex, hardware-accelerated workloads critical for autonomous driving on automotive-grade hardware.\nWe work closely with cross-functional teams\u2014including other software developers, hardware engineering, release management, manufacturing and op"
+  },
+  {
+    "title": "Test Engineer, Mechanical/Fluids",
+    "location": "El Segundo, CA",
+    "url": "https://jobs.ashbyhq.com/radiant-industries/973dc667-7bd2-468a-a162-35732363a3b7",
+    "pay": "$106,500 \u2013 $146,475 \u2022 Offers Equity",
+    "metro": "LA",
+    "level_signal": "none",
+    "years_required": 2,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "Radiant",
+    "source": "Ashby",
+    "posted": "2026-11-11",
+    "snippet": "ABOUT RADIANT\n\nRadiant is an El Segundo, CA-based company building the world's only mass-produced, transportable nuclear microreactors. The U.S. grid is under growing strain, with power demand accelerating, driving higher utility costs, rising carbon emissions, and interconnection backlogs. Radiant has a solution, transportable, on-site power. Our first reactor, Kaleidos, is 1 megawatt: small enough to be factory-built, transported by land, sea, or air, and deployed wherever power is needed. 1 MW can power 1000 homes for five years. Ship it back and we refuel for a 20 year operating life. We m"
+  },
+  {
+    "title": "Server Hardware Systems Engineer (Starlink)",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8934140002?gh_jid=8934140002",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "none",
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-10",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. SERVER HARDWARE SYSTEMS ENGINEER (STARLINK) Starlink delivers high-speed, low-latency internet to millions of people around the world, and the network depends on a global fleet of servers running in data centers and points of presence (PoPs). The Starlink Site Reliability Engineering (SRE) team is hiring a Server Hard"
   },
   {
     "title": "Propulsion Analyst, Chamber and Nozzle (Raptor)",
@@ -2896,20 +3004,6 @@
     "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. SOFTWARE ENGINEER (AI DATA ENGINEERING) Be a member of the Artificial Intelligence Data Engineering Software team, building AI-powered tools and automation that solve real engineering problems for our launch vehicles and spacecraft. Our team builds software that takes recurring, time-consuming work off engineers' plat"
   },
   {
-    "title": "Systems Engineer, Robotics Hardware, Large Wheeled Platforms",
-    "location": "Irvine, CA",
-    "url": "https://jobs.lever.co/field-ai/f26ea8d7-81d6-45b2-9af6-28d67406815d",
-    "pay": "$100,000-$200,000",
-    "metro": "LA",
-    "level_signal": "none",
-    "years_required": 1,
-    "flags": [],
-    "company": "Field AI",
-    "source": "Lever",
-    "posted": "2026-10-08",
-    "snippet": "FieldAI\u2019s Irvine team is where embodied AI meets real robots, real sensors, and real field deployments. Based in the heart of Southern California\u2019s robotics ecosystem, we build risk-aware, reliable, field-ready AI systems that solve the hardest problems in robotics and unlock the full potential of embodied intelligence. If you want your work to ship, get tested on hardware, and improve through real deployments, Irvine is the place. We go beyond typical data-driven approaches or pure transformer-only architectures, combining rigorous engineering with learning systems proven in globally deployed"
-  },
-  {
     "title": "Manufacturing Engineer (Raptor Turbomachinery Machining)",
     "location": "Hawthorne, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8876413002?gh_jid=8876413002",
@@ -3032,6 +3126,22 @@
     "source": "Greenhouse",
     "posted": "2026-09-28",
     "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. MANUFACTURING ENGINEER, INSPECTION (STARSHIP MACHINING) As an engineer at SpaceX, you will have the opportunity to utilize your knowledge, experience, and creativity to develop novel solutions at the cutting edge of space technology. You will work on hardware that will deliver satellites into earth orbit, ferry humans"
+  },
+  {
+    "title": "Server Hardware Systems Engineer (Starlink)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8934139002?gh_jid=8934139002",
+    "pay": "",
+    "metro": "Seattle",
+    "level_signal": "none",
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-10",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. SERVER HARDWARE SYSTEMS ENGINEER (STARLINK) Starlink delivers high-speed, low-latency internet to millions of people around the world, and the network depends on a global fleet of servers running in data centers and points of presence (PoPs). The Starlink Site Reliability Engineering (SRE) team is hiring a Server Hard"
   },
   {
     "title": "Site Reliability Engineer (Starlink)",
