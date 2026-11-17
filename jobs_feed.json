@@ -28,20 +28,6 @@
     "snippet": "About Formlabs: A 3D printer is one of the most demanding machines you can build. Lasers, optics, precision motion, thermals, airflow, materials handling, chemistry, sensing, controls, and software all have to work at micron-scale precision, for thousands of layers, with almost no tolerance for error. Making that work reliably is an extraordinary engineering problem. That\u2019s what we do. At Formlabs, we\u2019re building 3D printers that are changing the way things get made. We have the smartest minds across every engineering discipline, and the technology they\u2019re building is deployed at more than 50,"
   },
   {
-    "title": "Manufacturing Engineer - May 2027 Graduates",
-    "location": "Somerville, MA",
-    "url": "https://careers.formlabs.com/job/8250319/apply/?gh_jid=8250319",
-    "pay": "",
-    "metro": "Boston",
-    "level_signal": "title",
-    "years_required": 1,
-    "flags": [],
-    "company": "Formlabs",
-    "source": "Greenhouse",
-    "posted": "2026-10-02",
-    "snippet": "About Formlabs: Do you want to change how the world creates? At Formlabs, we\u2019re building the tools that make it possible for anyone to bring their ideas to life, from cutting-edge products to life-saving medical devices. Our 3D printing technology powers innovation at more than 50,000 industry leaders worldwide, including Apple, Google, Tesla, New Balance, and NASA. Together, we\u2019re helping everyone design, prototype, and manufacture faster than ever before. We\u2019re a team of hands-on builders, engineers, and innovators reinventing how the world makes physical things. If you\u2019re ready to shape the"
-  },
-  {
     "title": "Systems Engineering, New Grad 2027",
     "location": "Mountain View, California (HQ)",
     "url": "https://nuro.ai/careersitem?gh_jid=8360415",
@@ -322,20 +308,6 @@
     "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. SPACE SYSTEMS At Rocket Lab, we\u2019re not just launching rockets \u2014 we're building the future of space. Our Space Systems team builds everything from complete spacecraft, precision payloads to the components and subsystems that allow them to thrive in space, like solar "
   },
   {
-    "title": "Manufacturing Engineer 1, Unpressurized Structures",
-    "location": "Long Beach, California, United States",
-    "url": "https://boards.greenhouse.io/relativity/jobs/8861691002?gh_jid=8861691002",
-    "pay": "",
-    "metro": "LA",
-    "level_signal": "title",
-    "years_required": 1,
-    "flags": [],
-    "company": "Relativity Space",
-    "source": "Greenhouse",
-    "posted": "2026-10-02",
-    "snippet": "At Relativity Space, we\u2019re building rockets to serve today\u2019s needs and tomorrow\u2019s breakthroughs. Our Terran R vehicle will deliver customer payloads to orbit, meeting the growing demand for launch capacity. But that\u2019s just the start. Achieving commercial success with Terran R will unlock new opportunities to advance science, exploration, and innovation, pioneering progress that reaches beyond the known. Joining Relativity means becoming part of something where autonomy, ownership, and impact exist at every level. Here, you're not just executing tasks; you're solving problems that haven\u2019t been "
-  },
-  {
     "title": "New Graduate Engineer, Mechanical - Satellites (Starlink)",
     "location": "Redmond, WA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8931509002?gh_jid=8931509002",
@@ -480,6 +452,22 @@
     "snippet": "Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from utility inspectors https://www.skydio.com/solutions/energy-and-utilities to first responders https://www.skydio.com/solutions/public-safety, soldiers in battlefield scenarios https://www.skydio.com/solutions/national"
   },
   {
+    "title": "Spacecraft Systems Engineer, Flight Safety",
+    "location": "El Segundo, California, United States",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8206181003",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "body",
+    "years_required": null,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "Varda Space",
+    "source": "Greenhouse",
+    "posted": "2026-11-16",
+    "snippet": "About Varda Low Earth orbit is open for business. Varda is accelerating the development of commercial space infrastructure, from in-orbit pharmaceutical processing to reliable and economical reentry capsules. Varda\u2019s W-Series vehicles are built, designed, and operated by Varda in-house, including the pharmaceutical processing payloads, the capsules, the C-PICA heat shields, and the satellite buses. From life-saving pharmaceuticals to more powerful fiber optics, there is a world of products used on Earth today that can only be manufactured in space. Varda is accelerating innovation in the orbit"
+  },
+  {
     "title": "Manufacturing Engineer, Machining (Starship)",
     "location": "Hawthorne, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8939418002?gh_jid=8939418002",
@@ -554,20 +542,6 @@
     "source": "Greenhouse",
     "posted": "2026-10-14",
     "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. AVIONICS TEST TECHNICIAN (SPACE SIMULATION TEST LAB) - 2ND SHIFT RESPONSIBILITIES: Perform acceptance (ATP) and qualification (QTP) testing of flight hardware and document results in a clear, precise, and complete manner Program and operate environmental test chambers and/or vibration shakers Use basic and advanced el"
-  },
-  {
-    "title": "Mechatronics Engineer, Robotics Hardware",
-    "location": "Irvine, CA",
-    "url": "https://jobs.lever.co/field-ai/7e41ac8f-4269-492b-9e1d-97b30a00c92b",
-    "pay": "$100,000-$200,000",
-    "metro": "LA",
-    "level_signal": "body",
-    "years_required": null,
-    "flags": [],
-    "company": "Field AI",
-    "source": "Lever",
-    "posted": "2026-10-08",
-    "snippet": "FieldAI\u2019s Irvine team is where embodied AI meets real robots, real sensors, and real field deployments. Based in the heart of Southern California\u2019s robotics ecosystem, we build risk-aware, reliable, field-ready AI systems that solve the hardest problems in robotics and unlock the full potential of embodied intelligence. If you want your work to ship, get tested on hardware, and improve through real deployments, Irvine is the place. We go beyond typical data-driven approaches or pure transformer-only architectures, combining rigorous engineering with learning systems proven in globally deployed"
   },
   {
     "title": "Propulsion Technician (Raptor)",
@@ -791,16 +765,14 @@
     "snippet": "Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from utility inspectors https://www.skydio.com/solutions/energy-and-utilities to first responders https://www.skydio.com/solutions/public-safety, soldiers in battlefield scenarios https://www.skydio.com/solutions/national"
   },
   {
-    "title": "Systems Engineering Intern - Summer 2027",
+    "title": "Systems Engineering Intern",
     "location": "San Mateo, California, United States",
     "url": "https://jobs.ashbyhq.com/skydio/33f1f123-8cec-4e6a-b125-e8831603a62a",
     "pay": "",
     "metro": "SF Bay",
     "level_signal": "intern",
     "years_required": null,
-    "flags": [
-      "term: Summer 2027"
-    ],
+    "flags": [],
     "company": "Skydio",
     "source": "Ashby",
     "posted": "2026-11-09",
@@ -1227,23 +1199,6 @@
     "snippet": "About Zipline Zipline is the world\u2019s largest and most experienced drone delivery service. We are on a mission to serve all humans equally by ensuring access to food, medicine and essential goods anytime, anywhere. We design, build, and operate the world\u2019s largest autonomous logistics system, delivering critical supplies quickly and reliably. Today, Zipline operates on four continents, makes a delivery somewhere in the world every 30 seconds, and has completed millions of deliveries to date, including blood, vaccines, medical supplies, food, and retail products. Our customers include the world\u2019"
   },
   {
-    "title": "Environmental Test Engineering Intern (Summer 2027)",
-    "location": "San Jose, CA",
-    "url": "https://job-boards.greenhouse.io/muonspace/jobs/5256286007",
-    "pay": "",
-    "metro": "SF Bay",
-    "level_signal": "intern",
-    "years_required": null,
-    "flags": [
-      "term: Summer 2027",
-      "ITAR/US-person"
-    ],
-    "company": "Muon Space",
-    "source": "Greenhouse",
-    "posted": "2026-10-02",
-    "snippet": "About the role Summer internships will range between the months of May and September depending on university schedules. Internship is full-time and on-site in San Jose, California. The Assembly, Integration and Test (AIT) team at Muon is responsible for validating spacecraft hardware through unit acceptance testing as well as spacecraft-level integration and environmental testing. As an Environmental Test Engineering Intern, you will support the planning, setup, execution, and analysis of environmental tests used to validate spacecraft hardware against the extreme conditions of launch and spac"
-  },
-  {
     "title": "Site Reliability Internship - Summer 2027",
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8198267003",
@@ -1319,20 +1274,6 @@
     "source": "Ashby",
     "posted": "2026-10-15",
     "snippet": "JOIN THE TEAM BRINGING AUTONOMY TO THE BUILT WORLD\n\n\nAt Bedrock, we're moving AI out of the lab and onto real job sites. Our team includes veterans who helped launch Waymo, scaled Segment to a $3.2B acquisition, and grew Uber Freight to $5B in revenue. We retrofit the heavy equipment contractors already own, starting with excavators, so experienced crews can safely take on more projects and deliver more of the critical infrastructure our society needs.\n\nIn August 2026, Bedrock-equipped excavators began doing fully autonomous, paid work on live commercial job sites. We've more than doubled our "
-  },
-  {
-    "title": "AI Engineer \u2013 Manufacturing & Production",
-    "location": "Watertown, MA",
-    "url": "https://jobs.lever.co/tutorintelligence/f018d281-4e94-411d-ae19-4d6141c09bde",
-    "pay": "$150,000-$190,000",
-    "metro": "Boston",
-    "level_signal": "none",
-    "years_required": null,
-    "flags": [],
-    "company": "Tutor Intelligence",
-    "source": "Lever",
-    "posted": "2026-11-16",
-    "snippet": " Why you'll love it here Real robots, really shipping. This isn't a lab project. We build robots every day and send them to real customers. People actually use what you build. Your tools will be used every day by the factory floor, supply chain, engineering and leadership. Great teammates. You'll work side by side with technicians, engineers, buyers and our leadership team. You get to start it. You'll decide how AI runs our factory from day one, instead of fixing someone else's old system. What you'll build \"Do we have the parts?\" tools. Check every robot's parts list against what's on the she"
   },
   {
     "title": "People Analytics and Systems Analyst",
@@ -1433,18 +1374,94 @@
     "snippet": "FieldAI is transforming how robots interact with the real world. We are building risk-aware, reliable, and field-ready AI systems that address the most complex challenges in robotics, unlocking the full potential of embodied intelligence. We go beyond typical data-driven approaches or pure transformer-based architectures, and are charting a new course, with already-globally-deployed solutions delivering real-world results and rapidly improving models through real-field applications.\n\n\nRobotics AI Engineer \u2013 Calibration, Localization, and Mapping\n\u00a0\n\u00a0\nAbout Field AI\nField AI is at the forefront "
   },
   {
-    "title": "Manufacturing Engineer",
-    "location": "Somerville, MA",
-    "url": "https://careers.formlabs.com/job/8249899/apply/?gh_jid=8249899",
+    "title": "Software Engineer, Wireless Validation (Starlink Mobile) ",
+    "location": "Palo Alto, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8943817002?gh_jid=8943817002",
     "pay": "",
-    "metro": "Boston",
+    "metro": "SF Bay",
     "level_signal": "none",
-    "years_required": 1,
-    "flags": [],
-    "company": "Formlabs",
+    "years_required": 2,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
     "source": "Greenhouse",
-    "posted": "2026-10-02",
-    "snippet": "About Formlabs: Do you want to change how the world creates? At Formlabs, we\u2019re building the tools that make it possible for anyone to bring their ideas to life, from cutting-edge products to life-saving medical devices. Our 3D printing technology powers innovation at more than 50,000 industry leaders worldwide, including Apple, Google, Tesla, New Balance, and NASA. Together, we\u2019re helping everyone design, prototype, and manufacture faster than ever before. We\u2019re a team of hands-on builders, engineers, and innovators reinventing how the world makes physical things. If you\u2019re ready to shape the"
+    "posted": "2026-11-16",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. SOFTWARE ENGINEER, WIRELESS VALIDATION (STARLINK MOBILE) The Starlink Mobile network will expand Starlink\u2019s vision by providing ubiquitous connectivity and seamless access to text, voice, and data direct to devices across the globe. We are partnering with mobile network operators globally to provide direct-to-cell ser"
+  },
+  {
+    "title": "Manufacturing Process Engineer, Hands ",
+    "location": "San Carlos, CA",
+    "url": "https://jobs.ashbyhq.com/1x/262f9af1-db00-4a21-8adb-a40206027cbc",
+    "pay": "$148K \u2013 $181K \u2022 Offers Equity",
+    "metro": "SF Bay",
+    "level_signal": "none",
+    "years_required": null,
+    "flags": [],
+    "company": "1X",
+    "source": "Ashby",
+    "posted": "2026-11-16",
+    "snippet": "ABOUT 1X\n\nWe\u2019re building humanoid robots that work in home - doing the chores, handling the tasks, and giving people their time back. Simple, but it\u2019s not. \n\nTo do this right, we have to solve robotics, AI, manufacturing - at the same time, at scale, in a form factor that has to be safe enough to live with your family. If you\u2019re inspired by this, you\u2019ll thrive here. We\u2019ve been at this since 2014 and we\u2019re at the point where the hard problems are behind us and the hard work is in front of us. \n\nNEO is our flagship - a home robot designed to move, learn, and operate in the real world alongside r"
+  },
+  {
+    "title": "Software Engineer (Platform Team)",
+    "location": "Palo Alto, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8940469002?gh_jid=8940469002",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "none",
+    "years_required": 2,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-16",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. SOFTWARE ENGINEER (PLATFORM TEAM) The Platform Team is responsible for building the foundational tooling and security infrastructure that empowers every team at SpaceX to harness AI effectively. This team creates secure, scalable gateways and proxy systems that allow engineers and operators across the company to write"
+  },
+  {
+    "title": "Software Engineer (Platform Team)",
+    "location": "Sunnyvale, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8940468002?gh_jid=8940468002",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "none",
+    "years_required": 2,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-16",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. SOFTWARE ENGINEER (PLATFORM TEAM) The Platform Team is responsible for building the foundational tooling and security infrastructure that empowers every team at SpaceX to harness AI effectively. This team creates secure, scalable gateways and proxy systems that allow engineers and operators across the company to write"
+  },
+  {
+    "title": "Assembly Technician - Robot Hands",
+    "location": "San Carlos, CA",
+    "url": "https://jobs.ashbyhq.com/1x/69ff8569-e4e7-4afe-96f9-947335f755f7",
+    "pay": "$30 \u2013 $40 per hour \u2022 Offers Equity",
+    "metro": "SF Bay",
+    "level_signal": "none",
+    "years_required": null,
+    "flags": [],
+    "company": "1X",
+    "source": "Ashby",
+    "posted": "2026-11-16",
+    "snippet": "Role Name: Assembly Technician, Hands Team\n\nDepartment: Production, Hands\n\nLocation: San Carlos\n\nShift: Day Shift (7:00 AM \u2013 3:30 PM)\n\n\n\n\nABOUT 1X\n\nWe're building humanoid robots that work in home \u2013 doing the chores, handling the tasks, and giving people their time back. Simple, but it's not.\n\nTo do this right, we have to solve robotics, AI, manufacturing \u2013 at the same time, at scale, in a form factor that has to be safe enough to live with your family. If you're inspired by this, you'll thrive here. We've been at this since 2014 and we're at the point where the hard problems are behind us and"
+  },
+  {
+    "title": "Assembly Technician - Robot Body",
+    "location": "Hayward, CA",
+    "url": "https://jobs.ashbyhq.com/1x/8926383e-91d6-47fd-8e17-0d525ebaca98",
+    "pay": "$30 \u2013 $39 per hour \u2022 Offers Equity",
+    "metro": "SF Bay",
+    "level_signal": "none",
+    "years_required": 2,
+    "flags": [],
+    "company": "1X",
+    "source": "Ashby",
+    "posted": "2026-11-16",
+    "snippet": "Role Name: Assembly Technician\n\nDepartment: Production\n\nLocation: Hayward, CA\n\nShift: Day Shift (6:00 AM \u2013 2:30 PM) or Swing Shift (3:00 PM \u2013 11:30 PM)\n\n\n\n\nABOUT 1X\n\nWe're building humanoid robots that work in home - doing the chores, handling the tasks, and giving people their time back. Simple, but it's not.\n\nTo do this right, we have to solve robotics, AI, manufacturing - at the same time, at scale, in a form factor that has to be safe enough to live with your family. If you're inspired by this, you'll thrive here. We've been at this since 2014 and we're at the point where the hard problems"
   },
   {
     "title": "Full Stack Software Engineer (Starlink)",
@@ -2019,6 +2036,70 @@
     "source": "Greenhouse",
     "posted": "2026-10-06",
     "snippet": "Who We Are Nuro believes self-driving vehicles are the most immediate and profound opportunity for AI to drive positive change in the physical world. Safer streets, more time for what matters, and easier access to the world around us, that\u2019s why we\u2019re building a universal autonomy platform: self-driving for all roads and all rides. Founded in 2016, Nuro is a physical AI company developing Level 4 autonomous driving technology for a wide range of vehicles, use cases, and markets. Powered by the Nuro Driver\u2122, our universal autonomy platform enables the global mobility ecosystem to deploy autonom"
+  },
+  {
+    "title": "Avionics Production Supervisor, Sensors (Falcon)",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8944950002?gh_jid=8944950002",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "none",
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-16",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. AVIONICS PRODUCTION SUPERVISOR (SENSORS) \u2013 1st SHIFT The Avionics Sensors Production Supervisor leads a team of technicians responsible for the assembly, test, and rework of flight-critical sensors and transducers. Manufacturing processes include precision electromechanical assembly, torque and adhesive operations, wi"
+  },
+  {
+    "title": "Operations Engineer (Space Planning - Office & Seating)",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8945694002?gh_jid=8945694002",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "none",
+    "years_required": null,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-16",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. OPERATIONS ENGINEER (SPACE PLANNING \u2013 OFFICE & SEATING) The Corporate Operations Engineering team supports overall business operations through strategic planning, optimization of processes, and alignment of resources to tasks. In this role, you will own office and desk space across the Hawthorne campus, turning progra"
+  },
+  {
+    "title": "Software Engineer (Platform Team)",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8940459002?gh_jid=8940459002",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "none",
+    "years_required": 2,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-16",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. SOFTWARE ENGINEER (PLATFORM TEAM) The Platform Team is responsible for building the foundational tooling and security infrastructure that empowers every team at SpaceX to harness AI effectively. This team creates secure, scalable gateways and proxy systems that allow engineers and operators across the company to write"
+  },
+  {
+    "title": "Propulsion Technician (Raptor Foundry)",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8942648002?gh_jid=8942648002",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "none",
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-16",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. PROPULSION TECHNICIAN (RAPTOR FOUNDRY) We are seeking a motivated, adaptable, and detail-oriented individual with a strong industrial background who thrives in fast-paced manufacturing environments. As a Foundry Technician, you will leverage your hands-on experience to master evolving processes, operate heavy industri"
   },
   {
     "title": "Payload Integration Engineer",
@@ -2691,18 +2772,100 @@
     "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. APPLICATION SOFTWARE ENGINEER, EMPLOYEE EXPERIENCE The application software team is the central nervous system of SpaceX \u2013 we create mission critical applications that are used throughout SpaceX to accelerate launch vehicle production and flight as well as systems that allow Starlink to grow into a worldwide fast, rel"
   },
   {
-    "title": "Business Systems Analyst",
-    "location": "Long Beach, California, United States",
-    "url": "https://boards.greenhouse.io/relativity/jobs/8861994002?gh_jid=8861994002",
+    "title": "Integration & Test Engineer (Starlink)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8945237002?gh_jid=8945237002",
     "pay": "",
-    "metro": "LA",
+    "metro": "Seattle",
     "level_signal": "none",
     "years_required": null,
-    "flags": [],
-    "company": "Relativity Space",
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
     "source": "Greenhouse",
-    "posted": "2026-10-02",
-    "snippet": "At Relativity Space, we\u2019re building rockets to serve today\u2019s needs and tomorrow\u2019s breakthroughs. Our Terran R vehicle will deliver customer payloads to orbit, meeting the growing demand for launch capacity. But that\u2019s just the start. Achieving commercial success with Terran R will unlock new opportunities to advance science, exploration, and innovation, pioneering progress that reaches beyond the known. Joining Relativity means becoming part of something where autonomy, ownership, and impact exist at every level. Here, you're not just executing tasks; you're solving problems that haven\u2019t been "
+    "posted": "2026-11-16",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. INTEGRATION & TEST ENGINEER (STARLINK) Integration and Test engineers are responsible for understanding every system on the satellite. Engineers on this team must have a working knowledge of design, schematics, operations, manufacturing, testing, and flight. A successful Integration and Test Engineer demonstrates engi"
+  },
+  {
+    "title": "Manufacturing Specialist, Solar (Starlink)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8945166002?gh_jid=8945166002",
+    "pay": "",
+    "metro": "Seattle",
+    "level_signal": "none",
+    "years_required": 2,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-16",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. MANUFACTURING SPECIALIST, SOLAR (STARLINK) SpaceX is developing a low latency, broadband internet system to meet the needs of consumers across the globe. Enabled by a constellation of low Earth orbit satellites, Starlink will provide fast, reliable internet to populations with little or no connectivity, including thos"
+  },
+  {
+    "title": "Sourcing Specialist, Electro Mechanical Commodities (Starlink Aviation)",
+    "location": "Woodinville, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8936797002?gh_jid=8936797002",
+    "pay": "",
+    "metro": "Seattle",
+    "level_signal": "none",
+    "years_required": 2,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-16",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. SOURCING SPECIALIST, ELECTRO MECHANICAL COMMODITIES (STARLINK AVIATION) One of the most ambitious missions that SpaceX has undertaken to date, the Starlink constellation is our solution to providing reliable internet to the entire world. The Starlink Supply Chain Department is looking for a Sourcing Specialist to supp"
+  },
+  {
+    "title": "Sourcing Specialist, Electro Mechanical Commodities (Starlink Aviation)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8936780002?gh_jid=8936780002",
+    "pay": "",
+    "metro": "Seattle",
+    "level_signal": "none",
+    "years_required": 2,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-16",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. SOURCING SPECIALIST, ELECTRO MECHANICAL COMMODITIES (STARLINK AVIATION) One of the most ambitious missions that SpaceX has undertaken to date, the Starlink constellation is our solution to providing reliable internet to the entire world. The Starlink Supply Chain Department is looking for a Sourcing Specialist to supp"
+  },
+  {
+    "title": "Software Engineer (Platform Team)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8940465002?gh_jid=8940465002",
+    "pay": "",
+    "metro": "Seattle",
+    "level_signal": "none",
+    "years_required": 2,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-16",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. SOFTWARE ENGINEER (PLATFORM TEAM) The Platform Team is responsible for building the foundational tooling and security infrastructure that empowers every team at SpaceX to harness AI effectively. This team creates secure, scalable gateways and proxy systems that allow engineers and operators across the company to write"
+  },
+  {
+    "title": "Manufacturing Specialist - 2nd Shift",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8942962002?gh_jid=8942962002",
+    "pay": "",
+    "metro": "Seattle",
+    "level_signal": "none",
+    "years_required": null,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-16",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. SMT SPECIALIST - 2ND SHIFT We are looking for talented, creative, and driven specialists to drive manufacturing tools and processes. Join the Starlink printed circuit board assembly (PCBA) team and take ownership of Surface Mount Technology (SMT) processes that enable the high-volume production of electronics designed"
   },
   {
     "title": "Automation Engineer (Starlink Customer Experience)   ",
