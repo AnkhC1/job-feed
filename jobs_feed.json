@@ -86,6 +86,20 @@
     "snippet": "About the role Muon seeks an early-career RF Hardware Test Engineer to join our Testbeds & EGSE team \u2014 the group that builds the Hardware-In-The-Loop (HITL) testbeds behind every Muon mission and the electrical ground support equipment (EGSE) used to interface with our satellites during assembly, integration, and test. You'll help build and design this infrastructure alongside the team's senior engineers: assembling and bringing up testbeds for each mission, and contributing to the design of our next generation of EGSE. This team sits at the crossroads of disciplines, and so can you: engineers"
   },
   {
+    "title": "Software Engineer I (Factory Platform)",
+    "location": "Long Beach, California, United States",
+    "url": "https://boards.greenhouse.io/relativity/jobs/8949325002?gh_jid=8949325002",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "title",
+    "years_required": 1,
+    "flags": [],
+    "company": "Relativity Space",
+    "source": "Greenhouse",
+    "posted": "2026-11-17",
+    "snippet": "At Relativity Space, we\u2019re building rockets to serve today\u2019s needs and tomorrow\u2019s breakthroughs. Our Terran R vehicle will deliver customer payloads to orbit, meeting the growing demand for launch capacity. But that\u2019s just the start. Achieving commercial success with Terran R will unlock new opportunities to advance science, exploration, and innovation, pioneering progress that reaches beyond the known. Joining Relativity means becoming part of something where autonomy, ownership, and impact exist at every level. Here, you're not just executing tasks; you're solving problems that haven\u2019t been "
+  },
+  {
     "title": "New Graduate Engineer, Aerospace Software (Starfall)",
     "location": "Hawthorne, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8939697002?gh_jid=8939697002",
@@ -130,20 +144,6 @@
     "source": "Greenhouse",
     "posted": "2026-11-09",
     "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. ENGINEERING Engineering is at the heart of Rocket Lab. Our engineering team has a proven track record of designing and developing world-class rockets and spacecraft that are changing the way we access and use space. You\u2019ll work alongside driven, talented engineers f"
-  },
-  {
-    "title": "Propulsion Integration & Test Engineer I, First shift",
-    "location": "Long Beach, California, United States",
-    "url": "https://boards.greenhouse.io/relativity/jobs/8932458002?gh_jid=8932458002",
-    "pay": "",
-    "metro": "LA",
-    "level_signal": "title",
-    "years_required": null,
-    "flags": [],
-    "company": "Relativity Space",
-    "source": "Greenhouse",
-    "posted": "2026-11-05",
-    "snippet": "At Relativity Space, we\u2019re building rockets to serve today\u2019s needs and tomorrow\u2019s breakthroughs. Our Terran R vehicle will deliver customer payloads to orbit, meeting the growing demand for launch capacity. But that\u2019s just the start. Achieving commercial success with Terran R will unlock new opportunities to advance science, exploration, and innovation, pioneering progress that reaches beyond the known. Joining Relativity means becoming part of something where autonomy, ownership, and impact exist at every level. Here, you're not just executing tasks; you're solving problems that haven\u2019t been "
   },
   {
     "title": "Manufacturing Engineer I, Machining",
@@ -368,6 +368,20 @@
     "snippet": "Do you want to change how the world creates? At Formlabs, we\u2019re building the tools that make it possible for anyone to bring their ideas to life, from cutting-edge products to life-saving medical devices. Our 3D printing technology powers innovation at more than 50,000 industry leaders worldwide, including Apple, Google, Tesla, New Balance, and NASA. Together, we\u2019re helping everyone design, prototype, and manufacture faster than ever before. We\u2019re a team of hands-on builders, engineers, and innovators reinventing how the world makes physical things. If you\u2019re ready to shape the future of fabri"
   },
   {
+    "title": "Battery Test Technician",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/67dbe249-d622-4b02-83bf-0f71df461384",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "body",
+    "years_required": null,
+    "flags": [],
+    "company": "Skydio",
+    "source": "Ashby",
+    "posted": "2026-11-17",
+    "snippet": "Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from utility inspectors https://www.skydio.com/solutions/energy-and-utilities to first responders https://www.skydio.com/solutions/public-safety, soldiers in battlefield scenarios https://www.skydio.com/solutions/national"
+  },
+  {
     "title": "PCBA Reliability Engineer - All Levels",
     "location": "San Jose, CA",
     "url": "https://job-boards.greenhouse.io/figureai/jobs/4728462006",
@@ -450,6 +464,22 @@
     "source": "Ashby",
     "posted": "2026-10-08",
     "snippet": "Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from utility inspectors https://www.skydio.com/solutions/energy-and-utilities to first responders https://www.skydio.com/solutions/public-safety, soldiers in battlefield scenarios https://www.skydio.com/solutions/national"
+  },
+  {
+    "title": "Supplier Development Engineer, Manufacturing (Electronics)",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8946484002?gh_jid=8946484002",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "body",
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-17",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. SUPPLIER DEVELOPMENT ENGINEER, MANUFACTURING (ELECTRONICS) SpaceX demands a new type of supply chain. We require our suppliers to provide premium quality with rapidly evolving designs at increasingly ambitious volumes. We are actively looking for candidates who possess comprehensive knowledge of manufacturing and qual"
   },
   {
     "title": "Spacecraft Systems Engineer, Flight Safety",
@@ -1276,6 +1306,20 @@
     "snippet": "JOIN THE TEAM BRINGING AUTONOMY TO THE BUILT WORLD\n\n\nAt Bedrock, we're moving AI out of the lab and onto real job sites. Our team includes veterans who helped launch Waymo, scaled Segment to a $3.2B acquisition, and grew Uber Freight to $5B in revenue. We retrofit the heavy equipment contractors already own, starting with excavators, so experienced crews can safely take on more projects and deliver more of the critical infrastructure our society needs.\n\nIn August 2026, Bedrock-equipped excavators began doing fully autonomous, paid work on live commercial job sites. We've more than doubled our "
   },
   {
+    "title": "3D Digital Manufacturing Technician",
+    "location": "Billerica, MA",
+    "url": "https://careers.formlabs.com/job/8395864/apply/?gh_jid=8395864",
+    "pay": "",
+    "metro": "Boston",
+    "level_signal": "none",
+    "years_required": null,
+    "flags": [],
+    "company": "Formlabs",
+    "source": "Greenhouse",
+    "posted": "2026-11-17",
+    "snippet": "Do you want to change how the world creates? At Formlabs, we\u2019re building the tools that make it possible for anyone to bring their ideas to life, from cutting-edge products to life-saving medical devices. Our 3D printing technology powers innovation at more than 50,000 industry leaders worldwide, including Apple, Google, Tesla, New Balance, and NASA. Together, we\u2019re helping everyone design, prototype, and manufacture faster than ever before. We\u2019re a team of hands-on builders, engineers, and innovators reinventing how the world makes physical things. If you\u2019re ready to shape the future of fabri"
+  },
+  {
     "title": "People Analytics and Systems Analyst",
     "location": "Somerville, MA",
     "url": "https://careers.formlabs.com/job/8384126/apply/?gh_jid=8384126",
@@ -1372,6 +1416,36 @@
     "source": "Lever",
     "posted": "2026-10-09",
     "snippet": "FieldAI is transforming how robots interact with the real world. We are building risk-aware, reliable, and field-ready AI systems that address the most complex challenges in robotics, unlocking the full potential of embodied intelligence. We go beyond typical data-driven approaches or pure transformer-based architectures, and are charting a new course, with already-globally-deployed solutions delivering real-world results and rapidly improving models through real-field applications.\n\n\nRobotics AI Engineer \u2013 Calibration, Localization, and Mapping\n\u00a0\n\u00a0\nAbout Field AI\nField AI is at the forefront "
+  },
+  {
+    "title": "Mechanical Engineer ",
+    "location": "San Carlos, CA",
+    "url": "https://jobs.ashbyhq.com/1x/3398e992-b02a-4d39-aabe-f4ac2bb6591d",
+    "pay": "$150,250 \u2013 $175,950 \u2022 Offers Equity",
+    "metro": "SF Bay",
+    "level_signal": "none",
+    "years_required": null,
+    "flags": [],
+    "company": "1X",
+    "source": "Ashby",
+    "posted": "2026-11-18",
+    "snippet": "ABOUT 1X\n\nWe\u2019re building humanoid robots that work in home - doing the chores, handling the tasks, and giving people their time back. Simple, but it\u2019s not.\n\nTo do this right, we have to solve robotics, AI, manufacturing - at the same time, at scale, in a form factor that has to be safe enough to live with your family. If you\u2019re inspired by this, you\u2019ll thrive here. We\u2019ve been at this since 2014 and we\u2019re at the point where the hard problems are behind us and the hard work is in front of us.\n\nNEO is our flagship - a home robot designed to move, learn, and operate in the real world alongside rea"
+  },
+  {
+    "title": "Electrical Hardware Engineer (multiple levels available)",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/muonspace/jobs/5298140007",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "none",
+    "years_required": null,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "Muon Space",
+    "source": "Greenhouse",
+    "posted": "2026-11-17",
+    "snippet": "About the role Muon Space is seeking motivated and enthusiastic Electrical Hardware Engineers to join our growing team in San Jose, CA. This is an exciting opportunity to contribute to the design, development, and testing of cutting-edge electrical hardware for our next-generation spacecraft. You will work closely with experienced engineers across various disciplines to bring innovative satellite systems to life. This position is hybrid and requires working on-site in our San Jose, CA office three days per week. Please Note: We are seeking an immediate start (within 1-2 months), but we can pro"
   },
   {
     "title": "Software Engineer, Wireless Validation (Starlink Mobile) ",
@@ -1680,20 +1754,6 @@
     "source": "Ashby",
     "posted": "2026-11-02",
     "snippet": "Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, mining and agriculture industries in three core areas: tools and infrastructure, operating systems, and autonomy. Eighteen of the top 20 global automakers, as well as the United States military and its allies, trust the company\u2019s solutions to deliver physical intelligence. Applie"
-  },
-  {
-    "title": "Hardware Engineer",
-    "location": "San Francisco, CA",
-    "url": "https://jobs.ashbyhq.com/bedrock-robotics/087f6417-5d8c-45b6-a7d0-dfaa2cc92cf8",
-    "pay": "",
-    "metro": "SF Bay",
-    "level_signal": "none",
-    "years_required": null,
-    "flags": [],
-    "company": "Bedrock Robotics",
-    "source": "Ashby",
-    "posted": "2026-11-02",
-    "snippet": "Bedrock Robotics, Inc. seeks a Hardware Engineer in San Francisco, CA responsible for designing, manufacturing, and testing its autonomous hardware systems, including high performance computer systems, sensors, controllers, interfaces to machines, and testing equipment.\n\nThis position will work with autonomous hardware systems installed on standard heavy construction machinery\u2014excavators, bulldozers, and wheel loaders\u2014to allow that equipment to perform earthmoving work on construction sites autonomously. In this context, \u201cautonomous hardware systems\u201d are the physical electronic components inst"
   },
   {
     "title": "Electrical Engineer- SDR Hardware ",
@@ -2036,6 +2096,54 @@
     "source": "Greenhouse",
     "posted": "2026-10-06",
     "snippet": "Who We Are Nuro believes self-driving vehicles are the most immediate and profound opportunity for AI to drive positive change in the physical world. Safer streets, more time for what matters, and easier access to the world around us, that\u2019s why we\u2019re building a universal autonomy platform: self-driving for all roads and all rides. Founded in 2016, Nuro is a physical AI company developing Level 4 autonomous driving technology for a wide range of vehicles, use cases, and markets. Powered by the Nuro Driver\u2122, our universal autonomy platform enables the global mobility ecosystem to deploy autonom"
+  },
+  {
+    "title": "Propulsion Technician (Raptor Operations) ",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8949011002?gh_jid=8949011002",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "none",
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-17",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. PROPULSION TECHNICIAN (RAPTOR OPERATIONS) We are seeking a highly motivated, adaptable, and detail-oriented technician with a strong industrial background to build and scale our rocket engine factory. You\u2019ll work closely with operation engineers, manufacturing engineers, contractors, and facilities teams to build the "
+  },
+  {
+    "title": "Propulsion Engineer, Foundry (Raptor)",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8948664002?gh_jid=8948664002",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "none",
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-17",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. PROPULSION ENGINEER, FOUNDRY (RAPTOR) As a Raptor Engineer at SpaceX you will have the opportunity to apply your knowledge, experience, and creativity to develop hardware at the cutting edge of space technology. You will build the engines that will ultimately extend humanity\u2019s reach beyond the earth and moon. In this "
+  },
+  {
+    "title": "Sensors Development Engineer (Starship)",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8948662002?gh_jid=8948662002",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "none",
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-17",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. SENSORS DEVELOPMENT ENGINEER (STARSHIP) The Sensors Development team designs, builds, and tests innovative sensing solutions that are critical to making life on Mars possible. This Senior Sensor Development Engineer will work on this highly interdisciplinary team to characterize navigation sensors, such as acceleromet"
   },
   {
     "title": "Avionics Production Supervisor, Sensors (Falcon)",
@@ -2772,6 +2880,54 @@
     "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. APPLICATION SOFTWARE ENGINEER, EMPLOYEE EXPERIENCE The application software team is the central nervous system of SpaceX \u2013 we create mission critical applications that are used throughout SpaceX to accelerate launch vehicle production and flight as well as systems that allow Starlink to grow into a worldwide fast, rel"
   },
   {
+    "title": "Battery Test Engineer, Satellites (Starlink)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8943765002?gh_jid=8943765002",
+    "pay": "",
+    "metro": "Seattle",
+    "level_signal": "none",
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-17",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. BATTERY TEST ENGINEER, SATELLITES (STARLINK) SpaceX is leveraging its experience in building rockets and spacecraft to deploy Starlink, the world\u2019s most advanced broadband internet system. Starlink is the world\u2019s largest satellite constellation and is providing fast, reliable internet to millions of users worldwide. W"
+  },
+  {
+    "title": "Hardware Test Automation Engineer, Satellites (Starlink)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8945159002?gh_jid=8945159002",
+    "pay": "",
+    "metro": "Seattle",
+    "level_signal": "none",
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-17",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. HARDWARE TEST AUTOMATION ENGINEER, SATELLITES (STARLINK) At SpaceX we\u2019re leveraging our experience in building rockets and spacecraft to deploy Starlink, the world\u2019s most advanced broadband internet system. Starlink is the world\u2019s largest satellite constellation and is providing fast, reliable internet to millions of "
+  },
+  {
+    "title": "Integration Specialist (Starlink Aviation)",
+    "location": "Woodinville, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8945669002?gh_jid=8945669002",
+    "pay": "",
+    "metro": "Seattle",
+    "level_signal": "none",
+    "years_required": null,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-17",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. INTEGRATION SPECIALIST (STARLINK AVIATION) As a Starlink Integration Specialist, you will be responsible for executing on a wide variety of assignments, including: hardware assembly, integration, and reliability of Starlink Aviation products. You will work closely with aviation design and certification engineers, as w"
+  },
+  {
     "title": "Integration & Test Engineer (Starlink)",
     "location": "Redmond, WA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8945237002?gh_jid=8945237002",
@@ -3120,22 +3276,6 @@
     "source": "Greenhouse",
     "posted": "2026-10-30",
     "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. GNC ENGINEER, COLLISION AVOIDANCE (STARLINK) SpaceX is looking for engineers with a hybrid background in both GNC (guidance, navigation, and control) and software development to join the Starlink Collision Avoidance team. Starlink operates the world's largest satellite constellation \u2014 nearly half of the world's active"
-  },
-  {
-    "title": "Supervisor, Test System Production (Starlink)",
-    "location": "Redmond, WA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8911618002?gh_jid=8911618002",
-    "pay": "",
-    "metro": "Seattle",
-    "level_signal": "none",
-    "years_required": 1,
-    "flags": [
-      "ITAR/US-person"
-    ],
-    "company": "SpaceX",
-    "source": "Greenhouse",
-    "posted": "2026-10-23",
-    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. SUPERVISOR, TEST SYSTEM PRODUCTION (STARLINK) SpaceX is leveraging its experience in building rockets and spacecraft to deploy Starlink, the world\u2019s most advanced broadband internet system. Starlink is the world\u2019s largest satellite constellation and is providing fast, reliable internet to 12M+ users worldwide. We desi"
   },
   {
     "title": "Hardware Development Engineer, PCBA Manufacturing (STARLINK) ",

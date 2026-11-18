@@ -1,6 +1,6 @@
-# Job feed 2026-11-17 (219 candidates: 23 title / 20 body / 39 intern / 137 none)
+# Job feed 2026-11-18 (228 candidates: 23 title / 22 body / 39 intern / 144 none)
 
-Generated 2026-11-17 09:24 ET from 63/63 boards. Leads only - read each posting before using it.
+Generated 2026-11-18 08:58 ET from 63/63 boards. Leads only - read each posting before using it.
 
 ## Explicit entry-level in title (23)
 
@@ -16,14 +16,14 @@ Generated 2026-11-17 09:24 ET from 63/63 boards. Leads only - read each posting 
   https://www.zipline.com/open-roles/8040731003?gh_jid=8040731003
 - **Muon Space - RF Test Engineer I, Testbeds & EGSE** | SF Bay (San Jose, CA) | posted 2026-10-15 | pay not listed | 2+ yrs, ITAR/US-person
   https://job-boards.greenhouse.io/muonspace/jobs/5266382007
+- **Relativity Space - Software Engineer I (Factory Platform)** | LA (Long Beach, California, United States) | posted 2026-11-17 | pay not listed | 1+ yrs
+  https://boards.greenhouse.io/relativity/jobs/8949325002?gh_jid=8949325002
 - **SpaceX - New Graduate Engineer, Aerospace Software (Starfall)** | LA (Hawthorne, CA) | posted 2026-11-12 | pay not listed | ITAR/US-person
   https://boards.greenhouse.io/spacex/jobs/8939697002?gh_jid=8939697002
 - **Relativity Space - Vehicle Fluids Hardware Development Engineer I** | LA (Long Beach, California, United States) | posted 2026-11-10 | pay not listed | 1+ yrs
   https://boards.greenhouse.io/relativity/jobs/8936585002?gh_jid=8936585002
 - **Rocket Lab - Manufacturing Engineer I - Propulsion** | LA (Long Beach, CA) | posted 2026-11-09 | pay not listed | ITAR/US-person
   https://job-boards.greenhouse.io/rocketlab/jobs/8198332003
-- **Relativity Space - Propulsion Integration & Test Engineer I, First shift** | LA (Long Beach, California, United States) | posted 2026-11-05 | pay not listed
-  https://boards.greenhouse.io/relativity/jobs/8932458002?gh_jid=8932458002
 - **Relativity Space - Manufacturing Engineer I, Machining** | LA (Long Beach, California, United States) | posted 2026-10-30 | pay not listed | 1+ yrs
   https://boards.greenhouse.io/relativity/jobs/8924163002?gh_jid=8924163002
 - **Rocket Lab - Systems Engineer I** | LA (Long Beach, CA) | posted 2026-10-28 | pay not listed | ITAR/US-person
@@ -51,12 +51,14 @@ Generated 2026-11-17 09:24 ET from 63/63 boards. Leads only - read each posting 
 - **SpaceX - New Graduate Engineer, Electrical - Satellites (Starlink)** | Seattle (Redmond, WA) | posted 2026-11-05 | pay not listed | 1+ yrs, ITAR/US-person
   https://boards.greenhouse.io/spacex/jobs/8931507002?gh_jid=8931507002
 
-## Entry-level signal in description only (20)
+## Entry-level signal in description only (22)
 
 - **Tutor Intelligence - Manufacturing Test Engineer – Robotics** | Boston (Watertown, MA) | posted 2026-10-29 | $120,000-$190,000
   https://jobs.lever.co/tutorintelligence/852e359a-af13-4111-a530-0cddaf798392
 - **Formlabs - Software Engineer, API & Automation** | Boston (Somerville, MA) | posted 2026-10-22 | pay not listed
   https://careers.formlabs.com/job/8312364/apply/?gh_jid=8312364
+- **Skydio - Battery Test Technician** | SF Bay (San Mateo, California, United States) | posted 2026-11-17 | pay not listed
+  https://jobs.ashbyhq.com/skydio/67dbe249-d622-4b02-83bf-0f71df461384
 - **Figure - PCBA Reliability Engineer - All Levels** | SF Bay (San Jose, CA) | posted 2026-11-09 | pay not listed | 2+ yrs
   https://job-boards.greenhouse.io/figureai/jobs/4728462006
 - **1X - Manufacturing Test Technician** | SF Bay (San Carlos, CA) | posted 2026-10-27 | $25 – $48 per hour • Offers Equity | 2+ yrs
@@ -69,6 +71,8 @@ Generated 2026-11-17 09:24 ET from 63/63 boards. Leads only - read each posting 
   https://www.zipline.com/open-roles/8034605003?gh_jid=8034605003
 - **Skydio - Electrical Design Engineer** | SF Bay (San Mateo, California, United States) | posted 2026-10-08 | pay not listed
   https://jobs.ashbyhq.com/skydio/9cb4555e-4fd1-410b-921b-cc17d56ba5df
+- **SpaceX - Supplier Development Engineer, Manufacturing (Electronics)** | LA (Hawthorne, CA) | posted 2026-11-17 | pay not listed | 1+ yrs, ITAR/US-person
+  https://boards.greenhouse.io/spacex/jobs/8946484002?gh_jid=8946484002
 - **Varda Space - Spacecraft Systems Engineer, Flight Safety** | LA (El Segundo, California, United States) | posted 2026-11-16 | pay not listed | ITAR/US-person
   https://job-boards.greenhouse.io/vardaspace/jobs/8206181003
 - **SpaceX - Manufacturing Engineer, Machining (Starship)** | LA (Hawthorne, CA) | posted 2026-11-12 | pay not listed | 1+ yrs, ITAR/US-person
@@ -175,12 +179,14 @@ Generated 2026-11-17 09:24 ET from 63/63 boards. Leads only - read each posting 
 - **Field AI - Robotics Research, Embodied AI Intern (Spring & Summer 2027)** | LA (Irvine, CA) | posted 2026-10-13 | pay not listed | term: Summer 2027
   https://jobs.lever.co/field-ai/ef35c537-b864-479f-9dbe-b30429ac7704
 
-## No level signal (not senior, not 3+ yrs) - verify level (137)
+## No level signal (not senior, not 3+ yrs) - verify level (144)
 
 - **Formic - Robotics Field Service Technician** | NYC (New York) | posted 2026-10-30 | pay not listed
   https://job-boards.greenhouse.io/formic/jobs/4726244006
 - **Bedrock Robotics - Software Engineer, Fleet Platform** | NYC (New York, NY) | posted 2026-10-15 | pay not listed
   https://jobs.ashbyhq.com/bedrock-robotics/cbcf15d7-6f14-4270-b726-3bfa90242fc5
+- **Formlabs - 3D Digital Manufacturing Technician** | Boston (Billerica, MA) | posted 2026-11-17 | pay not listed
+  https://careers.formlabs.com/job/8395864/apply/?gh_jid=8395864
 - **Formlabs - People Analytics and Systems Analyst** | Boston (Somerville, MA) | posted 2026-11-12 | pay not listed
   https://careers.formlabs.com/job/8384126/apply/?gh_jid=8384126
 - **Tutor Intelligence - Technical Support Engineer (Robotics)** | Boston (Watertown, MA) | posted 2026-10-30 | $80,000-$110,000
@@ -195,6 +201,10 @@ Generated 2026-11-17 09:24 ET from 63/63 boards. Leads only - read each posting 
   https://careers.formlabs.com/job/8282331/apply/?gh_jid=8282331
 - **Field AI - Robotics AI Engineer, Calibration, Localization, and Mapping** | Boston (Boston, MA) | posted 2026-10-09 | pay not listed
   https://jobs.lever.co/field-ai/9524c7c2-8be2-4463-afe3-7c1c60f7e6f2
+- **1X - Mechanical Engineer** | SF Bay (San Carlos, CA) | posted 2026-11-18 | $150,250 – $175,950 • Offers Equity
+  https://jobs.ashbyhq.com/1x/3398e992-b02a-4d39-aabe-f4ac2bb6591d
+- **Muon Space - Electrical Hardware Engineer (multiple levels available)** | SF Bay (San Jose, CA) | posted 2026-11-17 | pay not listed | ITAR/US-person
+  https://job-boards.greenhouse.io/muonspace/jobs/5298140007
 - **SpaceX - Software Engineer, Wireless Validation (Starlink Mobile)** | SF Bay (Palo Alto, CA) | posted 2026-11-16 | pay not listed | 2+ yrs, ITAR/US-person
   https://boards.greenhouse.io/spacex/jobs/8943817002?gh_jid=8943817002
 - **1X - Manufacturing Process Engineer, Hands** | SF Bay (San Carlos, CA) | posted 2026-11-16 | $148K – $181K • Offers Equity
@@ -237,8 +247,6 @@ Generated 2026-11-17 09:24 ET from 63/63 boards. Leads only - read each posting 
   https://job-boards.greenhouse.io/formic/jobs/4724437006
 - **Applied Intuition - Software Engineer (Sunnyvale, CA)** | SF Bay (Sunnyvale) | posted 2026-11-02 | $152,797 – $222,200 | 1+ yrs
   https://jobs.ashbyhq.com/applied/48bab48f-c708-40b6-ac2c-36bb704287b3
-- **Bedrock Robotics - Hardware Engineer** | SF Bay (San Francisco, CA) | posted 2026-11-02 | pay not listed
-  https://jobs.ashbyhq.com/bedrock-robotics/087f6417-5d8c-45b6-a7d0-dfaa2cc92cf8
 - **Astranis - Electrical Engineer- SDR Hardware** | SF Bay (San Francisco) | posted 2026-10-30 | pay not listed
   https://job-boards.greenhouse.io/astranis/jobs/4607847006
 - **Ambi Robotics - Mechanical Engineer - Customer Projects** | SF Bay (Berkeley, California) | posted 2026-10-30 | $105,000-$135,000 | 2+ yrs
@@ -253,18 +261,14 @@ Generated 2026-11-17 09:24 ET from 63/63 boards. Leads only - read each posting 
   https://jobs.ashbyhq.com/applied/88cd29c0-a142-4f7a-b9ea-be557bac9624
 - **Nimble Robotics - Software Engineer, Nimble Brain** | SF Bay (San Francisco, CA) | posted 2026-10-29 | pay not listed | 1+ yrs
   https://job-boards.greenhouse.io/nimblerobotics/jobs/4472953009
-- **Applied Intuition - Software Engineer - Dana for Physical AI** | SF Bay (Sunnyvale) | posted 2026-10-28 | $175K – $235K • Offers Equity | 2+ yrs
-  https://jobs.ashbyhq.com/applied/2f3f027d-9f9e-4469-955b-229b04db1141
-- **Zoox - Contract Student Worker - Autonomy and Geofence Expansion (20 hrs/wk)** | SF Bay (Foster City, CA) | posted 2026-10-28 | pay not listed
-  https://jobs.lever.co/zoox/45594791-0b7b-4310-9a6e-067f53e4a191
 
-_97 more in jobs_feed.json (level_signal = none)._
+_104 more in jobs_feed.json (level_signal = none)._
 
 ## Diagnostics
 
-Pipeline: fetched: 7890 | older than cutoff: 5058 | defense/HVAC: 337 | outside target metros: 1003 | senior title: 830 | PhD/MBA internship: 30 | off-track title: 350 | 3+ years required: 63 | kept: 180 | kept (internships): 39
+Pipeline: fetched: 7891 | older than cutoff: 4952 | defense/HVAC: 352 | outside target metros: 1038 | senior title: 867 | PhD/MBA internship: 30 | off-track title: 359 | 3+ years required: 65 | kept: 189 | kept (internships): 39
 
 Boards that failed (fix token or delete):
 - none
 
-Jobs per board: Locus Robotics (greenhouse): 7; Gecko Robotics (ashby): 24; Agility Robotics (greenhouse): 74; Skydio (ashby): 188; Zipline (greenhouse): 329; Dexterity (lever): 13; Figure (greenhouse): 106; Apptronik (greenhouse): 82; Path Robotics (greenhouse): 60; Formic (greenhouse): 61; Boxbot (lever): 5; ANYbotics (lever): 25; Carbon Robotics (ashby): 3; Pickle Robot (lever): 10; Machina Labs (ashby): 27; Bright Machines (lever): 17; Neuralink (greenhouse): 75; Standard Bots (ashby): 27; Icarus Robotics (greenhouse): 27; 1X (ashby): 100; Reflex Robotics (ashby): 8; Tutor Intelligence (lever): 80; Physical Intelligence (ashby): 48; The Bot Company (ashby): 7; Collaborative Robotics (ashby): 15; Dyna Robotics (ashby): 31; Diligent Robotics (greenhouse): 14; Mujin (lever): 84; Ambi Robotics (lever): 5; Nimble Robotics (greenhouse): 31; Serve Robotics (ashby): 23; Bedrock Robotics (ashby): 61; Field AI (lever): 96; Persona AI (ashby): 13; Sanctuary AI (ashby): 8; Agtonomy (lever): 6; Built Robotics (ashby): 7; Cobalt Robotics (lever): 10; Watney Robotics (ashby): 25; Robust AI (lever): 5; Formlabs (greenhouse): 265; Markforged (greenhouse): 2; Waymo (greenhouse): 369; Nuro (greenhouse): 101; Applied Intuition (ashby): 330; Zoox (lever): 238; Outrider (greenhouse): 9; Kodiak Robotics (greenhouse): 48; Stack AV (greenhouse): 14; May Mobility (greenhouse): 36; Aeva (lever): 46; SpaceX (greenhouse): 2798; Relativity Space (greenhouse): 394; Varda Space (greenhouse): 138; Impulse Space (ashby): 2; Inversion Space (greenhouse): 84; Astranis (greenhouse): 182; Rocket Lab (greenhouse): 534; Muon Space (greenhouse): 141; Planet (greenhouse): 116; Radiant (ashby): 106; Helion (ashby): 65; Pacific Fusion (greenhouse): 35
+Jobs per board: Locus Robotics (greenhouse): 7; Gecko Robotics (ashby): 24; Agility Robotics (greenhouse): 75; Skydio (ashby): 189; Zipline (greenhouse): 329; Dexterity (lever): 13; Figure (greenhouse): 104; Apptronik (greenhouse): 85; Path Robotics (greenhouse): 64; Formic (greenhouse): 61; Boxbot (lever): 5; ANYbotics (lever): 24; Carbon Robotics (ashby): 3; Pickle Robot (lever): 11; Machina Labs (ashby): 28; Bright Machines (lever): 17; Neuralink (greenhouse): 74; Standard Bots (ashby): 27; Icarus Robotics (greenhouse): 28; 1X (ashby): 102; Reflex Robotics (ashby): 8; Tutor Intelligence (lever): 80; Physical Intelligence (ashby): 48; The Bot Company (ashby): 7; Collaborative Robotics (ashby): 15; Dyna Robotics (ashby): 24; Diligent Robotics (greenhouse): 13; Mujin (lever): 85; Ambi Robotics (lever): 5; Nimble Robotics (greenhouse): 31; Serve Robotics (ashby): 22; Bedrock Robotics (ashby): 60; Field AI (lever): 94; Persona AI (ashby): 13; Sanctuary AI (ashby): 8; Agtonomy (lever): 6; Built Robotics (ashby): 7; Cobalt Robotics (lever): 10; Watney Robotics (ashby): 25; Robust AI (lever): 5; Formlabs (greenhouse): 266; Markforged (greenhouse): 2; Waymo (greenhouse): 374; Nuro (greenhouse): 101; Applied Intuition (ashby): 329; Zoox (lever): 242; Outrider (greenhouse): 9; Kodiak Robotics (greenhouse): 50; Stack AV (greenhouse): 16; May Mobility (greenhouse): 34; Aeva (lever): 45; SpaceX (greenhouse): 2791; Relativity Space (greenhouse): 400; Varda Space (greenhouse): 138; Impulse Space (ashby): 2; Inversion Space (greenhouse): 65; Astranis (greenhouse): 180; Rocket Lab (greenhouse): 535; Muon Space (greenhouse): 141; Planet (greenhouse): 119; Radiant (ashby): 116; Helion (ashby): 65; Pacific Fusion (greenhouse): 35
