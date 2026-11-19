@@ -466,6 +466,22 @@
     "snippet": "Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from utility inspectors https://www.skydio.com/solutions/energy-and-utilities to first responders https://www.skydio.com/solutions/public-safety, soldiers in battlefield scenarios https://www.skydio.com/solutions/national"
   },
   {
+    "title": "Spacecraft Systems Integration & Test Engineer",
+    "location": "El Segundo, California, United States",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8208956003",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "body",
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "Varda Space",
+    "source": "Greenhouse",
+    "posted": "2026-11-18",
+    "snippet": "About Varda Low Earth orbit is open for business. Varda is accelerating the development of commercial space infrastructure, from in-orbit pharmaceutical processing to reliable and economical reentry capsules. Varda\u2019s W-Series vehicles are built, designed, and operated by Varda in-house, including the pharmaceutical processing payloads, the capsules, the C-PICA heat shields, and the satellite buses. From life-saving pharmaceuticals to more powerful fiber optics, there is a world of products used on Earth today that can only be manufactured in space. Varda is accelerating innovation in the orbit"
+  },
+  {
     "title": "Supplier Development Engineer, Manufacturing (Electronics)",
     "location": "Hawthorne, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8946484002?gh_jid=8946484002",
@@ -1418,6 +1434,48 @@
     "snippet": "FieldAI is transforming how robots interact with the real world. We are building risk-aware, reliable, and field-ready AI systems that address the most complex challenges in robotics, unlocking the full potential of embodied intelligence. We go beyond typical data-driven approaches or pure transformer-based architectures, and are charting a new course, with already-globally-deployed solutions delivering real-world results and rapidly improving models through real-field applications.\n\n\nRobotics AI Engineer \u2013 Calibration, Localization, and Mapping\n\u00a0\n\u00a0\nAbout Field AI\nField AI is at the forefront "
   },
   {
+    "title": "Systems Engineer, Omega",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4730093006",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "none",
+    "years_required": null,
+    "flags": [],
+    "company": "Astranis",
+    "source": "Greenhouse",
+    "posted": "2026-11-18",
+    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
+  },
+  {
+    "title": "Calibration, Localization and Mapping System Safety Engineer",
+    "location": "Foster City, CA",
+    "url": "https://jobs.lever.co/zoox/7e395094-feb1-49c1-bc74-009a2074d686",
+    "pay": "$170,000-$267,000",
+    "metro": "SF Bay",
+    "level_signal": "none",
+    "years_required": null,
+    "flags": [],
+    "company": "Zoox",
+    "source": "Lever",
+    "posted": "2026-11-18",
+    "snippet": "Zoox is on an ambitious journey to develop a full-stack autonomous mobility solution for cities and deploy such a robotaxi solution safely and reliably. The System Design and Mission Assurance (SDMA) team plays a foundational role in the company's success, responsible for constructing the safety case and fail-operational design for our autonomous driving robots before public road deployment. We are seeking a System Safety Engineer to perform safety analyses of complex hardware and software systems, specifically calibration, localization and mapping Systems. You will work across hardware and so"
+  },
+  {
+    "title": "Test Automation Engineer, Robot Platform",
+    "location": "Foster City, CA",
+    "url": "https://jobs.lever.co/zoox/c84c90b4-22f2-4d2e-9034-afee385dd0d2",
+    "pay": "$183,000-$283,000",
+    "metro": "SF Bay",
+    "level_signal": "none",
+    "years_required": null,
+    "flags": [],
+    "company": "Zoox",
+    "source": "Lever",
+    "posted": "2026-11-18",
+    "snippet": " In this role, you will:  Implement design characterization tests for robotaxi hardware and systems. Develop reusable libraries for interfacing with lab equipment and displaying live test data. Collaborate with test leads to design test stations and plans based on technical specifications. Develop reusable tools for semi-automated tests and station configuration. Collaborate with design engineers and project managers to plan and support test campaigns. Document software to make it easily accessible to others both within and outside of the team. Qualifications  BS in Electrical Engineering, Com"
+  },
+  {
     "title": "Mechanical Engineer ",
     "location": "San Carlos, CA",
     "url": "https://jobs.ashbyhq.com/1x/3398e992-b02a-4d39-aabe-f4ac2bb6591d",
@@ -1566,6 +1624,34 @@
     "source": "Ashby",
     "posted": "2026-11-13",
     "snippet": "JOIN THE TEAM BRINGING AUTONOMY TO THE BUILT WORLD\n\n\nAt Bedrock, we're moving AI out of the lab and onto real job sites. Our team includes veterans who helped launch Waymo, scaled Segment to a $3.2B acquisition, and grew Uber Freight to $5B in revenue. We retrofit the heavy equipment contractors already own, starting with excavators, so experienced crews can safely take on more projects and deliver more of the critical infrastructure our society needs.\n\nIn August 2026, Bedrock-equipped excavators began doing fully autonomous, paid work on live commercial job sites. We've more than doubled our "
+  },
+  {
+    "title": "Contract Student Worker- Software Engineer Mobile Developer Experience",
+    "location": "Foster City, CA",
+    "url": "https://jobs.lever.co/zoox/895ed1fe-9547-40d1-aec5-ffed2a2f82e3",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "none",
+    "years_required": null,
+    "flags": [],
+    "company": "Zoox",
+    "source": "Lever",
+    "posted": "2026-11-13",
+    "snippet": " Role Overview Zoox is looking for a Software Engineering contract student worker to join our Mobile Apps Engineering team. In this role, you will help build and improve the CI/CD pipelines and tooling that our engineers use to build, test, and ship Zoox's iOS and Android rider apps. You will work closely with senior engineers to make our development and release process faster, more reliable, and more secure, so that every update reaches our riders with confidence. Responsibilities Help build and maintain CI/CD pipelines that compile, test, and package our iOS and Android applications. Automat"
+  },
+  {
+    "title": "Contract Student Worker - Software Engineer (40hrs/wk)",
+    "location": "Foster City, CA",
+    "url": "https://jobs.lever.co/zoox/839d987e-2236-4efe-8753-ee208b8d4e29",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "none",
+    "years_required": null,
+    "flags": [],
+    "company": "Zoox",
+    "source": "Lever",
+    "posted": "2026-11-13",
+    "snippet": " Role Overview This engineer will work with the HIL team to build and scale subsystem level latency testing across the software org. Responsibilities Develop test platforms for sub-system integration testing, with a focus on developing a scaleable, open loop, HIL environment. Contribute to development of our on-robot software infrastructure Contribute to the design and development of our integration testing framework Required Qualifications Bachelors in Computer Science or equivalent field Experience programming in Python or C++ in large code bases Experience designing software and tooling Bon"
   },
   {
     "title": "Contract Student Worker  \u2013 Firmware Engineer (FW Core System Services)",
@@ -2096,6 +2182,38 @@
     "source": "Greenhouse",
     "posted": "2026-10-06",
     "snippet": "Who We Are Nuro believes self-driving vehicles are the most immediate and profound opportunity for AI to drive positive change in the physical world. Safer streets, more time for what matters, and easier access to the world around us, that\u2019s why we\u2019re building a universal autonomy platform: self-driving for all roads and all rides. Founded in 2016, Nuro is a physical AI company developing Level 4 autonomous driving technology for a wide range of vehicles, use cases, and markets. Powered by the Nuro Driver\u2122, our universal autonomy platform enables the global mobility ecosystem to deploy autonom"
+  },
+  {
+    "title": "Mechanical Design Engineer, Payloads (Falcon)",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8950291002?gh_jid=8950291002",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "none",
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-18",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. MECHANICAL DESIGN ENGINEER, PAYLOADS (FALCON) The Falcon team tackles space exploration\u2019s toughest problems through the ongoing development of our reusable launch vehicles, Falcon 9 and Falcon Heavy. These vehicles are currently responsible for delivering commercial, national security, and NASA satellites into orbit, "
+  },
+  {
+    "title": "Software Engineer, Design Software (Starship)",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8949395002?gh_jid=8949395002",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "none",
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-18",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. SOFTWARE ENGINEER, DESIGN SOFTWARE (STARSHIP) Starship is SpaceX\u2019s next generation launch platform that will take humans to the Moon, Mars, and beyond. It is designed to be cost-effective, mass manufacturable, and rapidly reusable. As a Software Engineer on the Design Software team, you will be responsible for buildin"
   },
   {
     "title": "Propulsion Technician (Raptor Operations) ",
@@ -2878,6 +2996,54 @@
     "source": "Greenhouse",
     "posted": "2026-10-06",
     "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. APPLICATION SOFTWARE ENGINEER, EMPLOYEE EXPERIENCE The application software team is the central nervous system of SpaceX \u2013 we create mission critical applications that are used throughout SpaceX to accelerate launch vehicle production and flight as well as systems that allow Starlink to grow into a worldwide fast, rel"
+  },
+  {
+    "title": "Backend Software Engineer, GNC (Starlink)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8753321002?gh_jid=8753321002",
+    "pay": "",
+    "metro": "Seattle",
+    "level_signal": "none",
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-18",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. BACKEND SOFTWARE ENGINEER, GNC (STARLINK) At SpaceX, we\u2019re leveraging our experience in building rockets and spacecraft to deploy Starlink, the world\u2019s most advanced broadband internet system. Starlink is the world\u2019s largest satellite constellation and is providing fast, reliable internet to millions of users worldwid"
+  },
+  {
+    "title": "Software Engineer, Alerts (Starlink)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8948735002?gh_jid=8948735002",
+    "pay": "",
+    "metro": "Seattle",
+    "level_signal": "none",
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-18",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. SOFTWARE ENGINEER, ALERTS (STARLINK) Starlink operates the world's largest satellite constellation, and must maintain operational control over them at all times. When things go wrong anywhere in the Starlink network, the alerting system is what our engineers and operators rely on to inform them that action is required"
+  },
+  {
+    "title": "Integration & Test Engineer (Starlink Propulsion)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8945735002?gh_jid=8945735002",
+    "pay": "",
+    "metro": "Seattle",
+    "level_signal": "none",
+    "years_required": null,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-18",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. INTEGRATION & TEST ENGINEER (STARLINK PROPULSION) As an Integration & Test engineer for Starlink propulsion you will have the opportunity to develop, implement, and optimize production processes for key sub-assemblies and components of the propulsion system comprised of the Argon Hall Thruster, propellant feed systems"
   },
   {
     "title": "Battery Test Engineer, Satellites (Starlink)",
