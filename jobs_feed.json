@@ -1,5 +1,19 @@
 [
   {
+    "title": "Embedded Software Engineer - Entry Level",
+    "location": "Boston, MA",
+    "url": "https://careers.formlabs.com/job/8402093/apply/?gh_jid=8402093",
+    "pay": "",
+    "metro": "Boston",
+    "level_signal": "title",
+    "years_required": null,
+    "flags": [],
+    "company": "Formlabs",
+    "source": "Greenhouse",
+    "posted": "2026-11-19",
+    "snippet": "Do you want to change how the world creates? At Formlabs, we\u2019re building the tools that make it possible for anyone to bring their ideas to life, from cutting-edge products to life-saving medical devices. Our 3D printing technology powers innovation at more than 50,000 industry leaders worldwide, including Apple, Google, Tesla, New Balance, and NASA. Together, we\u2019re helping everyone design, prototype, and manufacture faster than ever before. We\u2019re a team of hands-on builders, engineers, and innovators reinventing how the world makes physical things. If you\u2019re ready to shape the future of fabri"
+  },
+  {
     "title": "Junior Manufacturing Test Engineer",
     "location": "Charlestown, MA",
     "url": "https://jobs.lever.co/picklerobot/ce714e73-4cce-42df-9f1d-137e3d52cf45",
@@ -54,20 +68,6 @@
     "source": "Greenhouse",
     "posted": "2026-11-06",
     "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
-  },
-  {
-    "title": "Manufacturing Engineer, Early Career",
-    "location": "South San Francisco, California, USA",
-    "url": "https://www.zipline.com/open-roles/8040731003?gh_jid=8040731003",
-    "pay": "",
-    "metro": "SF Bay",
-    "level_signal": "title",
-    "years_required": null,
-    "flags": [],
-    "company": "Zipline",
-    "source": "Greenhouse",
-    "posted": "2026-10-29",
-    "snippet": "About Zipline Zipline is the world\u2019s largest and most experienced drone delivery service. We are on a mission to serve all humans equally by ensuring access to food, medicine and essential goods anytime, anywhere. We design, build, and operate the world\u2019s largest autonomous logistics system, delivering critical supplies quickly and reliably. Today, Zipline operates on four continents, makes a delivery somewhere in the world every 30 seconds, and has completed millions of deliveries to date, including blood, vaccines, medical supplies, food, and retail products. Our customers include the world\u2019"
   },
   {
     "title": "RF Test Engineer I, Testbeds & EGSE",
@@ -158,6 +158,22 @@
     "source": "Greenhouse",
     "posted": "2026-10-30",
     "snippet": "At Relativity Space, we\u2019re building rockets to serve today\u2019s needs and tomorrow\u2019s breakthroughs. Our Terran R vehicle will deliver customer payloads to orbit, meeting the growing demand for launch capacity. But that\u2019s just the start. Achieving commercial success with Terran R will unlock new opportunities to advance science, exploration, and innovation, pioneering progress that reaches beyond the known. Joining Relativity means becoming part of something where autonomy, ownership, and impact exist at every level. Here, you're not just executing tasks; you're solving problems that haven\u2019t been "
+  },
+  {
+    "title": "Avionics Test Engineer I",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8055497003",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "title",
+    "years_required": null,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "Rocket Lab",
+    "source": "Greenhouse",
+    "posted": "2026-10-28",
+    "snippet": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity\u2019s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. SPACE SYSTEMS At Rocket Lab, we\u2019re not just launching rockets \u2014 we're building the future of space. Our Space Systems team builds everything from complete spacecraft, precision payloads to the components and subsystems that allow them to thrive in space, like solar "
   },
   {
     "title": "Systems Engineer I",
@@ -366,6 +382,34 @@
     "source": "Greenhouse",
     "posted": "2026-10-22",
     "snippet": "Do you want to change how the world creates? At Formlabs, we\u2019re building the tools that make it possible for anyone to bring their ideas to life, from cutting-edge products to life-saving medical devices. Our 3D printing technology powers innovation at more than 50,000 industry leaders worldwide, including Apple, Google, Tesla, New Balance, and NASA. Together, we\u2019re helping everyone design, prototype, and manufacture faster than ever before. We\u2019re a team of hands-on builders, engineers, and innovators reinventing how the world makes physical things. If you\u2019re ready to shape the future of fabri"
+  },
+  {
+    "title": "Mechanical Test Engineer, Ground Systems",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles/8209557003?gh_jid=8209557003",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "body",
+    "years_required": null,
+    "flags": [],
+    "company": "Zipline",
+    "source": "Greenhouse",
+    "posted": "2026-11-19",
+    "snippet": "About Zipline Zipline is the world\u2019s largest and most experienced drone delivery service. We are on a mission to serve all humans equally by ensuring access to food, medicine and essential goods anytime, anywhere. We design, build, and operate the world\u2019s largest autonomous logistics system, delivering critical supplies quickly and reliably. Today, Zipline operates on four continents, makes a delivery somewhere in the world every 30 seconds, and has completed millions of deliveries to date, including blood, vaccines, medical supplies, food, and retail products. Our customers include the world\u2019"
+  },
+  {
+    "title": "Engineering Technician \u2013 Wire Harness Manufacturing",
+    "location": "Sunnyvale",
+    "url": "https://jobs.ashbyhq.com/applied/3d6378f8-7aed-4f13-9882-7cd56f8b4524",
+    "pay": "$57 \u2013 $62 per hour",
+    "metro": "SF Bay",
+    "level_signal": "body",
+    "years_required": null,
+    "flags": [],
+    "company": "Applied Intuition",
+    "source": "Ashby",
+    "posted": "2026-11-19",
+    "snippet": "Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, mining and agriculture industries in three core areas: tools and infrastructure, operating systems, and autonomy. Eighteen of the top 20 global automakers, as well as the United States military and its allies, trust the company\u2019s solutions to deliver physical intelligence. Applie"
   },
   {
     "title": "Battery Test Technician",
@@ -622,18 +666,36 @@
     "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. SUPPLIER DEVELOPMENT ENGINEER, MANUFACTURING (RAPTOR) SpaceX demands a new type of supply chain as we drive towards humanity on Mars. We require our suppliers to provide premium quality with rapidly evolving designs at increasingly ambitious volumes. We are actively looking for candidates who possess comprehensive kno"
   },
   {
-    "title": "Propulsion Technician I, First Shift",
-    "location": "Long Beach, California, United States",
-    "url": "https://boards.greenhouse.io/relativity/jobs/8859315002?gh_jid=8859315002",
+    "title": "Integration & Test Specialist (Starlink Satellite Integration)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8950337002?gh_jid=8950337002",
     "pay": "",
-    "metro": "LA",
+    "metro": "Seattle",
     "level_signal": "body",
-    "years_required": null,
-    "flags": [],
-    "company": "Relativity Space",
+    "years_required": 2,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
     "source": "Greenhouse",
-    "posted": "2026-10-05",
-    "snippet": "At Relativity Space, we\u2019re building rockets to serve today\u2019s needs and tomorrow\u2019s breakthroughs. Our Terran R vehicle will deliver customer payloads to orbit, meeting the growing demand for launch capacity. But that\u2019s just the start. Achieving commercial success with Terran R will unlock new opportunities to advance science, exploration, and innovation, pioneering progress that reaches beyond the known. Joining Relativity means becoming part of something where autonomy, ownership, and impact exist at every level. Here, you're not just executing tasks; you're solving problems that haven\u2019t been "
+    "posted": "2026-11-19",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. INTEGRATION & TEST SPECIALIST (STARLINK SATELLITE INTEGRATION) SpaceX is developing a low latency, broadband internet system to meet the needs of consumers across the globe. Enabled by a constellation of low Earth orbit satellites, Starlink will provide fast, reliable internet to populations with little or no connecti"
+  },
+  {
+    "title": "Integration & Test Specialist (Bus & Payload Sub-Assemblies) - 2nd Shift",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8950317002?gh_jid=8950317002",
+    "pay": "",
+    "metro": "Seattle",
+    "level_signal": "body",
+    "years_required": 2,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-19",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. INTEGRATION & TEST SPECIALIST (BUS & PAYLOAD SUB-ASSEMBLIES) - 2ND SHIFT SpaceX is developing a low latency, broadband internet system to meet the needs of consumers across the globe. Enabled by a constellation of low Earth orbit satellites, Starlink will provide fast, reliable internet to populations with little or n"
   },
   {
     "title": "Manufacturing Specialist (Optical Production) - Both Shifts",
@@ -682,6 +744,20 @@
     "source": "Greenhouse",
     "posted": "2026-11-02",
     "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. SOFTWARE ENGINEER (STARLINK) As a Software Engineer on the Starlink Enterprise Products team you will define, build, and deploy product features and capabilities that unlock new opportunities to advance global connectivity. Your software will have a meaningful and measurable impact in areas such as aviation, maritime,"
+  },
+  {
+    "title": "2027 (Summer) API & Automation Intern",
+    "location": "Somerville, MA",
+    "url": "https://careers.formlabs.com/job/8400855/apply/?gh_jid=8400855",
+    "pay": "",
+    "metro": "Boston",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [],
+    "company": "Formlabs",
+    "source": "Greenhouse",
+    "posted": "2026-11-19",
+    "snippet": "Do you want to change how the world creates? At Formlabs, we\u2019re building the tools that make it possible for anyone to bring their ideas to life, from cutting-edge products to life-saving medical devices. Our 3D printing technology powers innovation at more than 50,000 industry leaders worldwide, including Apple, Google, Tesla, New Balance, and NASA. Together, we\u2019re helping everyone design, prototype, and manufacture faster than ever before. We\u2019re a team of hands-on builders, engineers, and innovators reinventing how the world makes physical things. If you\u2019re ready to shape the future of fabri"
   },
   {
     "title": "2027 (Summer) - Manufacturing - Manufacturing Test Software Intern",
@@ -1434,6 +1510,50 @@
     "snippet": "FieldAI is transforming how robots interact with the real world. We are building risk-aware, reliable, and field-ready AI systems that address the most complex challenges in robotics, unlocking the full potential of embodied intelligence. We go beyond typical data-driven approaches or pure transformer-based architectures, and are charting a new course, with already-globally-deployed solutions delivering real-world results and rapidly improving models through real-field applications.\n\n\nRobotics AI Engineer \u2013 Calibration, Localization, and Mapping\n\u00a0\n\u00a0\nAbout Field AI\nField AI is at the forefront "
   },
   {
+    "title": "Space Systems Engineer",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8302165",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "none",
+    "years_required": 2,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "Planet",
+    "source": "Greenhouse",
+    "posted": "2026-11-19",
+    "snippet": "Welcome to Planet. We believe in using space to help life on Earth. Planet designs, builds, and operates the largest constellation of imaging satellites in history. This constellation delivers an unprecedented dataset of empirical information via a revolutionary cloud-based platform to authoritative figures in commercial, environmental, and humanitarian sectors. We are both a space company and data company all rolled into one. Customers and users across the globe use Planet's data to develop new technologies, drive revenue, power research, and solve our world\u2019s toughest obstacles. As we contro"
+  },
+  {
+    "title": "Reliability Test Technician (6 month contract)",
+    "location": "Milpitas, CA",
+    "url": "https://jobs.lever.co/aeva/e040b8a6-8c11-4e2b-981a-835953831239",
+    "pay": "$35-$45",
+    "metro": "SF Bay",
+    "level_signal": "none",
+    "years_required": null,
+    "flags": [],
+    "company": "Aeva",
+    "source": "Lever",
+    "posted": "2026-11-19",
+    "snippet": "Aeva\u2019s mission is to bring the next wave of perception to a broad range of applications from automated driving to industrial robotics, consumer electronics, consumer health, security, and beyond. Aeva is transforming autonomy with its groundbreaking sensing and perception technology that integrates all key LiDAR components onto a silicon photonics chip in a compact module. Aeva 4D LiDAR sensors uniquely detect instant velocity in addition to 3D position, allowing autonomous devices like vehicles and robots to make more intelligent and safe decisions.\u00a0\nRole Overview\nWe are seeking a hands-on Re"
+  },
+  {
+    "title": "Hardware Integration Engineer, Build",
+    "location": "Sunnyvale",
+    "url": "https://jobs.ashbyhq.com/applied/1ff4c3fe-e7a2-47fe-b7c1-7ab42bc16bfb",
+    "pay": "$120K \u2013 $160K",
+    "metro": "SF Bay",
+    "level_signal": "none",
+    "years_required": null,
+    "flags": [],
+    "company": "Applied Intuition",
+    "source": "Ashby",
+    "posted": "2026-11-19",
+    "snippet": "Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, mining and agriculture industries in three core areas: tools and infrastructure, operating systems, and autonomy. Eighteen of the top 20 global automakers, as well as the United States military and its allies, trust the company\u2019s solutions to deliver physical intelligence. Applie"
+  },
+  {
     "title": "Systems Engineer, Omega",
     "location": "San Francisco, CA",
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4730093006",
@@ -1460,20 +1580,6 @@
     "source": "Lever",
     "posted": "2026-11-18",
     "snippet": "Zoox is on an ambitious journey to develop a full-stack autonomous mobility solution for cities and deploy such a robotaxi solution safely and reliably. The System Design and Mission Assurance (SDMA) team plays a foundational role in the company's success, responsible for constructing the safety case and fail-operational design for our autonomous driving robots before public road deployment. We are seeking a System Safety Engineer to perform safety analyses of complex hardware and software systems, specifically calibration, localization and mapping Systems. You will work across hardware and so"
-  },
-  {
-    "title": "Test Automation Engineer, Robot Platform",
-    "location": "Foster City, CA",
-    "url": "https://jobs.lever.co/zoox/c84c90b4-22f2-4d2e-9034-afee385dd0d2",
-    "pay": "$183,000-$283,000",
-    "metro": "SF Bay",
-    "level_signal": "none",
-    "years_required": null,
-    "flags": [],
-    "company": "Zoox",
-    "source": "Lever",
-    "posted": "2026-11-18",
-    "snippet": " In this role, you will:  Implement design characterization tests for robotaxi hardware and systems. Develop reusable libraries for interfacing with lab equipment and displaying live test data. Collaborate with test leads to design test stations and plans based on technical specifications. Develop reusable tools for semi-automated tests and station configuration. Collaborate with design engineers and project managers to plan and support test campaigns. Document software to make it easily accessible to others both within and outside of the team. Qualifications  BS in Electrical Engineering, Com"
   },
   {
     "title": "Mechanical Engineer ",
@@ -1898,20 +2004,6 @@
     "snippet": "About Zipline Zipline is the world\u2019s largest and most experienced drone delivery service. We are on a mission to serve all humans equally by ensuring access to food, medicine and essential goods anytime, anywhere. We design, build, and operate the world\u2019s largest autonomous logistics system, delivering critical supplies quickly and reliably. Today, Zipline operates on four continents, makes a delivery somewhere in the world every 30 seconds, and has completed millions of deliveries to date, including blood, vaccines, medical supplies, food, and retail products. Our customers include the world\u2019"
   },
   {
-    "title": "Manufacturing Process Engineer",
-    "location": "South San Francisco, California, USA",
-    "url": "https://www.zipline.com/open-roles/8040732003?gh_jid=8040732003",
-    "pay": "",
-    "metro": "SF Bay",
-    "level_signal": "none",
-    "years_required": 2,
-    "flags": [],
-    "company": "Zipline",
-    "source": "Greenhouse",
-    "posted": "2026-10-29",
-    "snippet": "About Zipline Zipline is the world\u2019s largest and most experienced drone delivery service. We are on a mission to serve all humans equally by ensuring access to food, medicine and essential goods anytime, anywhere. We design, build, and operate the world\u2019s largest autonomous logistics system, delivering critical supplies quickly and reliably. Today, Zipline operates on four continents, makes a delivery somewhere in the world every 30 seconds, and has completed millions of deliveries to date, including blood, vaccines, medical supplies, food, and retail products. Our customers include the world\u2019"
-  },
-  {
     "title": "Software Engineer- Maps Rendering",
     "location": "Sunnyvale",
     "url": "https://jobs.ashbyhq.com/applied/88cd29c0-a142-4f7a-b9ea-be557bac9624",
@@ -2182,6 +2274,22 @@
     "source": "Greenhouse",
     "posted": "2026-10-06",
     "snippet": "Who We Are Nuro believes self-driving vehicles are the most immediate and profound opportunity for AI to drive positive change in the physical world. Safer streets, more time for what matters, and easier access to the world around us, that\u2019s why we\u2019re building a universal autonomy platform: self-driving for all roads and all rides. Founded in 2016, Nuro is a physical AI company developing Level 4 autonomous driving technology for a wide range of vehicles, use cases, and markets. Powered by the Nuro Driver\u2122, our universal autonomy platform enables the global mobility ecosystem to deploy autonom"
+  },
+  {
+    "title": "Mechanical Design Engineer (Starship Components)",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8952403002?gh_jid=8952403002",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "none",
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-19",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. MECHANICAL DESIGN ENGINEER (STARSHIP COMPONENTS) The Propulsion Components team develops the most advanced spacecraft and launch vehicle components in the world. Our engineers serve as hardware experts across fluid and electromechanical devices that drive the critical capabilities on the Starship/Super Heavy Vehicle -"
   },
   {
     "title": "Mechanical Design Engineer, Payloads (Falcon)",
@@ -2530,22 +2638,6 @@
     "source": "Greenhouse",
     "posted": "2026-11-06",
     "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. GNC ENGINEER (DRAGON) As a GNC Engineer on the Dragon team, you will be responsible for performing mission design and implementing new GNC algorithms tailored to crewed and cargo spacecraft operations. You will drive the full-cycle of Dragon missions, from capturing requirements from NASA and commercial partners, thro"
-  },
-  {
-    "title": "Electrical Test Engineer (Starfall)",
-    "location": "Hawthorne, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8933527002?gh_jid=8933527002",
-    "pay": "",
-    "metro": "LA",
-    "level_signal": "none",
-    "years_required": 1,
-    "flags": [
-      "ITAR/US-person"
-    ],
-    "company": "SpaceX",
-    "source": "Greenhouse",
-    "posted": "2026-11-06",
-    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. ELECTRICAL TEST ENGINEER (STARFALL) Want to design test systems at a speed never before seen in the industry? At SpaceX, we are designing systems to test avionics in a matter of weeks, not months or years! The Avionics Test group is the last line of defense testing and screening out all electronic hardware on our rock"
   },
   {
     "title": "Site Reliability Engineer (Starlink)",
@@ -2996,6 +3088,38 @@
     "source": "Greenhouse",
     "posted": "2026-10-06",
     "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. APPLICATION SOFTWARE ENGINEER, EMPLOYEE EXPERIENCE The application software team is the central nervous system of SpaceX \u2013 we create mission critical applications that are used throughout SpaceX to accelerate launch vehicle production and flight as well as systems that allow Starlink to grow into a worldwide fast, rel"
+  },
+  {
+    "title": "Manufacturing Engineer, PCBA (Starlink)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8950229002?gh_jid=8950229002",
+    "pay": "",
+    "metro": "Seattle",
+    "level_signal": "none",
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-19",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. HARDWARE DEVELOPMENT ENGINEER, PCBA MANUFACTURING (STARLINK) At SpaceX we\u2019re leveraging our experience in building rockets and spacecraft to deploy Starlink, the world\u2019s most advanced broadband internet system. Starlink is the world\u2019s largest satellite constellation and is providing fast, reliable internet to millions"
+  },
+  {
+    "title": "Integration & Test Engineer (Bus & Payload Sub-Assemblies)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8950289002?gh_jid=8950289002",
+    "pay": "",
+    "metro": "Seattle",
+    "level_signal": "none",
+    "years_required": null,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-19",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. INTEGRATION & TEST ENGINEER (BUS & PAYLOAD SUB-ASSEMBLIES) As an Integration and Test Engineer, you will lead the development of manufacturing and test processes of sub-assemblies (sensors, instruments, actuators, batteries, and antennas) used to navigate and operate the Starlink satellite. You will have the opportuni"
   },
   {
     "title": "Backend Software Engineer, GNC (Starlink)",
@@ -3616,21 +3740,5 @@
     "source": "Ashby",
     "posted": "2026-10-06",
     "snippet": "About Helion\n\nWe are a fusion power company based in Everett, WA, with the mission to build the world's first fusion power plant, enabling a future with unlimited clean electricity. Our vision is a world with clean, reliable, and affordable energy for everyone.\n\nSince Helion's founding in 2013, we have raised $1.5 billion from long-time investors such as Sam Altman, Mithril, and Capricorn Investment Group as well as new investors including Thrive Capital, LightSpeed Venture Capital, SoftBank, and others to propel us forward. Our current prototype, Polaris, has reached record-breaking plasma te"
-  },
-  {
-    "title": "Mechanical Hardware Test Engineer - Failure Analysis (Starlink)",
-    "location": "Redmond, WA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8867581002?gh_jid=8867581002",
-    "pay": "",
-    "metro": "Seattle",
-    "level_signal": "none",
-    "years_required": 1,
-    "flags": [
-      "ITAR/US-person"
-    ],
-    "company": "SpaceX",
-    "source": "Greenhouse",
-    "posted": "2026-10-05",
-    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. MECHANICAL HARDWARE TEST ENGINEER \u2013 FAILURE ANALYSIS (STARLINK) As a Mechanical Hardware Test Engineer, you will solve challenging, high impact problems for the Starlink network. We are producing complex vacuum amplifier hardware at orders of magnitude higher rate than anyone in history and this role will play a criti"
   }
 ]
