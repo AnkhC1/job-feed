@@ -14,6 +14,20 @@
     "snippet": "Do you want to change how the world creates? At Formlabs, we\u2019re building the tools that make it possible for anyone to bring their ideas to life, from cutting-edge products to life-saving medical devices. Our 3D printing technology powers innovation at more than 50,000 industry leaders worldwide, including Apple, Google, Tesla, New Balance, and NASA. Together, we\u2019re helping everyone design, prototype, and manufacture faster than ever before. We\u2019re a team of hands-on builders, engineers, and innovators reinventing how the world makes physical things. If you\u2019re ready to shape the future of fabri"
   },
   {
+    "title": "Junior Systems Engineer",
+    "location": "Charlestown, MA",
+    "url": "https://jobs.lever.co/picklerobot/7ba1e281-6f42-4c05-a898-01529866eebc",
+    "pay": "$97,500-$123,000",
+    "metro": "Boston",
+    "level_signal": "title",
+    "years_required": 0,
+    "flags": [],
+    "company": "Pickle Robot",
+    "source": "Lever",
+    "posted": "2026-10-19",
+    "snippet": "About Us\nAt Pickle Robot, we're on a mission to automate global supply chains with Physical AI. Our robots work alongside warehouse teams to unload trucks and containers \u2014 one of the toughest, most understaffed jobs in logistics \u2014 making the work safer, faster, and more efficient for the people doing it.\u00a0 Loading trucks comes next, followed by the Dill Autonomy Engine: generalized autonomy that will eventually orchestrate robots across entire logistics processes.\n\n\nWe\u2019re looking for a Junior Systems Engineer to join the team that defines what our robotic unloading systems must do and proves th"
+  },
+  {
     "title": "Systems Engineering, New Grad 2027",
     "location": "Mountain View, California (HQ)",
     "url": "https://nuro.ai/careersitem?gh_jid=8360415",
@@ -614,6 +628,22 @@
     "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. AVIONICS TEST TECHNICIAN (SPACE SIMULATION TEST LAB) - 2ND SHIFT RESPONSIBILITIES: Perform acceptance (ATP) and qualification (QTP) testing of flight hardware and document results in a clear, precise, and complete manner Program and operate environmental test chambers and/or vibration shakers Use basic and advanced el"
   },
   {
+    "title": "Software Engineer, Ground Network (Starlink)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8958880002?gh_jid=8958880002",
+    "pay": "",
+    "metro": "Seattle",
+    "level_signal": "body",
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-23",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. SOFTWARE ENGINEER, GROUND NETWORK (STARLINK) As a Software Engineer on the Ground Network team, you will own software systems that enable capacity planning for the next generation of Starlink\u2019s global ground infrastructure. This includes thousands of ground stations, points of presence, data centers, fiber, and associ"
+  },
+  {
     "title": "Integration & Test Specialist (Starlink Satellite Integration)",
     "location": "Redmond, WA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8950337002?gh_jid=8950337002",
@@ -722,6 +752,20 @@
     "source": "Greenhouse",
     "posted": "2026-10-14",
     "snippet": "Do you want to change how the world creates? At Formlabs, we\u2019re building the tools that make it possible for anyone to bring their ideas to life, from cutting-edge products to life-saving medical devices. Our 3D printing technology powers innovation at more than 50,000 industry leaders worldwide, including Apple, Google, Tesla, New Balance, and NASA. Together, we\u2019re helping everyone design, prototype, and manufacture faster than ever before. We\u2019re a team of hands-on builders, engineers, and innovators reinventing how the world makes physical things. If you\u2019re ready to shape the future of fabri"
+  },
+  {
+    "title": "Technical Program Manager, Systems Intern",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=8412577",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "intern",
+    "years_required": null,
+    "flags": [],
+    "company": "Nuro",
+    "source": "Greenhouse",
+    "posted": "2026-11-23",
+    "snippet": "Who We Are Nuro believes self-driving vehicles are the most immediate and profound opportunity for AI to drive positive change in the physical world. Safer streets, more time for what matters, and easier access to the world around us, that\u2019s why we\u2019re building a universal autonomy platform: self-driving for all roads and all rides. Founded in 2016, Nuro is a physical AI company developing Level 4 autonomous driving technology for a wide range of vehicles, use cases, and markets. Powered by the Nuro Driver\u2122, our universal autonomy platform enables the global mobility ecosystem to deploy autonom"
   },
   {
     "title": "Feature Integration Intern [Summer 2027]",
@@ -961,22 +1005,6 @@
     "snippet": "About Our Internship Program\nZoox's internship program offers hands-on experience with cutting-edge technology, mentorship from some of the industry's brightest minds, and the opportunity to make meaningful contributions to real projects. We seek interns who demonstrate strong academic performance, engagement beyond the classroom, intellectual curiosity, and a genuine interest in Zoox's mission.\n\nJob Description\nSoftware Platforms & Product builds the platforms, firmware, tools and applications that connect the Zoox vehicle to the fleet, to our engineers and to riders. Interns work on a projec"
   },
   {
-    "title": "Software Engineer Intern, Autonomy Software [Summer 2027]",
-    "location": "Foster City, CA",
-    "url": "https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877",
-    "pay": "",
-    "metro": "SF Bay",
-    "level_signal": "intern",
-    "years_required": null,
-    "flags": [
-      "term: Fall 2027/Summer 2027/Summer 2028"
-    ],
-    "company": "Zoox",
-    "source": "Lever",
-    "posted": "2026-10-30",
-    "snippet": "About Our Internship Program\nZoox's internship program offers hands-on experience with cutting-edge technology, mentorship from some of the industry's brightest minds, and the opportunity to make meaningful contributions to real projects. We seek interns who demonstrate strong academic performance, engagement beyond the classroom, intellectual curiosity, and a genuine interest in Zoox's mission.\n\u00a0\nJob Description\nAutonomy Software builds the software that lets the Zoox robotaxi perceive its surroundings, predict what others will do, and plan and control the vehicle with no one behind the wheel"
-  },
-  {
     "title": "Manufacturing Intern - Summer 2027",
     "location": "Hayward, California, United States",
     "url": "https://jobs.ashbyhq.com/skydio/8f4f62b0-a2ea-498d-b78f-6f661b724a3c",
@@ -1099,23 +1127,6 @@
     "snippet": "Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from utility inspectors https://www.skydio.com/solutions/energy-and-utilities to first responders https://www.skydio.com/solutions/public-safety, soldiers in battlefield scenarios https://www.skydio.com/solutions/national"
   },
   {
-    "title": "Ground Software Engineering Intern (Summer 2027)",
-    "location": "San Jose, CA",
-    "url": "https://job-boards.greenhouse.io/muonspace/jobs/5266679007",
-    "pay": "",
-    "metro": "SF Bay",
-    "level_signal": "intern",
-    "years_required": null,
-    "flags": [
-      "term: Summer 2027",
-      "ITAR/US-person"
-    ],
-    "company": "Muon Space",
-    "source": "Greenhouse",
-    "posted": "2026-10-15",
-    "snippet": "About the role Muon is seeking Ground Software Engineering Interns to help build the software that powers high-performance satellite constellations. The Software Engineering team at Muon is responsible for software on the spacecraft, at ground stations, in the cloud, and visualization and simulation. As an intern, you won't be on the sidelines, you can look forward to owning a project from start to finish which could involve enabling a new type of task for the spacecraft, simulating a new component, writing the software for a new piece of hardware, or deploying new algorithms for processing im"
-  },
-  {
     "title": "Embedded Software Engineering Intern [Winter 2027]",
     "location": "San Jose, CA",
     "url": "https://job-boards.greenhouse.io/figureai/jobs/4722086006",
@@ -1179,38 +1190,6 @@
     "source": "Ashby",
     "posted": "2026-10-13",
     "snippet": "Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from utility inspectors https://www.skydio.com/solutions/energy-and-utilities to first responders https://www.skydio.com/solutions/public-safety, soldiers in battlefield scenarios https://www.skydio.com/solutions/national"
-  },
-  {
-    "title": "Firmware Engineer Intern (Summer 2027) ",
-    "location": "South San Francisco, California, USA",
-    "url": "https://www.zipline.com/open-roles/8020865003?gh_jid=8020865003",
-    "pay": "",
-    "metro": "SF Bay",
-    "level_signal": "intern",
-    "years_required": null,
-    "flags": [
-      "term: Summer 2027"
-    ],
-    "company": "Zipline",
-    "source": "Greenhouse",
-    "posted": "2026-10-09",
-    "snippet": "About Zipline Zipline is the world\u2019s largest and most experienced drone delivery service. We are on a mission to serve all humans equally by ensuring access to food, medicine and essential goods anytime, anywhere. We design, build, and operate the world\u2019s largest autonomous logistics system, delivering critical supplies quickly and reliably. Today, Zipline operates on four continents, makes a delivery somewhere in the world every 30 seconds, and has completed millions of deliveries to date, including blood, vaccines, medical supplies, food, and retail products. Our customers include the world\u2019"
-  },
-  {
-    "title": "Firmware Engineer Intern (Spring 2027) ",
-    "location": "South San Francisco, California, USA",
-    "url": "https://www.zipline.com/open-roles/8020863003?gh_jid=8020863003",
-    "pay": "",
-    "metro": "SF Bay",
-    "level_signal": "intern",
-    "years_required": null,
-    "flags": [
-      "term: Spring 2027"
-    ],
-    "company": "Zipline",
-    "source": "Greenhouse",
-    "posted": "2026-10-09",
-    "snippet": "About Zipline Zipline is the world\u2019s largest and most experienced drone delivery service. We are on a mission to serve all humans equally by ensuring access to food, medicine and essential goods anytime, anywhere. We design, build, and operate the world\u2019s largest autonomous logistics system, delivering critical supplies quickly and reliably. Today, Zipline operates on four continents, makes a delivery somewhere in the world every 30 seconds, and has completed millions of deliveries to date, including blood, vaccines, medical supplies, food, and retail products. Our customers include the world\u2019"
   },
   {
     "title": "Site Reliability Internship - Summer 2027",
@@ -1388,18 +1367,76 @@
     "snippet": "About Formlabs: Do you want to change how the world creates? At Formlabs, we\u2019re building the tools that make it possible for anyone to bring their ideas to life, from cutting-edge products to life-saving medical devices. Our 3D printing technology powers innovation at more than 50,000 industry leaders worldwide, including Apple, Google, Tesla, New Balance, and NASA. Together, we\u2019re helping everyone design, prototype, and manufacture faster than ever before. We\u2019re a team of hands-on builders, engineers, and innovators reinventing how the world makes physical things. If you\u2019re ready to shape the"
   },
   {
-    "title": "Robotics AI Engineer, Calibration, Localization, and Mapping",
-    "location": "Boston, MA",
-    "url": "https://jobs.lever.co/field-ai/9524c7c2-8be2-4463-afe3-7c1c60f7e6f2",
+    "title": "Hardware/Production Test Software Engineer ",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4731856006",
     "pay": "",
-    "metro": "Boston",
+    "metro": "SF Bay",
+    "level_signal": "none",
+    "years_required": 2,
+    "flags": [],
+    "company": "Astranis",
+    "source": "Greenhouse",
+    "posted": "2026-11-24",
+    "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe \u2013 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis"
+  },
+  {
+    "title": "Mechanical Design Engineer - Hands Structures & Integration",
+    "location": "San Carlos, CA",
+    "url": "https://jobs.ashbyhq.com/1x/0eb854f8-97f7-43a0-8818-f138178586f8",
+    "pay": "$155K \u2013 $200K \u2022 Offers Equity",
+    "metro": "SF Bay",
+    "level_signal": "none",
+    "years_required": 2,
+    "flags": [],
+    "company": "1X",
+    "source": "Ashby",
+    "posted": "2026-11-23",
+    "snippet": "ABOUT 1X\n\nWe\u2019re building humanoid robots that work in home - doing the chores, handling the tasks, and giving people their time back. Simple, but it\u2019s not.\n\nTo do this right, we have to solve robotics, AI, manufacturing - at the same time, at scale, in a form factor that has to be safe enough to live with your family. If you\u2019re inspired by this, you\u2019ll thrive here. We\u2019ve been at this since 2014 and we\u2019re at the point where the hard problems are behind us and the hard work is in front of us.\n\nNEO is our flagship - a home robot designed to move, learn, and operate in the real world alongside rea"
+  },
+  {
+    "title": "Sensor Validation Engineer",
+    "location": "Sunnyvale",
+    "url": "https://jobs.ashbyhq.com/applied/d3e131d6-e01d-47a9-a0a3-a78871896f42",
+    "pay": "$140K \u2013 $160K",
+    "metro": "SF Bay",
     "level_signal": "none",
     "years_required": null,
     "flags": [],
-    "company": "Field AI",
-    "source": "Lever",
-    "posted": "2026-10-09",
-    "snippet": "FieldAI is transforming how robots interact with the real world. We are building risk-aware, reliable, and field-ready AI systems that address the most complex challenges in robotics, unlocking the full potential of embodied intelligence. We go beyond typical data-driven approaches or pure transformer-based architectures, and are charting a new course, with already-globally-deployed solutions delivering real-world results and rapidly improving models through real-field applications.\n\n\nRobotics AI Engineer \u2013 Calibration, Localization, and Mapping\n\u00a0\n\u00a0\nAbout Field AI\nField AI is at the forefront "
+    "company": "Applied Intuition",
+    "source": "Ashby",
+    "posted": "2026-11-23",
+    "snippet": "Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, mining and agriculture industries in three core areas: tools and infrastructure, operating systems, and autonomy. Eighteen of the top 20 global automakers, as well as the United States military and its allies, trust the company\u2019s solutions to deliver physical intelligence. Applie"
+  },
+  {
+    "title": "Hardware Engineer",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/bedrock-robotics/087f6417-5d8c-45b6-a7d0-dfaa2cc92cf8",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "none",
+    "years_required": null,
+    "flags": [],
+    "company": "Bedrock Robotics",
+    "source": "Ashby",
+    "posted": "2026-11-23",
+    "snippet": "Bedrock Robotics, Inc. seeks a Hardware Engineer in San Francisco, CA responsible for designing, manufacturing, and testing its autonomous hardware systems, including high performance computer systems, sensors, controllers, interfaces to machines, and testing equipment.\n\nThis position will work with autonomous hardware systems installed on standard heavy construction machinery\u2014excavators, bulldozers, and wheel loaders\u2014to allow that equipment to perform earthmoving work on construction sites autonomously. In this context, \u201cautonomous hardware systems\u201d are the physical electronic components inst"
+  },
+  {
+    "title": "Software Quality Simulation Specialist ",
+    "location": "Mountain View, CA",
+    "url": "https://job-boards.greenhouse.io/kodiak/jobs/4518079009",
+    "pay": "",
+    "metro": "SF Bay",
+    "level_signal": "none",
+    "years_required": null,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "Kodiak Robotics",
+    "source": "Greenhouse",
+    "posted": "2026-11-23",
+    "snippet": "Kodiak AI, Inc. (Nasdaq: KDK), founded in 2018, is a leader in Physical AI, developing driverless technology that powers machines that move. Its Kodiak Driver is a vehicle-agnostic autonomous driving system that combines AI-powered software with modular hardware. Today it operates in long-haul trucking, industrial trucking, and defense. In 2024, Kodiak launched commercial Driver-as-a-Service operations with no one in the cab, and plans to launch driverless long-haul service between Dallas and Houston by the end of 2026. Kodiak has partnered with many of the biggest names in freight, including "
   },
   {
     "title": "Capacity Planning and Analytics Coordinator",
@@ -1952,20 +1989,6 @@
     "snippet": "Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, mining and agriculture industries in three core areas: tools and infrastructure, operating systems, and autonomy. Eighteen of the top 20 global automakers, as well as the United States military and its allies, trust the company\u2019s solutions to deliver physical intelligence. Applie"
   },
   {
-    "title": "Contract Student Worker - Autonomy and Geofence Expansion (20 hrs/wk)",
-    "location": "Foster City, CA",
-    "url": "https://jobs.lever.co/zoox/45594791-0b7b-4310-9a6e-067f53e4a191",
-    "pay": "",
-    "metro": "SF Bay",
-    "level_signal": "none",
-    "years_required": null,
-    "flags": [],
-    "company": "Zoox",
-    "source": "Lever",
-    "posted": "2026-10-28",
-    "snippet": " Role Overview Develop tools, curate datasets and generate insights on geofence expansion goals and key autonomy investments required to achieve our goals. Responsibilities Collect requirements for the Autonomy team Leveraging AI tools (Claude, Cursor, etc) curate datasets and build tools for analysis Share insights and recommendations based on analysis performed Required Qualifications In a engineering or data-type program (statistics, data science, etc) Hands on experience with AI tools such as ChatGPT, Claude or Gemini Bonus Qualifications Previous experience in robotics and/or autonomy Pys"
-  },
-  {
     "title": "Validation Test Technician",
     "location": "San Carlos, CA",
     "url": "https://jobs.ashbyhq.com/1x/83b69d9f-d72c-4509-a438-19c0c16b672e",
@@ -2152,6 +2175,22 @@
     "source": "Greenhouse",
     "posted": "2026-10-12",
     "snippet": "About Neuralink: We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world. Team Description: Neuralink's Information Technology team owns the corporate environment that every engineer, scientist, and clinician depends on to do their work. Within IT, the Compute function is responsible for the physical and server infrastructure that powers neural recording training, data processing, and engineering workloads: the data cente"
+  },
+  {
+    "title": "Propulsion Engineer, Components Manufacturing Fabrication (Raptor)",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8959423002?gh_jid=8959423002",
+    "pay": "",
+    "metro": "LA",
+    "level_signal": "none",
+    "years_required": 1,
+    "flags": [
+      "ITAR/US-person"
+    ],
+    "company": "SpaceX",
+    "source": "Greenhouse",
+    "posted": "2026-11-23",
+    "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. PROPULSION ENGINEER, COMPONENTS MANUFACTURING FABRICATION (RAPTOR) The Raptor Components team develops the most advanced engine control components in the world. Our engineers are hardware experts for flow control devices that enable the Raptor engine, integrating pneumatics, mechanical, electrical, and software into i"
   },
   {
     "title": "Electrical Design Engineer (Starfall Avionics)",
