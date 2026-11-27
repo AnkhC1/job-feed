@@ -1,6 +1,6 @@
-# Job feed 2026-11-26 (258 candidates: 24 title / 30 body / 34 intern / 170 none)
+# Job feed 2026-11-27 (258 candidates: 24 title / 30 body / 34 intern / 170 none)
 
-Generated 2026-11-26 10:16 ET from 63/63 boards. Leads only - read each posting before using it.
+Generated 2026-11-27 10:05 ET from 63/63 boards. Leads only - read each posting before using it.
 
 ## Explicit entry-level in title (24)
 
@@ -207,6 +207,8 @@ Generated 2026-11-26 10:16 ET from 63/63 boards. Leads only - read each posting 
   https://careers.formlabs.com/job/8318822/apply/?gh_jid=8318822
 - **Formlabs - Materials Manufacturing Innovation Engineer** | Boston (Somerville, MA) | posted 2026-10-22 | pay not listed
   https://careers.formlabs.com/job/8282331/apply/?gh_jid=8282331
+- **The Bot Company - Manufacturing Engineer, NPI** | SF Bay (San Francisco) | posted 2026-11-26 | $200K – $350K
+  https://jobs.ashbyhq.com/thebotcompany/0d77886e-8801-4b4d-a7d4-467f15208e65
 - **SpaceX - Software Engineer, Low Latency Computing (Starlink)** | SF Bay (Palo Alto, CA) | posted 2026-11-25 | pay not listed | 2+ yrs, ITAR/US-person
   https://boards.greenhouse.io/spacex/jobs/8962757002?gh_jid=8962757002
 - **SpaceX - Software Engineer, High Performance Computing (Starlink)** | SF Bay (Palo Alto, CA) | posted 2026-11-25 | pay not listed | 2+ yrs, ITAR/US-person
@@ -267,16 +269,14 @@ Generated 2026-11-26 10:16 ET from 63/63 boards. Leads only - read each posting 
   https://jobs.lever.co/zoox/d53c9355-98ca-4d28-a769-cd54e85ff025
 - **SpaceX - Server Hardware Systems Engineer (Starlink)** | SF Bay (Palo Alto, CA) | posted 2026-11-10 | pay not listed | 1+ yrs, ITAR/US-person
   https://boards.greenhouse.io/spacex/jobs/8934113002?gh_jid=8934113002
-- **Applied Intuition - Software Engineer - Controls** | SF Bay (Sunnyvale) | posted 2026-11-10 | $150K – $250K • Offers Equity | 2+ yrs
-  https://jobs.ashbyhq.com/applied/351d255a-42cf-43ec-b2f1-2a15369415d1
 
 _130 more in jobs_feed.json (level_signal = none)._
 
 ## Diagnostics
 
-Pipeline: fetched: 7865 | older than cutoff: 4821 | defense/HVAC: 371 | outside target metros: 1106 | senior title: 858 | PhD/MBA internship: 25 | off-track title: 358 | 3+ years required: 68 | kept: 224 | kept (internships): 34
+Pipeline: fetched: 7873 | older than cutoff: 4868 | defense/HVAC: 369 | outside target metros: 1099 | senior title: 840 | PhD/MBA internship: 25 | off-track title: 347 | 3+ years required: 67 | kept: 224 | kept (internships): 34
 
 Boards that failed (fix token or delete):
 - none
 
-Jobs per board: Locus Robotics (greenhouse): 9; Gecko Robotics (ashby): 24; Agility Robotics (greenhouse): 71; Skydio (ashby): 186; Zipline (greenhouse): 312; Dexterity (lever): 14; Figure (greenhouse): 102; Apptronik (greenhouse): 87; Path Robotics (greenhouse): 64; Formic (greenhouse): 72; Boxbot (lever): 5; ANYbotics (lever): 30; Carbon Robotics (ashby): 4; Pickle Robot (lever): 11; Machina Labs (ashby): 30; Bright Machines (lever): 14; Neuralink (greenhouse): 75; Standard Bots (ashby): 25; Icarus Robotics (greenhouse): 30; 1X (ashby): 116; Reflex Robotics (ashby): 8; Tutor Intelligence (lever): 0; Physical Intelligence (ashby): 45; The Bot Company (ashby): 7; Collaborative Robotics (ashby): 12; Dyna Robotics (ashby): 25; Diligent Robotics (greenhouse): 9; Mujin (lever): 82; Ambi Robotics (lever): 5; Nimble Robotics (greenhouse): 32; Serve Robotics (ashby): 13; Bedrock Robotics (ashby): 63; Field AI (lever): 70; Persona AI (ashby): 13; Sanctuary AI (ashby): 9; Agtonomy (lever): 6; Built Robotics (ashby): 7; Cobalt Robotics (lever): 10; Watney Robotics (ashby): 26; Robust AI (lever): 6; Formlabs (greenhouse): 278; Markforged (greenhouse): 1; Waymo (greenhouse): 356; Nuro (greenhouse): 107; Applied Intuition (ashby): 330; Zoox (lever): 246; Outrider (greenhouse): 9; Kodiak Robotics (greenhouse): 52; Stack AV (greenhouse): 14; May Mobility (greenhouse): 34; Aeva (lever): 50; SpaceX (greenhouse): 2889; Relativity Space (greenhouse): 404; Varda Space (greenhouse): 136; Impulse Space (ashby): 2; Inversion Space (greenhouse): 53; Astranis (greenhouse): 163; Rocket Lab (greenhouse): 554; Muon Space (greenhouse): 128; Planet (greenhouse): 103; Radiant (ashby): 120; Helion (ashby): 64; Pacific Fusion (greenhouse): 43
+Jobs per board: Locus Robotics (greenhouse): 9; Gecko Robotics (ashby): 24; Agility Robotics (greenhouse): 71; Skydio (ashby): 186; Zipline (greenhouse): 316; Dexterity (lever): 14; Figure (greenhouse): 101; Apptronik (greenhouse): 87; Path Robotics (greenhouse): 64; Formic (greenhouse): 72; Boxbot (lever): 5; ANYbotics (lever): 30; Carbon Robotics (ashby): 4; Pickle Robot (lever): 11; Machina Labs (ashby): 30; Bright Machines (lever): 14; Neuralink (greenhouse): 75; Standard Bots (ashby): 25; Icarus Robotics (greenhouse): 30; 1X (ashby): 116; Reflex Robotics (ashby): 8; Tutor Intelligence (lever): 0; Physical Intelligence (ashby): 45; The Bot Company (ashby): 8; Collaborative Robotics (ashby): 12; Dyna Robotics (ashby): 25; Diligent Robotics (greenhouse): 9; Mujin (lever): 84; Ambi Robotics (lever): 5; Nimble Robotics (greenhouse): 31; Serve Robotics (ashby): 13; Bedrock Robotics (ashby): 63; Field AI (lever): 70; Persona AI (ashby): 13; Sanctuary AI (ashby): 9; Agtonomy (lever): 6; Built Robotics (ashby): 7; Cobalt Robotics (lever): 10; Watney Robotics (ashby): 26; Robust AI (lever): 6; Formlabs (greenhouse): 283; Markforged (greenhouse): 1; Waymo (greenhouse): 356; Nuro (greenhouse): 107; Applied Intuition (ashby): 330; Zoox (lever): 246; Outrider (greenhouse): 9; Kodiak Robotics (greenhouse): 51; Stack AV (greenhouse): 14; May Mobility (greenhouse): 34; Aeva (lever): 50; SpaceX (greenhouse): 2889; Relativity Space (greenhouse): 404; Varda Space (greenhouse): 135; Impulse Space (ashby): 2; Inversion Space (greenhouse): 53; Astranis (greenhouse): 163; Rocket Lab (greenhouse): 553; Muon Space (greenhouse): 129; Planet (greenhouse): 103; Radiant (ashby): 120; Helion (ashby): 64; Pacific Fusion (greenhouse): 43

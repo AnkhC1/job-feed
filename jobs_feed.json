@@ -1475,6 +1475,20 @@
     "snippet": "About Formlabs: Do you want to change how the world creates? At Formlabs, we\u2019re building the tools that make it possible for anyone to bring their ideas to life, from cutting-edge products to life-saving medical devices. Our 3D printing technology powers innovation at more than 50,000 industry leaders worldwide, including Apple, Google, Tesla, New Balance, and NASA. Together, we\u2019re helping everyone design, prototype, and manufacture faster than ever before. We\u2019re a team of hands-on builders, engineers, and innovators reinventing how the world makes physical things. If you\u2019re ready to shape the"
   },
   {
+    "title": "Manufacturing Engineer, NPI",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/thebotcompany/0d77886e-8801-4b4d-a7d4-467f15208e65",
+    "pay": "$200K \u2013 $350K",
+    "metro": "SF Bay",
+    "level_signal": "none",
+    "years_required": null,
+    "flags": [],
+    "company": "The Bot Company",
+    "source": "Ashby",
+    "posted": "2026-11-26",
+    "snippet": "THE BOT COMPANY\n\nWe're building a helpful robot for every home.\n\nWe're a small team of engineers, designers, and operators based in San Francisco. Our team comes from Tesla, Cruise, OpenAI, Google, Pixar, and many other great companies. In the past we've shipped to hundreds of millions of users and know what it takes to build amazing products and experiences.\n\nOur team is deliberately lean to promote rapid decision making and do away with bureaucracy and hierarchy. Everyone is an IC and is empowered with massive scope, radical ownership, and direct responsibility. We work across the stack with"
+  },
+  {
     "title": "Software Engineer, Low Latency Computing (Starlink)   ",
     "location": "Palo Alto, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8962757002?gh_jid=8962757002",
@@ -2317,20 +2331,6 @@
     "source": "Greenhouse",
     "posted": "2026-10-14",
     "snippet": "Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver\u2014The World's Most Experienced Driver\u2122\u2014to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo\u2019s fully autonomous ride-hail service and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over ten million rider-only trips, enabled by its experience autonomously drivi"
-  },
-  {
-    "title": "Systems Engineer - Compute",
-    "location": "Austin, Texas, United States; South San Francisco, California, United States",
-    "url": "https://boards.greenhouse.io/neuralink/jobs/8027961003?gh_jid=8027961003",
-    "pay": "",
-    "metro": "SF Bay",
-    "level_signal": "none",
-    "years_required": null,
-    "flags": [],
-    "company": "Neuralink",
-    "source": "Greenhouse",
-    "posted": "2026-10-12",
-    "snippet": "About Neuralink: We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world. Team Description: Neuralink's Information Technology team owns the corporate environment that every engineer, scientist, and clinician depends on to do their work. Within IT, the Compute function is responsible for the physical and server infrastructure that powers neural recording training, data processing, and engineering workloads: the data cente"
   },
   {
     "title": "Software Engineer, Flight Software (Starship)",
